@@ -1,0 +1,2364 @@
+BROAD_ANCESTRAL_CATEGORY,YEAR,total_country,Prop,Trait
+Aboriginal Australian,2005,0,0,All traits
+Aboriginal Australian,2006,0,0,All traits
+Aboriginal Australian,2007,0,0,All traits
+Aboriginal Australian,2008,0,0,All traits
+Aboriginal Australian,2009,0,0,All traits
+Aboriginal Australian,2010,0,0,All traits
+Aboriginal Australian,2011,0,0,All traits
+Aboriginal Australian,2012,0,0,All traits
+Aboriginal Australian,2013,0,0,All traits
+Aboriginal Australian,2014,0,0,All traits
+Aboriginal Australian,2015,752,0.000123417016744834,All traits
+Aboriginal Australian,2016,0,0,All traits
+Aboriginal Australian,2017,0,0,All traits
+Aboriginal Australian,2018,0,0,All traits
+Aboriginal Australian,2019,0,0,All traits
+Aboriginal Australian,2020,0,0,All traits
+Aboriginal Australian,2021,0,0,All traits
+African American or Afro-Caribbean,2005,0,0,All traits
+African American or Afro-Caribbean,2006,0,0,All traits
+African American or Afro-Caribbean,2007,2171,0.0046407233628678,All traits
+African American or Afro-Caribbean,2008,648,0.000812453609901904,All traits
+African American or Afro-Caribbean,2009,33858.8571428571,0.0250486654017555,All traits
+African American or Afro-Caribbean,2010,13322.6666666667,0.00645893611134813,All traits
+African American or Afro-Caribbean,2011,93253,0.0333302833679909,All traits
+African American or Afro-Caribbean,2012,40851.4166666667,0.0149523925255515,All traits
+African American or Afro-Caribbean,2013,66287.9166666667,0.0222303323509514,All traits
+African American or Afro-Caribbean,2014,89958,0.0368200460056156,All traits
+African American or Afro-Caribbean,2015,93119,0.0152825388061997,All traits
+African American or Afro-Caribbean,2016,163540.666666667,0.0125511527356142,All traits
+African American or Afro-Caribbean,2017,124128.527777778,0.0113537354605683,All traits
+African American or Afro-Caribbean,2018,280239.75,0.00594843259186613,All traits
+African American or Afro-Caribbean,2019,858993.659090909,0.0172312899725932,All traits
+African American or Afro-Caribbean,2020,194112.5,0.00755776019731415,All traits
+African American or Afro-Caribbean,2021,293588.633333333,0.00788850554353711,All traits
+African unspecified,2005,0,0,All traits
+African unspecified,2006,0,0,All traits
+African unspecified,2007,0,0,All traits
+African unspecified,2008,0,0,All traits
+African unspecified,2009,1033,0.000764209827013375,All traits
+African unspecified,2010,10271.5,0.00497970593482628,All traits
+African unspecified,2011,1568,0.00056043113166343,All traits
+African unspecified,2012,0,0,All traits
+African unspecified,2013,17385.75,0.00583048947840749,All traits
+African unspecified,2014,4143,0.00169574079683036,All traits
+African unspecified,2015,18672.4333333333,0.00306448938479626,All traits
+African unspecified,2016,75361.9166666667,0.0057837536425107,All traits
+African unspecified,2017,82539,0.00754964219713897,All traits
+African unspecified,2018,22809.0833333333,0.000484150784071819,All traits
+African unspecified,2019,138363.242424242,0.00277554685826617,All traits
+African unspecified,2020,70557.6666666667,0.00274715912034873,All traits
+African unspecified,2021,136600.45,0.00367035124909354,All traits
+Asian unspecified,2005,2,0.00129032258064516,All traits
+Asian unspecified,2006,0,0,All traits
+Asian unspecified,2007,0,0,All traits
+Asian unspecified,2008,51.75,6.48834480129993e-05,All traits
+Asian unspecified,2009,250.857142857143,0.000185583246609803,All traits
+Asian unspecified,2010,51.6666666666667,2.50484161644055e-05,All traits
+Asian unspecified,2011,2003,0.000715907880562404,All traits
+Asian unspecified,2012,51341.1666666667,0.018791839778378,All traits
+Asian unspecified,2013,18701.5,0.00627173972825088,All traits
+Asian unspecified,2014,839.333333333333,0.00034354134092999,All traits
+Asian unspecified,2015,5001.3,0.000820805220539808,All traits
+Asian unspecified,2016,44371.25,0.00340533242997738,All traits
+Asian unspecified,2017,46221.5277777778,0.0042277710721882,All traits
+Asian unspecified,2018,119732.683333333,0.00254147313452708,All traits
+Asian unspecified,2019,29334.3333333333,0.000588442532107072,All traits
+Asian unspecified,2020,115579.75,0.0045000916178274,All traits
+Asian unspecified,2021,455099,0.0122281674995303,All traits
+Central Asian,2005,0,0,All traits
+Central Asian,2006,0,0,All traits
+Central Asian,2007,0,0,All traits
+Central Asian,2008,0,0,All traits
+Central Asian,2009,0,0,All traits
+Central Asian,2010,0,0,All traits
+Central Asian,2011,0,0,All traits
+Central Asian,2012,0,0,All traits
+Central Asian,2013,0,0,All traits
+Central Asian,2014,0,0,All traits
+Central Asian,2015,0,0,All traits
+Central Asian,2016,0,0,All traits
+Central Asian,2017,0,0,All traits
+Central Asian,2018,0,0,All traits
+Central Asian,2019,218.409090909091,4.38125513299827e-06,All traits
+Central Asian,2020,0,0,All traits
+Central Asian,2021,0,0,All traits
+East Asian,2005,0,0,All traits
+East Asian,2006,0,0,All traits
+East Asian,2007,12822,0.0274082703632846,All traits
+East Asian,2008,45922,0.0575763806696223,All traits
+East Asian,2009,103951,0.0769025902496296,All traits
+East Asian,2010,287488,0.139376498056889,All traits
+East Asian,2011,360192,0.128739037102114,All traits
+East Asian,2012,581538.25,0.212854018101101,All traits
+East Asian,2013,408364.5,0.136949221092282,All traits
+East Asian,2014,404616,0.165610393012386,All traits
+East Asian,2015,386969.2,0.063508755633158,All traits
+East Asian,2016,459131,0.035236638226508,All traits
+East Asian,2017,586094.75,0.0536086656746703,All traits
+East Asian,2018,1363225.25,0.0289361288223917,All traits
+East Asian,2019,1811218.65909091,0.0363327873125358,All traits
+East Asian,2020,1280071.5,0.0498395179723934,All traits
+East Asian,2021,2219063.66041667,0.0596245698885208,All traits
+European,2005,1285,0.829032258064516,All traits
+European,2006,3561,0.692128279883382,All traits
+European,2007,441685,0.944144587069675,All traits
+European,2008,738206.5,0.92555329595378,All traits
+European,2009,1178059.85714286,0.871524607588135,All traits
+European,2010,1704806.66666667,0.826504003868122,All traits
+European,2011,2186880.16666667,0.781629927689611,All traits
+European,2012,2009264.41666667,0.735428846709679,All traits
+European,2013,2348615.16666667,0.787632171064134,All traits
+European,2014,1858429,0.760659877700374,All traits
+European,2015,5391364.93333333,0.884822042891899,All traits
+European,2016,12019455.4166667,0.922449588890154,All traits
+European,2017,9895573.27777778,0.905124093856139,All traits
+European,2018,45001401.7173759,0.955209975227637,All traits
+European,2019,46043508.4924242,0.923626196528831,All traits
+European,2020,23715341.8944444,0.923355616127395,All traits
+European,2021,32915582.8377606,0.884416929689589,All traits
+Greater Middle Eastern (Middle Eastern,2005,0,0,All traits
+Greater Middle Eastern (Middle Eastern,2006,0,0,All traits
+Greater Middle Eastern (Middle Eastern,2007,0,0,All traits
+Greater Middle Eastern (Middle Eastern,2008,0,0,All traits
+Greater Middle Eastern (Middle Eastern,2009,1755,0.00129834292972747,All traits
+Greater Middle Eastern (Middle Eastern,2010,309,0.000149805688931638,All traits
+Greater Middle Eastern (Middle Eastern,2011,10382.1666666667,0.00371077131002445,All traits
+Greater Middle Eastern (Middle Eastern,2012,2434,0.000890890117817839,All traits
+Greater Middle Eastern (Middle Eastern,2013,2324.66666666667,0.00077960079610052,All traits
+Greater Middle Eastern (Middle Eastern,2014,1643,0.000672484221383607,All traits
+Greater Middle Eastern (Middle Eastern,2015,2692.5,0.000441888720193437,All traits
+Greater Middle Eastern (Middle Eastern,2016,6304.5,0.000483847498206437,All traits
+Greater Middle Eastern (Middle Eastern,2017,7281.02777777778,0.000665977956476963,All traits
+Greater Middle Eastern (Middle Eastern,2018,1304.5,2.76896133260516e-05,All traits
+Greater Middle Eastern (Middle Eastern,2019,1409.90909090909,2.82825747586557e-05,All traits
+Greater Middle Eastern (Middle Eastern,2020,45,1.75207268403187e-06,All traits
+Greater Middle Eastern (Middle Eastern,2021,19939.5,0.000535759353144888,All traits
+Hispanic or Latin American,2005,0,0,All traits
+Hispanic or Latin American,2006,0,0,All traits
+Hispanic or Latin American,2007,3701,0.00791124696728408,All traits
+Hispanic or Latin American,2008,91.75,0.000115034905414351,All traits
+Hispanic or Latin American,2009,11244.8571428571,0.00831890642007064,All traits
+Hispanic or Latin American,2010,13455.3333333333,0.00652325397995092,All traits
+Hispanic or Latin American,2011,13948,0.00498526366354689,All traits
+Hispanic or Latin American,2012,9366.66666666667,0.00342837747338829,All traits
+Hispanic or Latin American,2013,23896,0.00801376855045227,All traits
+Hispanic or Latin American,2014,36444.6666666667,0.0149168979226527,All traits
+Hispanic or Latin American,2015,44253.1333333333,0.0072627522574619,All traits
+Hispanic or Latin American,2016,117910.916666667,0.00904923499728676,All traits
+Hispanic or Latin American,2017,89339,0.00817162170913384,All traits
+Hispanic or Latin American,2018,180321,0.00382753450714216,All traits
+Hispanic or Latin American,2019,770949.25,0.0154651317158295,All traits
+Hispanic or Latin American,2020,107212.416666667,0.00417430992512689,All traits
+Hispanic or Latin American,2021,998560.716666667,0.0268305746702389,All traits
+Native American,2005,0,0,All traits
+Native American,2006,0,0,All traits
+Native American,2007,6099,0.0130372048779966,All traits
+Native American,2008,51.75,6.48834480129993e-05,All traits
+Native American,2009,250.857142857143,0.000185583246609803,All traits
+Native American,2010,0,0,All traits
+Native American,2011,2,7.14835627121722e-07,All traits
+Native American,2012,0,0,All traits
+Native American,2013,3773,0.00126531422584769,All traits
+Native American,2014,320,0.000130976841657185,All traits
+Native American,2015,2154,0.000353510976154749,All traits
+Native American,2016,445.333333333333,3.4177717376678e-05,All traits
+Native American,2017,10117.5277777778,0.00092542573379659,All traits
+Native American,2018,99,2.10139648852365e-06,All traits
+Native American,2019,14211.4090909091,0.000285078834253287,All traits
+Native American,2020,73,2.84225124298504e-06,All traits
+Native American,2021,1338,3.59510526596885e-05,All traits
+North African or Persian),2005,0,0,All traits
+North African or Persian),2006,0,0,All traits
+North African or Persian),2007,0,0,All traits
+North African or Persian),2008,0,0,All traits
+North African or Persian),2009,1755,0.00129834292972747,All traits
+North African or Persian),2010,309,0.000149805688931638,All traits
+North African or Persian),2011,10382.1666666667,0.00371077131002445,All traits
+North African or Persian),2012,2434,0.000890890117817839,All traits
+North African or Persian),2013,2324.66666666667,0.00077960079610052,All traits
+North African or Persian),2014,1643,0.000672484221383607,All traits
+North African or Persian),2015,2692.5,0.000441888720193437,All traits
+North African or Persian),2016,6304.5,0.000483847498206437,All traits
+North African or Persian),2017,7281.02777777778,0.000665977956476963,All traits
+North African or Persian),2018,1304.5,2.76896133260516e-05,All traits
+North African or Persian),2019,1409.90909090909,2.82825747586557e-05,All traits
+North African or Persian),2020,45,1.75207268403187e-06,All traits
+North African or Persian),2021,19939.5,0.000535759353144888,All traits
+Oceanian,2005,0,0,All traits
+Oceanian,2006,0,0,All traits
+Oceanian,2007,0,0,All traits
+Oceanian,2008,51.75,6.48834480129993e-05,All traits
+Oceanian,2009,7949.85714285714,0.00588127681696409,All traits
+Oceanian,2010,0,0,All traits
+Oceanian,2011,0,0,All traits
+Oceanian,2012,518.166666666667,0.000189658817878366,All traits
+Oceanian,2013,1493,0.000500692854277923,All traits
+Oceanian,2014,0,0,All traits
+Oceanian,2015,0,0,All traits
+Oceanian,2016,0,0,All traits
+Oceanian,2017,7652.02777777778,0.000699912426910801,All traits
+Oceanian,2018,0,0,All traits
+Oceanian,2019,50523,0.0010134841556417,All traits
+Oceanian,2020,513,1.99736285979633e-05,All traits
+Oceanian,2021,4442,0.000119353195750625,All traits
+Other,2005,263,0.169677419354839,All traits
+Other,2006,1584,0.307871720116618,All traits
+Other,2007,1337,0.00285796735889187,All traits
+Other,2008,12560.5,0.0157481845172421,All traits
+Other,2009,5256.85714285714,0.00388900473163299,All traits
+Other,2010,32460.1666666667,0.0157369502599864,All traits
+Other,2011,24136.5,0.00862681505701172,All traits
+Other,2012,5167.66666666667,0.00189146391352095,All traits
+Other,2013,23858.8333333333,0.00800130432780168,All traits
+Other,2014,14777,0.00604826496615067,All traits
+Other,2015,12757.8,0.0020937893832809,All traits
+Other,2016,492.5,3.77975878922469e-05,All traits
+Other,2017,1094.52777777778,0.000100113801924567,All traits
+Other,2018,0,0,All traits
+Other,2019,3845,7.71301501977782e-05,All traits
+Other,2020,0,0,All traits
+Other,2021,5349,0.000143723602897365,All traits
+Other admixed ancestry,2005,0,0,All traits
+Other admixed ancestry,2006,0,0,All traits
+Other admixed ancestry,2007,0,0,All traits
+Other admixed ancestry,2008,0,0,All traits
+Other admixed ancestry,2009,0,0,All traits
+Other admixed ancestry,2010,0,0,All traits
+Other admixed ancestry,2011,0,0,All traits
+Other admixed ancestry,2012,0,0,All traits
+Other admixed ancestry,2013,0,0,All traits
+Other admixed ancestry,2014,0,0,All traits
+Other admixed ancestry,2015,0,0,All traits
+Other admixed ancestry,2016,0,0,All traits
+Other admixed ancestry,2017,5499.77777777778,0.000503051337985659,All traits
+Other admixed ancestry,2018,2948,6.25749176582599e-05,All traits
+Other admixed ancestry,2019,533.909090909091,1.07101400191879e-05,All traits
+Other admixed ancestry,2020,73,2.84225124298504e-06,All traits
+Other admixed ancestry,2021,3806,0.000102264354576065,All traits
+South Asian,2005,0,0,All traits
+South Asian,2006,0,0,All traits
+South Asian,2007,0,0,All traits
+South Asian,2008,0,0,All traits
+South Asian,2009,0,0,All traits
+South Asian,2010,0,0,All traits
+South Asian,2011,89326,0.0319267036141375,All traits
+South Asian,2012,18238.25,0.0066755450662659,All traits
+South Asian,2013,55755,0.018698010777137,All traits
+South Asian,2014,23125,0.00946512332288247,All traits
+South Asian,2015,132734,0.0217840881657031,All traits
+South Asian,2016,133244,0.0102259935048011,All traits
+South Asian,2017,64751,0.00592261696782061,All traits
+South Asian,2018,132856.75,0.0028200475548148,All traits
+South Asian,2019,115974.409090909,0.0023264300630118,All traits
+South Asian,2020,197888.25,0.00770476882924156,All traits
+South Asian,2021,136445.766666667,0.00366619502438334,All traits
+South East Asian,2005,0,0,All traits
+South East Asian,2006,0,0,All traits
+South East Asian,2007,0,0,All traits
+South East Asian,2008,0,0,All traits
+South East Asian,2009,854,0.000631786246146585,All traits
+South East Asian,2010,0,0,All traits
+South East Asian,2011,4068,0.00145397566556558,All traits
+South East Asian,2012,2034,0.000744482538883108,All traits
+South East Asian,2013,1998,0.000670049780875612,All traits
+South East Asian,2014,0,0,All traits
+South East Asian,2015,0.2,3.28236746661791e-08,All traits
+South East Asian,2016,0,0,All traits
+South East Asian,2017,2603,0.000238090098488626,All traits
+South East Asian,2018,2037,4.32378247184109e-05,All traits
+South East Asian,2019,975.409090909091,1.95665668884516e-05,All traits
+South East Asian,2020,0,0,All traits
+South East Asian,2021,5924.5,0.000159186854620572,All traits
+Sub-Saharan African,2005,0,0,All traits
+Sub-Saharan African,2006,0,0,All traits
+Sub-Saharan African,2007,0,0,All traits
+Sub-Saharan African,2008,0,0,All traits
+Sub-Saharan African,2009,5503,0.00407110036597735,All traits
+Sub-Saharan African,2010,198,9.59919948493992e-05,All traits
+Sub-Saharan African,2011,1705,0.000609397372121268,All traits
+Sub-Saharan African,2012,8911,0.00326159483971847,All traits
+Sub-Saharan African,2013,7090,0.00237770417738143,All traits
+Sub-Saharan African,2014,7242,0.00296416964775416,All traits
+Sub-Saharan African,2015,0,0,All traits
+Sub-Saharan African,2016,3370,0.00025863527146573,All traits
+Sub-Saharan African,2017,2660,0.000243303750280348,All traits
+Sub-Saharan African,2018,3249,6.89640120324581e-05,All traits
+Sub-Saharan African,2019,9335,0.00018725876517458,All traits
+Sub-Saharan African,2020,2353,9.16139339005999e-05,All traits
+Sub-Saharan African,2021,1589.5,4.27086683128363e-05,All traits
+African American or Afro-Caribbean,2007,2171,0.012765181805353,Cancer
+African American or Afro-Caribbean,2008,2,6.41957714245363e-06,Cancer
+African American or Afro-Caribbean,2009,7757,0.0151669795088378,Cancer
+African American or Afro-Caribbean,2010,79,0.000154646339481994,Cancer
+African American or Afro-Caribbean,2011,14282,0.0222561940069408,Cancer
+African American or Afro-Caribbean,2012,24636,0.0295608351331893,Cancer
+African American or Afro-Caribbean,2013,23239.75,0.0270864608197822,Cancer
+African American or Afro-Caribbean,2014,14290.5,0.0142698230264347,Cancer
+African American or Afro-Caribbean,2015,7269,0.00329791182157793,Cancer
+African American or Afro-Caribbean,2016,58815.6666666667,0.0322581470802727,Cancer
+African American or Afro-Caribbean,2017,39215,0.0134847031233344,Cancer
+African American or Afro-Caribbean,2018,21688,0.00438782568549155,Cancer
+African American or Afro-Caribbean,2019,2591,0.000681161123392692,Cancer
+African American or Afro-Caribbean,2020,5342,0.0011592954903579,Cancer
+African American or Afro-Caribbean,2021,10677,0.00289467622262767,Cancer
+African unspecified,2007,0,0,Cancer
+African unspecified,2008,0,0,Cancer
+African unspecified,2009,53,0.000103628969185046,Cancer
+African unspecified,2010,0,0,Cancer
+African unspecified,2011,311,0.000484643350802311,Cancer
+African unspecified,2012,0,0,Cancer
+African unspecified,2013,180.75,0.000210668264210055,Cancer
+African unspecified,2014,0,0,Cancer
+African unspecified,2015,1975.6,0.000896320621090847,Cancer
+African unspecified,2016,541.25,0.000296854955434736,Cancer
+African unspecified,2017,4149,0.00142669981534399,Cancer
+African unspecified,2018,0,0,Cancer
+African unspecified,2019,3910,0.00102791971920703,Cancer
+African unspecified,2020,6550,0.00142144991797908,Cancer
+African unspecified,2021,34105,0.00924631755855732,Cancer
+Asian unspecified,2007,0,0,Cancer
+Asian unspecified,2008,0,0,Cancer
+Asian unspecified,2009,29,5.6702643516346e-05,Cancer
+Asian unspecified,2010,0,0,Cancer
+Asian unspecified,2011,189,0.000294526023477932,Cancer
+Asian unspecified,2012,0,0,Cancer
+Asian unspecified,2013,2607.5,0.00303910096225571,Cancer
+Asian unspecified,2014,0,0,Cancer
+Asian unspecified,2015,4529.6,0.00205505865827754,Cancer
+Asian unspecified,2016,333.916666666667,0.000183140539865587,Cancer
+Asian unspecified,2017,0,0,Cancer
+Asian unspecified,2018,50,1.01157914180458e-05,Cancer
+Asian unspecified,2019,203,5.33676989767335e-05,Cancer
+Asian unspecified,2020,122,2.6475861067702e-05,Cancer
+Asian unspecified,2021,10863,0.00294510328804012,Cancer
+East Asian,2007,9054,0.0532362764005833,Cancer
+East Asian,2008,7579,0.024326987581328,Cancer
+East Asian,2009,26677,0.0521605662443297,Cancer
+East Asian,2010,109850,0.215036713824012,Cancer
+East Asian,2011,112401,0.175158833676947,Cancer
+East Asian,2012,233100,0.279697624190065,Cancer
+East Asian,2013,75594.5,0.088107120878711,Cancer
+East Asian,2014,195673,0.195389880063788,Cancer
+East Asian,2015,104008,0.0471879505762385,Cancer
+East Asian,2016,157421,0.0863394068166125,Cancer
+East Asian,2017,59575,0.0204858138103442,Cancer
+East Asian,2018,270765,0.0547800452661434,Cancer
+East Asian,2019,667480,0.175477200556601,Cancer
+East Asian,2020,70472,0.015293499025927,Cancer
+East Asian,2021,234803.26875,0.0636582784532995,Cancer
+European,2007,156670,0.921198080812832,Cancer
+European,2008,298500.5,0.958123493405489,Cancer
+European,2009,461301,0.901965039887377,Cancer
+European,2010,400300,0.783606704995468,Cancer
+European,2011,470907.166666667,0.733832884791497,Cancer
+European,2012,570677,0.684757619390449,Cancer
+European,2013,750219,0.8743974246606,Cancer
+European,2014,764701,0.763594551494884,Cancer
+European,2015,2080839.6,0.944067342914775,Cancer
+European,2016,1595963.75,0.87532516929645,Cancer
+European,2017,2797774,0.962059206838806,Cancer
+European,2018,4628729,0.936465141893195,Cancer
+European,2019,3121203,0.820548877582648,Cancer
+European,2020,4525439,0.982089297002954,Cancer
+European,2021,3389192.15486179,0.918854916605286,Cancer
+Greater Middle Eastern (Middle Eastern,2007,0,0,Cancer
+Greater Middle Eastern (Middle Eastern,2008,0,0,Cancer
+Greater Middle Eastern (Middle Eastern,2009,0,0,Cancer
+Greater Middle Eastern (Middle Eastern,2010,0,0,Cancer
+Greater Middle Eastern (Middle Eastern,2011,10193.1666666667,0.0158844065872018,Cancer
+Greater Middle Eastern (Middle Eastern,2012,0,0,Cancer
+Greater Middle Eastern (Middle Eastern,2013,329.5,0.000384039795613904,Cancer
+Greater Middle Eastern (Middle Eastern,2014,0,0,Cancer
+Greater Middle Eastern (Middle Eastern,2015,0,0,Cancer
+Greater Middle Eastern (Middle Eastern,2016,0,0,Cancer
+Greater Middle Eastern (Middle Eastern,2017,0,0,Cancer
+Greater Middle Eastern (Middle Eastern,2018,0,0,Cancer
+Greater Middle Eastern (Middle Eastern,2019,0,0,Cancer
+Greater Middle Eastern (Middle Eastern,2020,0,0,Cancer
+Greater Middle Eastern (Middle Eastern,2021,0,0,Cancer
+Hispanic or Latin American,2007,840,0.00493908462298321,Cancer
+Hispanic or Latin American,2008,6,1.92587314273609e-05,Cancer
+Hispanic or Latin American,2009,7757,0.0151669795088378,Cancer
+Hispanic or Latin American,2010,0,0,Cancer
+Hispanic or Latin American,2011,0,0,Cancer
+Hispanic or Latin American,2012,4033.5,0.0048398128149748,Cancer
+Hispanic or Latin American,2013,4526.5,0.00527573940772788,Cancer
+Hispanic or Latin American,2014,15023,0.0150012631696672,Cancer
+Hispanic or Latin American,2015,4703.6,0.00213400165689558,Cancer
+Hispanic or Latin American,2016,7434.25,0.00407740222159941,Cancer
+Hispanic or Latin American,2017,6313,0.00217082572529925,Cancer
+Hispanic or Latin American,2018,20112,0.00406897593999474,Cancer
+Hispanic or Latin American,2019,8354,0.00219622540518045,Cancer
+Hispanic or Latin American,2020,46,9.98270171405159e-06,Cancer
+Hispanic or Latin American,2021,8034,0.00217812388991202,Cancer
+Native American,2007,0,0,Cancer
+Native American,2008,0,0,Cancer
+Native American,2009,29,5.6702643516346e-05,Cancer
+Native American,2010,0,0,Cancer
+Native American,2011,0,0,Cancer
+Native American,2012,0,0,Cancer
+Native American,2013,25,2.91380725048486e-05,Cancer
+Native American,2014,0,0,Cancer
+Native American,2015,0,0,Cancer
+Native American,2016,0,0,Cancer
+Native American,2017,96,3.30111309407141e-05,Cancer
+Native American,2018,0,0,Cancer
+Native American,2019,0,0,Cancer
+Native American,2020,0,0,Cancer
+Native American,2021,0,0,Cancer
+North African or Persian),2007,0,0,Cancer
+North African or Persian),2008,0,0,Cancer
+North African or Persian),2009,0,0,Cancer
+North African or Persian),2010,0,0,Cancer
+North African or Persian),2011,10193.1666666667,0.0158844065872018,Cancer
+North African or Persian),2012,0,0,Cancer
+North African or Persian),2013,329.5,0.000384039795613904,Cancer
+North African or Persian),2014,0,0,Cancer
+North African or Persian),2015,0,0,Cancer
+North African or Persian),2016,0,0,Cancer
+North African or Persian),2017,0,0,Cancer
+North African or Persian),2018,0,0,Cancer
+North African or Persian),2019,0,0,Cancer
+North African or Persian),2020,0,0,Cancer
+North African or Persian),2021,0,0,Cancer
+Oceanian,2007,0,0,Cancer
+Oceanian,2008,0,0,Cancer
+Oceanian,2009,7728,0.0151102768653214,Cancer
+Oceanian,2010,0,0,Cancer
+Oceanian,2011,0,0,Cancer
+Oceanian,2012,0,0,Cancer
+Oceanian,2013,0,0,Cancer
+Oceanian,2014,0,0,Cancer
+Oceanian,2015,0,0,Cancer
+Oceanian,2016,0,0,Cancer
+Oceanian,2017,0,0,Cancer
+Oceanian,2018,0,0,Cancer
+Oceanian,2019,0,0,Cancer
+Oceanian,2020,0,0,Cancer
+Oceanian,2021,648,0.000175681389178864,Cancer
+Other,2007,1337,0.00786137635824827,Cancer
+Other,2008,5459.5,0.0175238407046128,Cancer
+Other,2009,109,0.00021312372907868,Cancer
+Other,2010,614,0.00120193484103727,Cancer
+Other,2011,21527.5,0.0335471374096358,Cancer
+Other,2012,422.5,0.00050695944324454,Cancer
+Other,2013,0,0,Cancer
+Other,2014,6530,0.00652055172055691,Cancer
+Other,2015,796.6,0.000361413751144447,Cancer
+Other,2016,47.1666666666667,2.58691154389623e-05,Cancer
+Other,2017,56,1.92564930487499e-05,Cancer
+Other,2018,0,0,Cancer
+Other,2019,58,1.52479139933524e-05,Cancer
+Other,2020,0,0,Cancer
+Other,2021,0,0,Cancer
+South Asian,2007,0,0,Cancer
+South Asian,2008,0,0,Cancer
+South Asian,2009,0,0,Cancer
+South Asian,2010,0,0,Cancer
+South Asian,2011,0,0,Cancer
+South Asian,2012,531,0.000637149028077754,Cancer
+South Asian,2013,0,0,Cancer
+South Asian,2014,0,0,Cancer
+South Asian,2015,0,0,Cancer
+South Asian,2016,0,0,Cancer
+South Asian,2017,0,0,Cancer
+South Asian,2018,0,0,Cancer
+South Asian,2019,0,0,Cancer
+South Asian,2020,0,0,Cancer
+South Asian,2021,0,0,Cancer
+South East Asian,2007,0,0,Cancer
+South East Asian,2008,0,0,Cancer
+South East Asian,2009,0,0,Cancer
+South East Asian,2010,0,0,Cancer
+South East Asian,2011,0,0,Cancer
+South East Asian,2012,0,0,Cancer
+South East Asian,2013,0,0,Cancer
+South East Asian,2014,0,0,Cancer
+South East Asian,2015,0,0,Cancer
+South East Asian,2016,0,0,Cancer
+South East Asian,2017,0,0,Cancer
+South East Asian,2018,383,7.74869622622309e-05,Cancer
+South East Asian,2019,0,0,Cancer
+South East Asian,2020,0,0,Cancer
+South East Asian,2021,173,4.69025930986781e-05,Cancer
+Sub-Saharan African,2007,0,0,Cancer
+Sub-Saharan African,2008,0,0,Cancer
+Sub-Saharan African,2009,0,0,Cancer
+Sub-Saharan African,2010,0,0,Cancer
+Sub-Saharan African,2011,1705,0.00265696756629563,Cancer
+Sub-Saharan African,2012,0,0,Cancer
+Sub-Saharan African,2013,932,0.00108626734298075,Cancer
+Sub-Saharan African,2014,5231.5,0.00522393052466975,Cancer
+Sub-Saharan African,2015,0,0,Cancer
+Sub-Saharan African,2016,2724,0.0014940099743265,Cancer
+Sub-Saharan African,2017,932,0.000320483062882766,Cancer
+Sub-Saharan African,2018,1040,0.000210408461495353,Cancer
+Sub-Saharan African,2019,0,0,Cancer
+Sub-Saharan African,2020,0,0,Cancer
+Sub-Saharan African,2021,0,0,Cancer
+African American or Afro-Caribbean,2007,0,0,CVD
+African American or Afro-Caribbean,2008,0,0,CVD
+African American or Afro-Caribbean,2009,6093,0.0197280233122875,CVD
+African American or Afro-Caribbean,2010,2895,0.00910950283196979,CVD
+African American or Afro-Caribbean,2011,63159,0.0690008160928707,CVD
+African American or Afro-Caribbean,2012,3962.16666666667,0.00866807117641182,CVD
+African American or Afro-Caribbean,2013,5532.16666666667,0.0107432602572841,CVD
+African American or Afro-Caribbean,2014,2128.5,0.00820537927471926,CVD
+African American or Afro-Caribbean,2015,54919,0.0236185051691149,CVD
+African American or Afro-Caribbean,2016,55384,0.0107349747858733,CVD
+African American or Afro-Caribbean,2017,40160.5277777778,0.0142842811226877,CVD
+African American or Afro-Caribbean,2018,152050.6,0.00846520696750871,CVD
+African American or Afro-Caribbean,2019,94244,0.0115923988383492,CVD
+African American or Afro-Caribbean,2020,56092,0.0137534866751145,CVD
+African American or Afro-Caribbean,2021,181359.933333333,0.0193343694089228,CVD
+African unspecified,2007,0,0,CVD
+African unspecified,2008,0,0,CVD
+African unspecified,2009,980,0.00317306135664562,CVD
+African unspecified,2010,10271.5,0.0323206419131529,CVD
+African unspecified,2011,0,0,CVD
+African unspecified,2012,0,0,CVD
+African unspecified,2013,106.5,0.000206819007152248,CVD
+African unspecified,2014,315,0.00121432674255888,CVD
+African unspecified,2015,15473.5,0.00665454468825543,CVD
+African unspecified,2016,41064.3333333333,0.00795942118539702,CVD
+African unspecified,2017,58141,0.0206795685890794,CVD
+African unspecified,2018,22718.3333333333,0.0012648118035938,CVD
+African unspecified,2019,51433,0.00632647011430771,CVD
+African unspecified,2020,20301.5,0.00497782945401904,CVD
+African unspecified,2021,8192.25,0.000873357113002072,CVD
+Asian unspecified,2007,0,0,CVD
+Asian unspecified,2008,0,0,CVD
+Asian unspecified,2009,0,0,CVD
+Asian unspecified,2010,0,0,CVD
+Asian unspecified,2011,31,3.3867307887696e-05,CVD
+Asian unspecified,2012,518.166666666667,0.00113359833792388,CVD
+Asian unspecified,2013,0,0,CVD
+Asian unspecified,2014,90,0.000346950497873964,CVD
+Asian unspecified,2015,319.7,0.000137490415021505,CVD
+Asian unspecified,2016,0,0,CVD
+Asian unspecified,2017,5423.02777777778,0.00192886044084275,CVD
+Asian unspecified,2018,51421.9333333333,0.00286284505510732,CVD
+Asian unspecified,2019,0,0,CVD
+Asian unspecified,2020,0,0,CVD
+Asian unspecified,2021,0,0,CVD
+East Asian,2007,3580,0.0324946447373198,CVD
+East Asian,2008,1171,0.0257804588085069,CVD
+East Asian,2009,12002,0.0388602881657763,CVD
+East Asian,2010,51405,0.161752674638137,CVD
+East Asian,2011,30573,0.0334008130338881,CVD
+East Asian,2012,67649,0.147996385903273,CVD
+East Asian,2013,33707,0.0654577302730593,CVD
+East Asian,2014,143260,0.552268092504713,CVD
+East Asian,2015,126174.2,0.0542625684172862,CVD
+East Asian,2016,32175,0.00623641870820945,CVD
+East Asian,2017,280112.75,0.099630395526404,CVD
+East Asian,2018,606521.1,0.0337672238166837,CVD
+East Asian,2019,63023,0.00775208768716612,CVD
+East Asian,2020,143544.5,0.0351964160314478,CVD
+East Asian,2021,376595.910416667,0.0401480322365512,CVD
+European,2007,106592,0.96750535526268,CVD
+European,2008,44251,0.974219541191493,CVD
+European,2009,287592,0.931170471102477,CVD
+European,2010,247267.5,0.778060100692259,CVD
+European,2011,792473,0.86577184140923,CVD
+European,2012,374688.166666667,0.819709005416041,CVD
+European,2013,461881.666666667,0.896956880017141,CVD
+European,2014,110130,0.424551759231775,CVD
+European,2015,1971565,0.847892680925474,CVD
+European,2016,4865360.83333333,0.943043584248315,CVD
+European,2017,2341590.77777778,0.832856110087742,CVD
+European,2018,16993848.8333333,0.946109042310409,CVD
+European,2019,7840275,0.964386006561039,CVD
+European,2020,3728694.5,0.914257828590932,CVD
+European,2021,8494551.97801697,0.905584838324872,CVD
+Greater Middle Eastern (Middle Eastern,2007,0,0,CVD
+Greater Middle Eastern (Middle Eastern,2008,0,0,CVD
+Greater Middle Eastern (Middle Eastern,2009,0,0,CVD
+Greater Middle Eastern (Middle Eastern,2010,176,0.000553807426054122,CVD
+Greater Middle Eastern (Middle Eastern,2011,0,0,CVD
+Greater Middle Eastern (Middle Eastern,2012,2248,0.00491797181792128,CVD
+Greater Middle Eastern (Middle Eastern,2013,901,0.0017497082201331,CVD
+Greater Middle Eastern (Middle Eastern,2014,0,0,CVD
+Greater Middle Eastern (Middle Eastern,2015,1631.5,0.000701644079160418,CVD
+Greater Middle Eastern (Middle Eastern,2016,6304.5,0.00122198917625195,CVD
+Greater Middle Eastern (Middle Eastern,2017,5423.02777777778,0.00192886044084275,CVD
+Greater Middle Eastern (Middle Eastern,2018,1053.5,5.86521561918889e-05,CVD
+Greater Middle Eastern (Middle Eastern,2019,0,0,CVD
+Greater Middle Eastern (Middle Eastern,2020,0,0,CVD
+Greater Middle Eastern (Middle Eastern,2021,19640.5,0.00209382896980893,CVD
+Hispanic or Latin American,2007,0,0,CVD
+Hispanic or Latin American,2008,0,0,CVD
+Hispanic or Latin American,2009,0,0,CVD
+Hispanic or Latin American,2010,286,0.000899937067337948,CVD
+Hispanic or Latin American,2011,0,0,CVD
+Hispanic or Latin American,2012,518.166666666667,0.00113359833792388,CVD
+Hispanic or Latin American,2013,4425,0.00859318409998777,CVD
+Hispanic or Latin American,2014,794,0.00306087439235475,CVD
+Hispanic or Latin American,2015,25497.2,0.010965344416285,CVD
+Hispanic or Latin American,2016,50765.3333333333,0.0098397474600929,CVD
+Hispanic or Latin American,2017,34762.5,0.0123643126722601,CVD
+Hispanic or Latin American,2018,65942.6,0.00367126309909754,CVD
+Hispanic or Latin American,2019,74121,0.00911718724053822,CVD
+Hispanic or Latin American,2020,20445,0.00501301495886606,CVD
+Hispanic or Latin American,2021,158260.683333333,0.0168718109796131,CVD
+Native American,2007,0,0,CVD
+Native American,2008,0,0,CVD
+Native American,2009,0,0,CVD
+Native American,2010,0,0,CVD
+Native American,2011,0,0,CVD
+Native American,2012,0,0,CVD
+Native American,2013,0,0,CVD
+Native American,2014,0,0,CVD
+Native American,2015,0,0,CVD
+Native American,2016,0,0,CVD
+Native American,2017,5423.02777777778,0.00192886044084275,CVD
+Native American,2018,7,3.89715323534146e-07,CVD
+Native American,2019,0,0,CVD
+Native American,2020,0,0,CVD
+Native American,2021,0,0,CVD
+North African or Persian),2007,0,0,CVD
+North African or Persian),2008,0,0,CVD
+North African or Persian),2009,0,0,CVD
+North African or Persian),2010,176,0.000553807426054122,CVD
+North African or Persian),2011,0,0,CVD
+North African or Persian),2012,2248,0.00491797181792128,CVD
+North African or Persian),2013,901,0.0017497082201331,CVD
+North African or Persian),2014,0,0,CVD
+North African or Persian),2015,1631.5,0.000701644079160418,CVD
+North African or Persian),2016,6304.5,0.00122198917625195,CVD
+North African or Persian),2017,5423.02777777778,0.00192886044084275,CVD
+North African or Persian),2018,1053.5,5.86521561918889e-05,CVD
+North African or Persian),2019,0,0,CVD
+North African or Persian),2020,0,0,CVD
+North African or Persian),2021,19640.5,0.00209382896980893,CVD
+Oceanian,2007,0,0,CVD
+Oceanian,2008,0,0,CVD
+Oceanian,2009,0,0,CVD
+Oceanian,2010,0,0,CVD
+Oceanian,2011,0,0,CVD
+Oceanian,2012,518.166666666667,0.00113359833792388,CVD
+Oceanian,2013,0,0,CVD
+Oceanian,2014,0,0,CVD
+Oceanian,2015,0,0,CVD
+Oceanian,2016,0,0,CVD
+Oceanian,2017,7652.02777777778,0.00272167030625714,CVD
+Oceanian,2018,0,0,CVD
+Oceanian,2019,0,0,CVD
+Oceanian,2020,0,0,CVD
+Oceanian,2021,0,0,CVD
+Other,2007,0,0,CVD
+Other,2008,0,0,CVD
+Other,2009,2183,0.00706815606281366,CVD
+Other,2010,5323,0.0167495280050346,CVD
+Other,2011,1128,0.001232333009591,CVD
+Other,2012,2284.16666666667,0.00499709399203819,CVD
+Other,2013,7488.66666666667,0.0145427099051092,CVD
+Other,2014,1312,0.00505776725789602,CVD
+Other,2015,4927.2,0.00211899522331548,CVD
+Other,2016,10.5,2.03519491643199e-06,CVD
+Other,2017,251.527777777778,8.94633035657158e-05,CVD
+Other,2018,0,0,CVD
+Other,2019,0,0,CVD
+Other,2020,0,0,CVD
+Other,2021,4264,0.000454575327881941,CVD
+Other admixed ancestry,2007,0,0,CVD
+Other admixed ancestry,2008,0,0,CVD
+Other admixed ancestry,2009,0,0,CVD
+Other admixed ancestry,2010,0,0,CVD
+Other admixed ancestry,2011,0,0,CVD
+Other admixed ancestry,2012,0,0,CVD
+Other admixed ancestry,2013,0,0,CVD
+Other admixed ancestry,2014,0,0,CVD
+Other admixed ancestry,2015,0,0,CVD
+Other admixed ancestry,2016,0,0,CVD
+Other admixed ancestry,2017,5499.77777777778,0.00195615885141725,CVD
+Other admixed ancestry,2018,0,0,CVD
+Other admixed ancestry,2019,0,0,CVD
+Other admixed ancestry,2020,0,0,CVD
+Other admixed ancestry,2021,1055,0.000112471147025199,CVD
+South Asian,2007,0,0,CVD
+South Asian,2008,0,0,CVD
+South Asian,2009,0,0,CVD
+South Asian,2010,0,0,CVD
+South Asian,2011,27973,0.0305603291465329,CVD
+South Asian,2012,2465,0.00539270486262276,CVD
+South Asian,2013,0,0,CVD
+South Asian,2014,0,0,CVD
+South Asian,2015,123114,0.0529464965747813,CVD
+South Asian,2016,101842,0.0197398400646921,CVD
+South Asian,2017,19053,0.00677676373519083,CVD
+South Asian,2018,66440.6,0.00369898856068611,CVD
+South Asian,2019,2078,0.000255602529456408,CVD
+South Asian,2020,109306.5,0.0268014242896206,CVD
+South Asian,2021,110792.766666667,0.0118113645015121,CVD
+South East Asian,2007,0,0,CVD
+South East Asian,2008,0,0,CVD
+South East Asian,2009,0,0,CVD
+South East Asian,2010,0,0,CVD
+South East Asian,2011,0,0,CVD
+South East Asian,2012,0,0,CVD
+South East Asian,2013,0,0,CVD
+South East Asian,2014,0,0,CVD
+South East Asian,2015,0.2,8.60121457751049e-08,CVD
+South East Asian,2016,0,0,CVD
+South East Asian,2017,2603,0.000925834042024969,CVD
+South East Asian,2018,771,4.29243592064038e-05,CVD
+South East Asian,2019,423,5.20307362656692e-05,CVD
+South East Asian,2020,0,0,CVD
+South East Asian,2021,4240.5,0.00045207004640792,CVD
+Sub-Saharan African,2007,0,0,CVD
+Sub-Saharan African,2008,0,0,CVD
+Sub-Saharan African,2009,0,0,CVD
+Sub-Saharan African,2010,0,0,CVD
+Sub-Saharan African,2011,0,0,CVD
+Sub-Saharan African,2012,0,0,CVD
+Sub-Saharan African,2013,0,0,CVD
+Sub-Saharan African,2014,1373.5,0.00529485009810989,CVD
+Sub-Saharan African,2015,0,0,CVD
+Sub-Saharan African,2016,0,0,CVD
+Sub-Saharan African,2017,0,0,CVD
+Sub-Saharan African,2018,0,0,CVD
+Sub-Saharan African,2019,4213,0.000518216292877693,CVD
+Sub-Saharan African,2020,0,0,CVD
+Sub-Saharan African,2021,1589.5,0.00016945297459389,CVD
+African American or Afro-Caribbean,2007,0,0,Chronic respiratory disease
+African American or Afro-Caribbean,2008,0,0,Chronic respiratory disease
+African American or Afro-Caribbean,2009,16045,0.161438000563448,Chronic respiratory disease
+African American or Afro-Caribbean,2010,44,0.000450681143091263,Chronic respiratory disease
+African American or Afro-Caribbean,2011,3915,0.0173762910162578,Chronic respiratory disease
+African American or Afro-Caribbean,2012,1594,0.00725402748703013,Chronic respiratory disease
+African American or Afro-Caribbean,2013,513.5,0.00168577319046118,Chronic respiratory disease
+African American or Afro-Caribbean,2014,19168.6666666667,0.0785063774656963,Chronic respiratory disease
+African American or Afro-Caribbean,2015,10744,0.0622137294073366,Chronic respiratory disease
+African American or Afro-Caribbean,2016,46305,0.0181089776806508,Chronic respiratory disease
+African American or Afro-Caribbean,2017,7624,0.0120634629290607,Chronic respiratory disease
+African American or Afro-Caribbean,2018,14766,0.00166868311452256,Chronic respiratory disease
+African American or Afro-Caribbean,2019,78644.1590909091,0.00478205258088025,Chronic respiratory disease
+African American or Afro-Caribbean,2020,10788,0.00594046648190355,Chronic respiratory disease
+African American or Afro-Caribbean,2021,10119.7,0.00287589409886536,Chronic respiratory disease
+African unspecified,2007,0,0,Chronic respiratory disease
+African unspecified,2008,0,0,Chronic respiratory disease
+African unspecified,2009,0,0,Chronic respiratory disease
+African unspecified,2010,0,0,Chronic respiratory disease
+African unspecified,2011,154,0.000683511830524573,Chronic respiratory disease
+African unspecified,2012,0,0,Chronic respiratory disease
+African unspecified,2013,0,0,Chronic respiratory disease
+African unspecified,2014,0,0,Chronic respiratory disease
+African unspecified,2015,232.333333333333,0.00134533908528523,Chronic respiratory disease
+African unspecified,2016,445.333333333333,0.000174161135812183,Chronic respiratory disease
+African unspecified,2017,4178,0.00661085363557392,Chronic respiratory disease
+African unspecified,2018,0,0,Chronic respiratory disease
+African unspecified,2019,245.409090909091,1.49223946205174e-05,Chronic respiratory disease
+African unspecified,2020,19722.5,0.0108602938625642,Chronic respiratory disease
+African unspecified,2021,18176.7,0.00516559426335227,Chronic respiratory disease
+Asian unspecified,2007,0,0,Chronic respiratory disease
+Asian unspecified,2008,0,0,Chronic respiratory disease
+Asian unspecified,2009,0,0,Chronic respiratory disease
+Asian unspecified,2010,0,0,Chronic respiratory disease
+Asian unspecified,2011,0,0,Chronic respiratory disease
+Asian unspecified,2012,0,0,Chronic respiratory disease
+Asian unspecified,2013,216,0.000709108099590293,Chronic respiratory disease
+Asian unspecified,2014,0,0,Chronic respiratory disease
+Asian unspecified,2015,3466,0.0200700657228061,Chronic respiratory disease
+Asian unspecified,2016,659.333333333333,0.00025785234029678,Chronic respiratory disease
+Asian unspecified,2017,0,0,Chronic respiratory disease
+Asian unspecified,2018,6227,0.00070370376230069,Chronic respiratory disease
+Asian unspecified,2019,73,4.43885270615871e-06,Chronic respiratory disease
+Asian unspecified,2020,0,0,Chronic respiratory disease
+Asian unspecified,2021,0,0,Chronic respiratory disease
+Central Asian,2007,0,0,Chronic respiratory disease
+Central Asian,2008,0,0,Chronic respiratory disease
+Central Asian,2009,0,0,Chronic respiratory disease
+Central Asian,2010,0,0,Chronic respiratory disease
+Central Asian,2011,0,0,Chronic respiratory disease
+Central Asian,2012,0,0,Chronic respiratory disease
+Central Asian,2013,0,0,Chronic respiratory disease
+Central Asian,2014,0,0,Chronic respiratory disease
+Central Asian,2015,0,0,Chronic respiratory disease
+Central Asian,2016,0,0,Chronic respiratory disease
+Central Asian,2017,0,0,Chronic respiratory disease
+Central Asian,2018,0,0,Chronic respiratory disease
+Central Asian,2019,218.409090909091,1.32806271812532e-05,Chronic respiratory disease
+Central Asian,2020,0,0,Chronic respiratory disease
+Central Asian,2021,0,0,Chronic respiratory disease
+East Asian,2007,0,0,Chronic respiratory disease
+East Asian,2008,1711,0.0294761141833342,Chronic respiratory disease
+East Asian,2009,4665,0.0469372560067614,Chronic respiratory disease
+East Asian,2010,34989,0.358383693536823,Chronic respiratory disease
+East Asian,2011,64060,0.284323167944183,Chronic respiratory disease
+East Asian,2012,76295,0.347205788659325,Chronic respiratory disease
+East Asian,2013,29014,0.0952502888958924,Chronic respiratory disease
+East Asian,2014,20184,0.0826647335635037,Chronic respiratory disease
+East Asian,2015,2378,0.0137699412258606,Chronic respiratory disease
+East Asian,2016,76210,0.0298042368867811,Chronic respiratory disease
+East Asian,2017,21129,0.0334324381201631,Chronic respiratory disease
+East Asian,2018,1291,0.000145893938835746,Chronic respiratory disease
+East Asian,2019,144993.159090909,0.00881648324116689,Chronic respiratory disease
+East Asian,2020,6682,0.00367947692177229,Chronic respiratory disease
+East Asian,2021,173228.76875,0.0492294824749584,Chronic respiratory disease
+European,2007,5801,1,Chronic respiratory disease
+European,2008,50876.5,0.876470790910814,Chronic respiratory disease
+European,2009,75487,0.759518251700406,Chronic respiratory disease
+European,2010,48983.5,0.501725903922974,Chronic respiratory disease
+European,2011,148776,0.660325688948857,Chronic respiratory disease
+European,2012,138029,0.628146900882862,Chronic respiratory disease
+European,2013,267995.5,0.879804535665511,Chronic respiratory disease
+European,2014,188463.666666667,0.771863792677416,Chronic respiratory disease
+European,2015,151299.333333333,0.876107202486079,Chronic respiratory disease
+European,2016,2396710.33333333,0.937306423352088,Chronic respiratory disease
+European,2017,596017,0.943078303330269,Chronic respiratory disease
+European,2018,8783487,0.992608454796724,Chronic respiratory disease
+European,2019,16148699.6590909,0.98194108469452,Chronic respiratory disease
+European,2020,1777021.5,0.978525830401554,Chronic respiratory disease
+European,2021,3233242.96819512,0.918847828733091,Chronic respiratory disease
+Greater Middle Eastern (Middle Eastern,2007,0,0,Chronic respiratory disease
+Greater Middle Eastern (Middle Eastern,2008,0,0,Chronic respiratory disease
+Greater Middle Eastern (Middle Eastern,2009,0,0,Chronic respiratory disease
+Greater Middle Eastern (Middle Eastern,2010,0,0,Chronic respiratory disease
+Greater Middle Eastern (Middle Eastern,2011,0,0,Chronic respiratory disease
+Greater Middle Eastern (Middle Eastern,2012,0,0,Chronic respiratory disease
+Greater Middle Eastern (Middle Eastern,2013,326.666666666667,0.00107241657036804,Chronic respiratory disease
+Greater Middle Eastern (Middle Eastern,2014,0,0,Chronic respiratory disease
+Greater Middle Eastern (Middle Eastern,2015,0,0,Chronic respiratory disease
+Greater Middle Eastern (Middle Eastern,2016,0,0,Chronic respiratory disease
+Greater Middle Eastern (Middle Eastern,2017,0,0,Chronic respiratory disease
+Greater Middle Eastern (Middle Eastern,2018,1053.5,0.000119054426462787,Chronic respiratory disease
+Greater Middle Eastern (Middle Eastern,2019,219.409090909091,1.33414333827074e-05,Chronic respiratory disease
+Greater Middle Eastern (Middle Eastern,2020,0,0,Chronic respiratory disease
+Greater Middle Eastern (Middle Eastern,2021,0,0,Chronic respiratory disease
+Hispanic or Latin American,2007,0,0,Chronic respiratory disease
+Hispanic or Latin American,2008,0,0,Chronic respiratory disease
+Hispanic or Latin American,2009,3191,0.0321064917293838,Chronic respiratory disease
+Hispanic or Latin American,2010,66,0.000676021714636894,Chronic respiratory disease
+Hispanic or Latin American,2011,8264,0.0366788426458122,Chronic respiratory disease
+Hispanic or Latin American,2012,3822,0.0173932829707837,Chronic respiratory disease
+Hispanic or Latin American,2013,5002.5,0.0164227466120391,Chronic respiratory disease
+Hispanic or Latin American,2014,16350.6666666667,0.0669650962933839,Chronic respiratory disease
+Hispanic or Latin American,2015,4575.33333333333,0.0264937220726329,Chronic respiratory disease
+Hispanic or Latin American,2016,35798.3333333333,0.0140000263327466,Chronic respiratory disease
+Hispanic or Latin American,2017,3043,0.00481494198493333,Chronic respiratory disease
+Hispanic or Latin American,2018,41016,0.00463515553469168,Chronic respiratory disease
+Hispanic or Latin American,2019,71148.75,0.00432628522571657,Chronic respiratory disease
+Hispanic or Latin American,2020,1805,0.000993932332205775,Chronic respiratory disease
+Hispanic or Latin American,2021,82695.2,0.0235009573094549,Chronic respiratory disease
+Native American,2007,0,0,Chronic respiratory disease
+Native American,2008,0,0,Chronic respiratory disease
+Native American,2009,0,0,Chronic respiratory disease
+Native American,2010,0,0,Chronic respiratory disease
+Native American,2011,0,0,Chronic respiratory disease
+Native American,2012,0,0,Chronic respiratory disease
+Native American,2013,0,0,Chronic respiratory disease
+Native American,2014,0,0,Chronic respiratory disease
+Native American,2015,0,0,Chronic respiratory disease
+Native American,2016,445.333333333333,0.000174161135812183,Chronic respiratory disease
+Native American,2017,0,0,Chronic respiratory disease
+Native American,2018,0,0,Chronic respiratory disease
+Native American,2019,242.909090909091,1.47703791168818e-05,Chronic respiratory disease
+Native American,2020,0,0,Chronic respiratory disease
+Native American,2021,1338,0.000380243120278452,Chronic respiratory disease
+North African or Persian),2007,0,0,Chronic respiratory disease
+North African or Persian),2008,0,0,Chronic respiratory disease
+North African or Persian),2009,0,0,Chronic respiratory disease
+North African or Persian),2010,0,0,Chronic respiratory disease
+North African or Persian),2011,0,0,Chronic respiratory disease
+North African or Persian),2012,0,0,Chronic respiratory disease
+North African or Persian),2013,326.666666666667,0.00107241657036804,Chronic respiratory disease
+North African or Persian),2014,0,0,Chronic respiratory disease
+North African or Persian),2015,0,0,Chronic respiratory disease
+North African or Persian),2016,0,0,Chronic respiratory disease
+North African or Persian),2017,0,0,Chronic respiratory disease
+North African or Persian),2018,1053.5,0.000119054426462787,Chronic respiratory disease
+North African or Persian),2019,219.409090909091,1.33414333827074e-05,Chronic respiratory disease
+North African or Persian),2020,0,0,Chronic respiratory disease
+North African or Persian),2021,0,0,Chronic respiratory disease
+Oceanian,2007,0,0,Chronic respiratory disease
+Oceanian,2008,0,0,Chronic respiratory disease
+Oceanian,2009,0,0,Chronic respiratory disease
+Oceanian,2010,0,0,Chronic respiratory disease
+Oceanian,2011,0,0,Chronic respiratory disease
+Oceanian,2012,0,0,Chronic respiratory disease
+Oceanian,2013,216,0.000709108099590293,Chronic respiratory disease
+Oceanian,2014,0,0,Chronic respiratory disease
+Oceanian,2015,0,0,Chronic respiratory disease
+Oceanian,2016,0,0,Chronic respiratory disease
+Oceanian,2017,0,0,Chronic respiratory disease
+Oceanian,2018,0,0,Chronic respiratory disease
+Oceanian,2019,0,0,Chronic respiratory disease
+Oceanian,2020,0,0,Chronic respiratory disease
+Oceanian,2021,0,0,Chronic respiratory disease
+Other,2007,0,0,Chronic respiratory disease
+Other,2008,5459.5,0.0940530949058522,Chronic respiratory disease
+Other,2009,0,0,Chronic respiratory disease
+Other,2010,13547.5,0.138763699682475,Chronic respiratory disease
+Other,2011,138,0.000612497614366176,Chronic respiratory disease
+Other,2012,0,0,Chronic respiratory disease
+Other,2013,997.166666666667,0.00327360629617957,Chronic respiratory disease
+Other,2014,0,0,Chronic respiratory disease
+Other,2015,0,0,Chronic respiratory disease
+Other,2016,445.333333333333,0.000174161135812183,Chronic respiratory disease
+Other,2017,0,0,Chronic respiratory disease
+Other,2018,0,0,Chronic respiratory disease
+Other,2019,0,0,Chronic respiratory disease
+Other,2020,0,0,Chronic respiratory disease
+Other,2021,0,0,Chronic respiratory disease
+Other admixed ancestry,2007,0,0,Chronic respiratory disease
+Other admixed ancestry,2008,0,0,Chronic respiratory disease
+Other admixed ancestry,2009,0,0,Chronic respiratory disease
+Other admixed ancestry,2010,0,0,Chronic respiratory disease
+Other admixed ancestry,2011,0,0,Chronic respiratory disease
+Other admixed ancestry,2012,0,0,Chronic respiratory disease
+Other admixed ancestry,2013,0,0,Chronic respiratory disease
+Other admixed ancestry,2014,0,0,Chronic respiratory disease
+Other admixed ancestry,2015,0,0,Chronic respiratory disease
+Other admixed ancestry,2016,0,0,Chronic respiratory disease
+Other admixed ancestry,2017,0,0,Chronic respiratory disease
+Other admixed ancestry,2018,0,0,Chronic respiratory disease
+Other admixed ancestry,2019,533.909090909091,3.24649837400624e-05,Chronic respiratory disease
+Other admixed ancestry,2020,0,0,Chronic respiratory disease
+Other admixed ancestry,2021,0,0,Chronic respiratory disease
+South Asian,2007,0,0,Chronic respiratory disease
+South Asian,2008,0,0,Chronic respiratory disease
+South Asian,2009,0,0,Chronic respiratory disease
+South Asian,2010,0,0,Chronic respiratory disease
+South Asian,2011,0,0,Chronic respiratory disease
+South Asian,2012,0,0,Chronic respiratory disease
+South Asian,2013,0,0,Chronic respiratory disease
+South Asian,2014,0,0,Chronic respiratory disease
+South Asian,2015,0,0,Chronic respiratory disease
+South Asian,2016,0,0,Chronic respiratory disease
+South Asian,2017,0,0,Chronic respiratory disease
+South Asian,2018,0,0,Chronic respiratory disease
+South Asian,2019,218.409090909091,1.32806271812532e-05,Chronic respiratory disease
+South Asian,2020,0,0,Chronic respiratory disease
+South Asian,2021,0,0,Chronic respiratory disease
+South East Asian,2007,0,0,Chronic respiratory disease
+South East Asian,2008,0,0,Chronic respiratory disease
+South East Asian,2009,0,0,Chronic respiratory disease
+South East Asian,2010,0,0,Chronic respiratory disease
+South East Asian,2011,0,0,Chronic respiratory disease
+South East Asian,2012,0,0,Chronic respiratory disease
+South East Asian,2013,0,0,Chronic respiratory disease
+South East Asian,2014,0,0,Chronic respiratory disease
+South East Asian,2015,0,0,Chronic respiratory disease
+South East Asian,2016,0,0,Chronic respiratory disease
+South East Asian,2017,0,0,Chronic respiratory disease
+South East Asian,2018,0,0,Chronic respiratory disease
+South East Asian,2019,234.409090909091,1.42535264045208e-05,Chronic respiratory disease
+South East Asian,2020,0,0,Chronic respiratory disease
+South East Asian,2021,0,0,Chronic respiratory disease
+Aboriginal Australian,2007,0,0,Diabetes and CKD
+Aboriginal Australian,2008,0,0,Diabetes and CKD
+Aboriginal Australian,2009,0,0,Diabetes and CKD
+Aboriginal Australian,2010,0,0,Diabetes and CKD
+Aboriginal Australian,2011,0,0,Diabetes and CKD
+Aboriginal Australian,2012,0,0,Diabetes and CKD
+Aboriginal Australian,2013,0,0,Diabetes and CKD
+Aboriginal Australian,2014,0,0,Diabetes and CKD
+Aboriginal Australian,2015,752,0.00323036543508984,Diabetes and CKD
+Aboriginal Australian,2016,0,0,Diabetes and CKD
+Aboriginal Australian,2017,0,0,Diabetes and CKD
+Aboriginal Australian,2018,0,0,Diabetes and CKD
+Aboriginal Australian,2019,0,0,Diabetes and CKD
+Aboriginal Australian,2020,0,0,Diabetes and CKD
+Aboriginal Australian,2021,0,0,Diabetes and CKD
+African American or Afro-Caribbean,2007,0,0,Diabetes and CKD
+African American or Afro-Caribbean,2008,0,0,Diabetes and CKD
+African American or Afro-Caribbean,2009,0,0,Diabetes and CKD
+African American or Afro-Caribbean,2010,5034,0.0112700146863918,Diabetes and CKD
+African American or Afro-Caribbean,2011,56481,0.212853918018021,Diabetes and CKD
+African American or Afro-Caribbean,2012,6449,0.0154766218774973,Diabetes and CKD
+African American or Afro-Caribbean,2013,4230,0.008012425889796,Diabetes and CKD
+African American or Afro-Caribbean,2014,35371,0.098525639061512,Diabetes and CKD
+African American or Afro-Caribbean,2015,6108,0.0262381277626712,Diabetes and CKD
+African American or Afro-Caribbean,2016,4884,0.00325858949245,Diabetes and CKD
+African American or Afro-Caribbean,2017,1034,0.0016518126007422,Diabetes and CKD
+African American or Afro-Caribbean,2018,60414.15,0.00455128031278957,Diabetes and CKD
+African American or Afro-Caribbean,2019,514646,0.0304100552916005,Diabetes and CKD
+African American or Afro-Caribbean,2020,56092,0.00838092790552257,Diabetes and CKD
+African American or Afro-Caribbean,2021,128550.416666667,0.0199461692977871,Diabetes and CKD
+African unspecified,2007,0,0,Diabetes and CKD
+African unspecified,2008,0,0,Diabetes and CKD
+African unspecified,2009,0,0,Diabetes and CKD
+African unspecified,2010,0,0,Diabetes and CKD
+African unspecified,2011,0,0,Diabetes and CKD
+African unspecified,2012,0,0,Diabetes and CKD
+African unspecified,2013,0,0,Diabetes and CKD
+African unspecified,2014,0,0,Diabetes and CKD
+African unspecified,2015,0,0,Diabetes and CKD
+African unspecified,2016,33311,0.0222249947958644,Diabetes and CKD
+African unspecified,2017,10401,0.0166155733658797,Diabetes and CKD
+African unspecified,2018,0,0,Diabetes and CKD
+African unspecified,2019,64204,0.00379376734676247,Diabetes and CKD
+African unspecified,2020,223,3.33193133233176e-05,Diabetes and CKD
+African unspecified,2021,76126.5,0.0118119574904632,Diabetes and CKD
+Asian unspecified,2007,0,0,Diabetes and CKD
+Asian unspecified,2008,0,0,Diabetes and CKD
+Asian unspecified,2009,0,0,Diabetes and CKD
+Asian unspecified,2010,0,0,Diabetes and CKD
+Asian unspecified,2011,1783,0.00671940184887187,Diabetes and CKD
+Asian unspecified,2012,1783,0.00427892957165107,Diabetes and CKD
+Asian unspecified,2013,3968,0.00751614797416324,Diabetes and CKD
+Asian unspecified,2014,0,0,Diabetes and CKD
+Asian unspecified,2015,0,0,Diabetes and CKD
+Asian unspecified,2016,42923,0.0286380910697034,Diabetes and CKD
+Asian unspecified,2017,0,0,Diabetes and CKD
+Asian unspecified,2018,61187,0.00460950271581501,Diabetes and CKD
+Asian unspecified,2019,27357,0.00161650509789703,Diabetes and CKD
+Asian unspecified,2020,63565.75,0.00949761049722725,Diabetes and CKD
+Asian unspecified,2021,440977,0.0684229746313303,Diabetes and CKD
+East Asian,2007,188,0.0011580276571499,Diabetes and CKD
+East Asian,2008,28977,0.152001720556453,Diabetes and CKD
+East Asian,2009,12999,0.114101382488479,Diabetes and CKD
+East Asian,2010,46564,0.104246516459505,Diabetes and CKD
+East Asian,2011,65330,0.246202200104767,Diabetes and CKD
+East Asian,2012,61913,0.148581809629631,Diabetes and CKD
+East Asian,2013,163266,0.309256909059913,Diabetes and CKD
+East Asian,2014,22305,0.0621304000245123,Diabetes and CKD
+East Asian,2015,947,0.00406802668488043,Diabetes and CKD
+East Asian,2016,108610,0.0724642515919317,Diabetes and CKD
+East Asian,2017,88398,0.141215599884341,Diabetes and CKD
+East Asian,2018,274730.15,0.02069670636804,Diabetes and CKD
+East Asian,2019,833440,0.0492473593153965,Diabetes and CKD
+East Asian,2020,556610.5,0.0831653795899035,Diabetes and CKD
+East Asian,2021,310341.685416667,0.0481533079237894,Diabetes and CKD
+European,2007,153531,0.945708213988728,Diabetes and CKD
+European,2008,161659,0.847998279443547,Diabetes and CKD
+European,2009,100926,0.885898617511521,Diabetes and CKD
+European,2010,395074,0.884483468854103,Diabetes and CKD
+European,2011,71789,0.270543544211252,Diabetes and CKD
+European,2012,329960,0.791853954830055,Diabetes and CKD
+European,2013,282869,0.535807777546266,Diabetes and CKD
+European,2014,275439,0.767233142898527,Diabetes and CKD
+European,2015,220325,0.946449819795439,Diabetes and CKD
+European,2016,1268188,0.846131058814738,Diabetes and CKD
+European,2017,455165,0.727125031350892,Diabetes and CKD
+European,2018,12759663.4,0.96124508629587,Diabetes and CKD
+European,2019,14752467,0.871712472568546,Diabetes and CKD
+European,2020,5758250.75,0.860363053513357,Diabetes and CKD
+European,2021,5032121.65152845,0.780795216313548,Diabetes and CKD
+Greater Middle Eastern (Middle Eastern,2007,0,0,Diabetes and CKD
+Greater Middle Eastern (Middle Eastern,2008,0,0,Diabetes and CKD
+Greater Middle Eastern (Middle Eastern,2009,0,0,Diabetes and CKD
+Greater Middle Eastern (Middle Eastern,2010,0,0,Diabetes and CKD
+Greater Middle Eastern (Middle Eastern,2011,0,0,Diabetes and CKD
+Greater Middle Eastern (Middle Eastern,2012,0,0,Diabetes and CKD
+Greater Middle Eastern (Middle Eastern,2013,246.5,0.000466917962608679,Diabetes and CKD
+Greater Middle Eastern (Middle Eastern,2014,1643,0.00457656342704657,Diabetes and CKD
+Greater Middle Eastern (Middle Eastern,2015,0,0,Diabetes and CKD
+Greater Middle Eastern (Middle Eastern,2016,0,0,Diabetes and CKD
+Greater Middle Eastern (Middle Eastern,2017,140.5,0.000224448423988664,Diabetes and CKD
+Greater Middle Eastern (Middle Eastern,2018,0,0,Diabetes and CKD
+Greater Middle Eastern (Middle Eastern,2019,0,0,Diabetes and CKD
+Greater Middle Eastern (Middle Eastern,2020,0,0,Diabetes and CKD
+Greater Middle Eastern (Middle Eastern,2021,18272,0.00283512426376811,Diabetes and CKD
+Hispanic or Latin American,2007,2527,0.0155656164341372,Diabetes and CKD
+Hispanic or Latin American,2008,0,0,Diabetes and CKD
+Hispanic or Latin American,2009,0,0,Diabetes and CKD
+Hispanic or Latin American,2010,0,0,Diabetes and CKD
+Hispanic or Latin American,2011,5167,0.0194723215665289,Diabetes and CKD
+Hispanic or Latin American,2012,0,0,Diabetes and CKD
+Hispanic or Latin American,2013,9942,0.0188320421267971,Diabetes and CKD
+Hispanic or Latin American,2014,2583,0.00719492594769403,Diabetes and CKD
+Hispanic or Latin American,2015,1409,0.00605263949207658,Diabetes and CKD
+Hispanic or Latin American,2016,15927,0.0106264444812144,Diabetes and CKD
+Hispanic or Latin American,2017,24224,0.038697783791469,Diabetes and CKD
+Hispanic or Latin American,2018,47766.15,0.00359844735236287,Diabetes and CKD
+Hispanic or Latin American,2019,554340,0.0327555446857565,Diabetes and CKD
+Hispanic or Latin American,2020,84010.75,0.012552378931735,Diabetes and CKD
+Hispanic or Latin American,2021,339305.25,0.0526473591888629,Diabetes and CKD
+Native American,2007,6099,0.0375681419199852,Diabetes and CKD
+Native American,2008,0,0,Diabetes and CKD
+Native American,2009,0,0,Diabetes and CKD
+Native American,2010,0,0,Diabetes and CKD
+Native American,2011,0,0,Diabetes and CKD
+Native American,2012,0,0,Diabetes and CKD
+Native American,2013,3748,0.00709942606027314,Diabetes and CKD
+Native American,2014,0,0,Diabetes and CKD
+Native American,2015,2154,0.0092529350361483,Diabetes and CKD
+Native American,2016,0,0,Diabetes and CKD
+Native American,2017,4377,0.00699224734376073,Diabetes and CKD
+Native American,2018,92,6.93079003472929e-06,Diabetes and CKD
+Native American,2019,11114,0.00065671812179799,Diabetes and CKD
+Native American,2020,0,0,Diabetes and CKD
+Native American,2021,0,0,Diabetes and CKD
+North African or Persian),2007,0,0,Diabetes and CKD
+North African or Persian),2008,0,0,Diabetes and CKD
+North African or Persian),2009,0,0,Diabetes and CKD
+North African or Persian),2010,0,0,Diabetes and CKD
+North African or Persian),2011,0,0,Diabetes and CKD
+North African or Persian),2012,0,0,Diabetes and CKD
+North African or Persian),2013,246.5,0.000466917962608679,Diabetes and CKD
+North African or Persian),2014,1643,0.00457656342704657,Diabetes and CKD
+North African or Persian),2015,0,0,Diabetes and CKD
+North African or Persian),2016,0,0,Diabetes and CKD
+North African or Persian),2017,140.5,0.000224448423988664,Diabetes and CKD
+North African or Persian),2018,0,0,Diabetes and CKD
+North African or Persian),2019,0,0,Diabetes and CKD
+North African or Persian),2020,0,0,Diabetes and CKD
+North African or Persian),2021,18272,0.00283512426376811,Diabetes and CKD
+Oceanian,2007,0,0,Diabetes and CKD
+Oceanian,2008,0,0,Diabetes and CKD
+Oceanian,2009,0,0,Diabetes and CKD
+Oceanian,2010,0,0,Diabetes and CKD
+Oceanian,2011,0,0,Diabetes and CKD
+Oceanian,2012,0,0,Diabetes and CKD
+Oceanian,2013,1277,0.00241888129108026,Diabetes and CKD
+Oceanian,2014,0,0,Diabetes and CKD
+Oceanian,2015,0,0,Diabetes and CKD
+Oceanian,2016,0,0,Diabetes and CKD
+Oceanian,2017,0,0,Diabetes and CKD
+Oceanian,2018,0,0,Diabetes and CKD
+Oceanian,2019,50521,0.00298524889610907,Diabetes and CKD
+Oceanian,2020,0,0,Diabetes and CKD
+Oceanian,2021,3794,0.000588685500040291,Diabetes and CKD
+Other,2007,0,0,Diabetes and CKD
+Other,2008,0,0,Diabetes and CKD
+Other,2009,0,0,Diabetes and CKD
+Other,2010,0,0,Diabetes and CKD
+Other,2011,0,0,Diabetes and CKD
+Other,2012,0,0,Diabetes and CKD
+Other,2013,3926,0.00743659197242059,Diabetes and CKD
+Other,2014,0,0,Diabetes and CKD
+Other,2015,397,0.00170539239059929,Diabetes and CKD
+Other,2016,0,0,Diabetes and CKD
+Other,2017,0,0,Diabetes and CKD
+Other,2018,0,0,Diabetes and CKD
+Other,2019,1959,0.000115755875526567,Diabetes and CKD
+Other,2020,0,0,Diabetes and CKD
+Other,2021,0,0,Diabetes and CKD
+Other admixed ancestry,2007,0,0,Diabetes and CKD
+Other admixed ancestry,2008,0,0,Diabetes and CKD
+Other admixed ancestry,2009,0,0,Diabetes and CKD
+Other admixed ancestry,2010,0,0,Diabetes and CKD
+Other admixed ancestry,2011,0,0,Diabetes and CKD
+Other admixed ancestry,2012,0,0,Diabetes and CKD
+Other admixed ancestry,2013,0,0,Diabetes and CKD
+Other admixed ancestry,2014,0,0,Diabetes and CKD
+Other admixed ancestry,2015,0,0,Diabetes and CKD
+Other admixed ancestry,2016,0,0,Diabetes and CKD
+Other admixed ancestry,2017,0,0,Diabetes and CKD
+Other admixed ancestry,2018,2948,0.000222086619808499,Diabetes and CKD
+Other admixed ancestry,2019,0,0,Diabetes and CKD
+Other admixed ancestry,2020,0,0,Diabetes and CKD
+Other admixed ancestry,2021,2148,0.000333288469711793,Diabetes and CKD
+South Asian,2007,0,0,Diabetes and CKD
+South Asian,2008,0,0,Diabetes and CKD
+South Asian,2009,0,0,Diabetes and CKD
+South Asian,2010,0,0,Diabetes and CKD
+South Asian,2011,60733,0.228877976717631,Diabetes and CKD
+South Asian,2012,14554,0.0349273925887884,Diabetes and CKD
+South Asian,2013,52213,0.0989013694997443,Diabetes and CKD
+South Asian,2014,20019,0.0557627652136612,Diabetes and CKD
+South Asian,2015,699,0.00300269340309548,Diabetes and CKD
+South Asian,2016,24965,0.0166565697540979,Diabetes and CKD
+South Asian,2017,42099,0.0672530548149379,Diabetes and CKD
+South Asian,2018,66416.15,0.00500343902788136,Diabetes and CKD
+South Asian,2019,109152,0.00644971175368852,Diabetes and CKD
+South Asian,2020,171709.25,0.0256557591984837,Diabetes and CKD
+South Asian,2021,70718.4166666667,0.0109728272212637,Diabetes and CKD
+South East Asian,2007,0,0,Diabetes and CKD
+South East Asian,2008,0,0,Diabetes and CKD
+South East Asian,2009,0,0,Diabetes and CKD
+South East Asian,2010,0,0,Diabetes and CKD
+South East Asian,2011,4068,0.0153306375329281,Diabetes and CKD
+South East Asian,2012,2034,0.00488129150237705,Diabetes and CKD
+South East Asian,2013,1998,0.00378459265432917,Diabetes and CKD
+South East Asian,2014,0,0,Diabetes and CKD
+South East Asian,2015,0,0,Diabetes and CKD
+South East Asian,2016,0,0,Diabetes and CKD
+South East Asian,2017,0,0,Diabetes and CKD
+South East Asian,2018,883,6.6520517398543e-05,Diabetes and CKD
+South East Asian,2019,0,0,Diabetes and CKD
+South East Asian,2020,0,0,Diabetes and CKD
+South East Asian,2021,4240.5,0.000657965435667067,Diabetes and CKD
+Sub-Saharan African,2007,0,0,Diabetes and CKD
+Sub-Saharan African,2008,0,0,Diabetes and CKD
+Sub-Saharan African,2009,0,0,Diabetes and CKD
+Sub-Saharan African,2010,0,0,Diabetes and CKD
+Sub-Saharan African,2011,0,0,Diabetes and CKD
+Sub-Saharan African,2012,0,0,Diabetes and CKD
+Sub-Saharan African,2013,0,0,Diabetes and CKD
+Sub-Saharan African,2014,0,0,Diabetes and CKD
+Sub-Saharan African,2015,0,0,Diabetes and CKD
+Sub-Saharan African,2016,0,0,Diabetes and CKD
+Sub-Saharan African,2017,0,0,Diabetes and CKD
+Sub-Saharan African,2018,0,0,Diabetes and CKD
+Sub-Saharan African,2019,4347,0.000256861046918829,Diabetes and CKD
+Sub-Saharan African,2020,2353,0.000351571050447383,Diabetes and CKD
+Sub-Saharan African,2021,0,0,Diabetes and CKD
+Aboriginal Australian,2006,0,0,Digestive diseases
+Aboriginal Australian,2007,0,0,Digestive diseases
+Aboriginal Australian,2008,0,0,Digestive diseases
+Aboriginal Australian,2009,0,0,Digestive diseases
+Aboriginal Australian,2010,0,0,Digestive diseases
+Aboriginal Australian,2011,0,0,Digestive diseases
+Aboriginal Australian,2012,0,0,Digestive diseases
+Aboriginal Australian,2013,0,0,Digestive diseases
+Aboriginal Australian,2014,0,0,Digestive diseases
+Aboriginal Australian,2015,752,0.000601038389728638,Digestive diseases
+Aboriginal Australian,2016,0,0,Digestive diseases
+Aboriginal Australian,2017,0,0,Digestive diseases
+Aboriginal Australian,2018,0,0,Digestive diseases
+Aboriginal Australian,2019,0,0,Digestive diseases
+Aboriginal Australian,2020,0,0,Digestive diseases
+Aboriginal Australian,2021,0,0,Digestive diseases
+African American or Afro-Caribbean,2006,0,0,Digestive diseases
+African American or Afro-Caribbean,2007,0,0,Digestive diseases
+African American or Afro-Caribbean,2008,0,0,Digestive diseases
+African American or Afro-Caribbean,2009,191,0.001222736497084,Digestive diseases
+African American or Afro-Caribbean,2010,0,0,Digestive diseases
+African American or Afro-Caribbean,2011,52809,0.110114411895334,Digestive diseases
+African American or Afro-Caribbean,2012,9734,0.0117824210248552,Digestive diseases
+African American or Afro-Caribbean,2013,5065.5,0.00712521415731032,Digestive diseases
+African American or Afro-Caribbean,2014,44605,0.06273743668941,Digestive diseases
+African American or Afro-Caribbean,2015,8351,0.00667456328806363,Digestive diseases
+African American or Afro-Caribbean,2016,15528,0.00697222693682699,Digestive diseases
+African American or Afro-Caribbean,2017,24226,0.0140624981860271,Digestive diseases
+African American or Afro-Caribbean,2018,58255.15,0.00312140149628634,Digestive diseases
+African American or Afro-Caribbean,2019,223870,0.0136065279242882,Digestive diseases
+African American or Afro-Caribbean,2020,56689,0.0174477458647436,Digestive diseases
+African American or Afro-Caribbean,2021,2816,0.00034685639155755,Digestive diseases
+African unspecified,2006,0,0,Digestive diseases
+African unspecified,2007,0,0,Digestive diseases
+African unspecified,2008,0,0,Digestive diseases
+African unspecified,2009,0,0,Digestive diseases
+African unspecified,2010,0,0,Digestive diseases
+African unspecified,2011,0,0,Digestive diseases
+African unspecified,2012,0,0,Digestive diseases
+African unspecified,2013,6381.5,0.00897632102356645,Digestive diseases
+African unspecified,2014,343,0.000482433377075835,Digestive diseases
+African unspecified,2015,219,0.000175036445944909,Digestive diseases
+African unspecified,2016,33714.25,0.0151380346474059,Digestive diseases
+African unspecified,2017,11664,0.0067706174705614,Digestive diseases
+African unspecified,2018,0,0,Digestive diseases
+African unspecified,2019,615.333333333333,3.73991610432186e-05,Digestive diseases
+African unspecified,2020,0,0,Digestive diseases
+African unspecified,2021,7447,0.000917272566736177,Digestive diseases
+Asian unspecified,2006,0,0,Digestive diseases
+Asian unspecified,2007,0,0,Digestive diseases
+Asian unspecified,2008,0,0,Digestive diseases
+Asian unspecified,2009,0,0,Digestive diseases
+Asian unspecified,2010,0,0,Digestive diseases
+Asian unspecified,2011,1783,0.00371781318353653,Digestive diseases
+Asian unspecified,2012,1783,0.00215821416553491,Digestive diseases
+Asian unspecified,2013,3968,0.00558145292196375,Digestive diseases
+Asian unspecified,2014,0,0,Digestive diseases
+Asian unspecified,2015,273,0.000218196117547763,Digestive diseases
+Asian unspecified,2016,43075.25,0.0193412170505253,Digestive diseases
+Asian unspecified,2017,876,0.000508492875875496,Digestive diseases
+Asian unspecified,2018,61187,0.00327849457693049,Digestive diseases
+Asian unspecified,2019,1860.33333333333,0.00011306864451907,Digestive diseases
+Asian unspecified,2020,63638.75,0.0195867405872383,Digestive diseases
+Asian unspecified,2021,10626,0.00130884091501794,Digestive diseases
+East Asian,2006,0,0,Digestive diseases
+East Asian,2007,0,0,Digestive diseases
+East Asian,2008,36556,0.103138507375097,Digestive diseases
+East Asian,2009,30273,0.193800533906931,Digestive diseases
+East Asian,2010,98358,0.179408792595862,Digestive diseases
+East Asian,2011,135816,0.283196026548064,Digestive diseases
+East Asian,2012,251000,0.303820390100539,Digestive diseases
+East Asian,2013,235691,0.331526769312137,Digestive diseases
+East Asian,2014,138331,0.194564115114511,Digestive diseases
+East Asian,2015,135783,0.108524994245377,Digestive diseases
+East Asian,2016,253422,0.113789006619305,Digestive diseases
+East Asian,2017,101464,0.0588969419609946,Digestive diseases
+East Asian,2018,320588.15,0.0171776114403906,Digestive diseases
+East Asian,2019,598090,0.0363511336321863,Digestive diseases
+East Asian,2020,643025.5,0.197910450149935,Digestive diseases
+East Asian,2021,392880.935416667,0.0483924941656178,Digestive diseases
+European,2006,1095,0.408734602463606,Digestive diseases
+European,2007,221204,0.961936362015507,Digestive diseases
+European,2008,317880,0.896861492624903,Digestive diseases
+European,2009,119311,0.763800597924549,Digestive diseases
+European,2010,448900.666666667,0.818812161716834,Digestive diseases
+European,2011,218488,0.455579117691828,Digestive diseases
+European,2012,538887,0.652290273147846,Digestive diseases
+European,2013,377792,0.531408332231484,Digestive diseases
+European,2014,494938,0.696135891496092,Digestive diseases
+European,2015,1093175,0.873723592675004,Digestive diseases
+European,2016,1822777.25,0.818445172738629,Digestive diseases
+European,2017,1500612,0.871062227686392,Digestive diseases
+European,2018,18095877.4,0.96960524164772,Digestive diseases
+European,2019,15404122.3333333,0.936242554507758,Digestive diseases
+European,2020,2227544.75,0.685593937101444,Digestive diseases
+European,2021,7703990.79468363,0.94892700555275,Digestive diseases
+Greater Middle Eastern (Middle Eastern,2006,0,0,Digestive diseases
+Greater Middle Eastern (Middle Eastern,2007,0,0,Digestive diseases
+Greater Middle Eastern (Middle Eastern,2008,0,0,Digestive diseases
+Greater Middle Eastern (Middle Eastern,2009,0,0,Digestive diseases
+Greater Middle Eastern (Middle Eastern,2010,0,0,Digestive diseases
+Greater Middle Eastern (Middle Eastern,2011,0,0,Digestive diseases
+Greater Middle Eastern (Middle Eastern,2012,0,0,Digestive diseases
+Greater Middle Eastern (Middle Eastern,2013,767.5,0.00107957790262278,Digestive diseases
+Greater Middle Eastern (Middle Eastern,2014,1643,0.00231089807153235,Digestive diseases
+Greater Middle Eastern (Middle Eastern,2015,1061,0.000848007621678304,Digestive diseases
+Greater Middle Eastern (Middle Eastern,2016,0,0,Digestive diseases
+Greater Middle Eastern (Middle Eastern,2017,140.5,8.15562203887068e-05,Digestive diseases
+Greater Middle Eastern (Middle Eastern,2018,0,0,Digestive diseases
+Greater Middle Eastern (Middle Eastern,2019,0,0,Digestive diseases
+Greater Middle Eastern (Middle Eastern,2020,0,0,Digestive diseases
+Greater Middle Eastern (Middle Eastern,2021,55.5,6.83612561485938e-06,Digestive diseases
+Hispanic or Latin American,2006,0,0,Digestive diseases
+Hispanic or Latin American,2007,2861,0.0124414564462052,Digestive diseases
+Hispanic or Latin American,2008,0,0,Digestive diseases
+Hispanic or Latin American,2009,75,0.000480132132362826,Digestive diseases
+Hispanic or Latin American,2010,212.666666666667,0.000387912217532416,Digestive diseases
+Hispanic or Latin American,2011,5266,0.0109803725319705,Digestive diseases
+Hispanic or Latin American,2012,95,0.00011499178111375,Digestive diseases
+Hispanic or Latin American,2013,9942,0.0139845778604243,Digestive diseases
+Hispanic or Latin American,2014,3336,0.00469212170823611,Digestive diseases
+Hispanic or Latin American,2015,250,0.000199813294457659,Digestive diseases
+Hispanic or Latin American,2016,26557.25,0.0119244702355776,Digestive diseases
+Hispanic or Latin American,2017,30803.5,0.0178805482899895,Digestive diseases
+Hispanic or Latin American,2018,55595.15,0.00297887456124074,Digestive diseases
+Hispanic or Latin American,2019,115995,0.00705002549058745,Digestive diseases
+Hispanic or Latin American,2020,84750.75,0.0260845939749584,Digestive diseases
+Hispanic or Latin American,2021,0,0,Digestive diseases
+Native American,2006,0,0,Digestive diseases
+Native American,2007,5892,0.0256221815382876,Digestive diseases
+Native American,2008,0,0,Digestive diseases
+Native American,2009,0,0,Digestive diseases
+Native American,2010,0,0,Digestive diseases
+Native American,2011,0,0,Digestive diseases
+Native American,2012,0,0,Digestive diseases
+Native American,2013,3748,0.00527199736681455,Digestive diseases
+Native American,2014,0,0,Digestive diseases
+Native American,2015,0,0,Digestive diseases
+Native American,2016,0,0,Digestive diseases
+Native American,2017,4598.5,0.00266929736268661,Digestive diseases
+Native American,2018,92,4.92950301661473e-06,Digestive diseases
+Native American,2019,0,0,Digestive diseases
+Native American,2020,73,2.24679470113475e-05,Digestive diseases
+Native American,2021,0,0,Digestive diseases
+North African or Persian),2006,0,0,Digestive diseases
+North African or Persian),2007,0,0,Digestive diseases
+North African or Persian),2008,0,0,Digestive diseases
+North African or Persian),2009,0,0,Digestive diseases
+North African or Persian),2010,0,0,Digestive diseases
+North African or Persian),2011,0,0,Digestive diseases
+North African or Persian),2012,0,0,Digestive diseases
+North African or Persian),2013,767.5,0.00107957790262278,Digestive diseases
+North African or Persian),2014,1643,0.00231089807153235,Digestive diseases
+North African or Persian),2015,1061,0.000848007621678304,Digestive diseases
+North African or Persian),2016,0,0,Digestive diseases
+North African or Persian),2017,140.5,8.15562203887068e-05,Digestive diseases
+North African or Persian),2018,0,0,Digestive diseases
+North African or Persian),2019,0,0,Digestive diseases
+North African or Persian),2020,0,0,Digestive diseases
+North African or Persian),2021,55.5,6.83612561485938e-06,Digestive diseases
+Oceanian,2006,0,0,Digestive diseases
+Oceanian,2007,0,0,Digestive diseases
+Oceanian,2008,0,0,Digestive diseases
+Oceanian,2009,0,0,Digestive diseases
+Oceanian,2010,0,0,Digestive diseases
+Oceanian,2011,0,0,Digestive diseases
+Oceanian,2012,0,0,Digestive diseases
+Oceanian,2013,1277,0.00179624883602513,Digestive diseases
+Oceanian,2014,0,0,Digestive diseases
+Oceanian,2015,0,0,Digestive diseases
+Oceanian,2016,0,0,Digestive diseases
+Oceanian,2017,0,0,Digestive diseases
+Oceanian,2018,0,0,Digestive diseases
+Oceanian,2019,0,0,Digestive diseases
+Oceanian,2020,513,0.000157891189271525,Digestive diseases
+Oceanian,2021,0,0,Digestive diseases
+Other,2006,1584,0.591265397536394,Digestive diseases
+Other,2007,0,0,Digestive diseases
+Other,2008,0,0,Digestive diseases
+Other,2009,0,0,Digestive diseases
+Other,2010,564.666666666667,0.00102997381896538,Digestive diseases
+Other,2011,0,0,Digestive diseases
+Other,2012,0,0,Digestive diseases
+Other,2013,5734,0.00806553706011596,Digestive diseases
+Other,2014,3015,0.00424063157983569,Digestive diseases
+Other,2015,0,0,Digestive diseases
+Other,2016,0,0,Digestive diseases
+Other,2017,787,0.000456830928440657,Digestive diseases
+Other,2018,0,0,Digestive diseases
+Other,2019,0,0,Digestive diseases
+Other,2020,0,0,Digestive diseases
+Other,2021,0,0,Digestive diseases
+Other admixed ancestry,2006,0,0,Digestive diseases
+Other admixed ancestry,2007,0,0,Digestive diseases
+Other admixed ancestry,2008,0,0,Digestive diseases
+Other admixed ancestry,2009,0,0,Digestive diseases
+Other admixed ancestry,2010,0,0,Digestive diseases
+Other admixed ancestry,2011,0,0,Digestive diseases
+Other admixed ancestry,2012,0,0,Digestive diseases
+Other admixed ancestry,2013,0,0,Digestive diseases
+Other admixed ancestry,2014,0,0,Digestive diseases
+Other admixed ancestry,2015,0,0,Digestive diseases
+Other admixed ancestry,2016,0,0,Digestive diseases
+Other admixed ancestry,2017,0,0,Digestive diseases
+Other admixed ancestry,2018,2948,0.000157958422749785,Digestive diseases
+Other admixed ancestry,2019,0,0,Digestive diseases
+Other admixed ancestry,2020,73,2.24679470113475e-05,Digestive diseases
+Other admixed ancestry,2021,0,0,Digestive diseases
+South Asian,2006,0,0,Digestive diseases
+South Asian,2007,0,0,Digestive diseases
+South Asian,2008,0,0,Digestive diseases
+South Asian,2009,0,0,Digestive diseases
+South Asian,2010,0,0,Digestive diseases
+South Asian,2011,61353,0.127929889091148,Digestive diseases
+South Asian,2012,14705,0.0177995172766073,Digestive diseases
+South Asian,2013,51636,0.0726320320258367,Digestive diseases
+South Asian,2014,23125,0.0325255738917746,Digestive diseases
+South Asian,2015,10243,0.00818675030051919,Digestive diseases
+South Asian,2016,31402,0.0140998113260073,Digestive diseases
+South Asian,2017,45698,0.0265263783581717,Digestive diseases
+South Asian,2018,66416.15,0.00355868056279279,Digestive diseases
+South Asian,2019,98926,0.00601259383319845,Digestive diseases
+South Asian,2020,172765.25,0.0531737052383865,Digestive diseases
+South Asian,2021,589,7.25491529216608e-05,Digestive diseases
+South East Asian,2006,0,0,Digestive diseases
+South East Asian,2007,0,0,Digestive diseases
+South East Asian,2008,0,0,Digestive diseases
+South East Asian,2009,854,0.00546710454717138,Digestive diseases
+South East Asian,2010,0,0,Digestive diseases
+South East Asian,2011,4068,0.00848236905811924,Digestive diseases
+South East Asian,2012,2034,0.00246203455563544,Digestive diseases
+South East Asian,2013,1998,0.00281041908721864,Digestive diseases
+South East Asian,2014,0,0,Digestive diseases
+South East Asian,2015,0,0,Digestive diseases
+South East Asian,2016,0,0,Digestive diseases
+South East Asian,2017,0,0,Digestive diseases
+South East Asian,2018,1266,6.78342480329809e-05,Digestive diseases
+South East Asian,2019,318,1.93276271046753e-05,Digestive diseases
+South East Asian,2020,0,0,Digestive diseases
+South East Asian,2021,173,2.13090041688409e-05,Digestive diseases
+Sub-Saharan African,2006,0,0,Digestive diseases
+Sub-Saharan African,2007,0,0,Digestive diseases
+Sub-Saharan African,2008,0,0,Digestive diseases
+Sub-Saharan African,2009,5503,0.0352288949919018,Digestive diseases
+Sub-Saharan African,2010,198,0.000361159650806043,Digestive diseases
+Sub-Saharan African,2011,0,0,Digestive diseases
+Sub-Saharan African,2012,7908,0.00957215794786878,Digestive diseases
+Sub-Saharan African,2013,6158,0.00866194231185806,Digestive diseases
+Sub-Saharan African,2014,0,0,Digestive diseases
+Sub-Saharan African,2015,0,0,Digestive diseases
+Sub-Saharan African,2016,646,0.000290060445723225,Digestive diseases
+Sub-Saharan African,2017,1728,0.00100305444008317,Digestive diseases
+Sub-Saharan African,2018,914,4.89735408389768e-05,Digestive diseases
+Sub-Saharan African,2019,9335,0.000567369179314917,Digestive diseases
+Sub-Saharan African,2020,0,0,Digestive diseases
+Sub-Saharan African,2021,0,0,Digestive diseases
+African American or Afro-Caribbean,2006,0,0,Mental disorders
+African American or Afro-Caribbean,2007,0,0,Mental disorders
+African American or Afro-Caribbean,2008,646,0.00524142183709401,Mental disorders
+African American or Afro-Caribbean,2009,3772.85714285714,0.0192061552782384,Mental disorders
+African American or Afro-Caribbean,2010,5270.66666666667,0.0256491362963179,Mental disorders
+African American or Afro-Caribbean,2011,6140,0.0153377298161471,Mental disorders
+African American or Afro-Caribbean,2012,4003.25,0.0220090603713213,Mental disorders
+African American or Afro-Caribbean,2013,31937,0.0693129903529999,Mental disorders
+African American or Afro-Caribbean,2014,16361.3333333333,0.0692645824072702,Mental disorders
+African American or Afro-Caribbean,2015,3185,0.0259561394215489,Mental disorders
+African American or Afro-Caribbean,2016,15441,0.00382218769934302,Mental disorders
+African American or Afro-Caribbean,2017,34428,0.0148993360040888,Mental disorders
+African American or Afro-Caribbean,2018,21642,0.00163446533395526,Mental disorders
+African American or Afro-Caribbean,2019,167216.5,0.0140654513925105,Mental disorders
+African American or Afro-Caribbean,2020,121293.5,0.0108637142746838,Mental disorders
+African American or Afro-Caribbean,2021,13009.5,0.00135956109052154,Mental disorders
+African unspecified,2006,0,0,Mental disorders
+African unspecified,2007,0,0,Mental disorders
+African unspecified,2008,0,0,Mental disorders
+African unspecified,2009,0,0,Mental disorders
+African unspecified,2010,0,0,Mental disorders
+African unspecified,2011,1103,0.00275529576338929,Mental disorders
+African unspecified,2012,0,0,Mental disorders
+African unspecified,2013,10717,0.0232591451173592,Mental disorders
+African unspecified,2014,0,0,Mental disorders
+African unspecified,2015,984,0.00801910241469517,Mental disorders
+African unspecified,2016,0,0,Mental disorders
+African unspecified,2017,4407,0.00190720848640697,Mental disorders
+African unspecified,2018,0,0,Mental disorders
+African unspecified,2019,17759.5,0.00149384411230525,Mental disorders
+African unspecified,2020,23983.6666666667,0.00214810935397136,Mental disorders
+African unspecified,2021,0,0,Mental disorders
+Asian unspecified,2006,0,0,Mental disorders
+Asian unspecified,2007,0,0,Mental disorders
+Asian unspecified,2008,51.75,0.000419881702894141,Mental disorders
+Asian unspecified,2009,221.857142857143,0.00112938883555866,Mental disorders
+Asian unspecified,2010,51.6666666666667,0.000251430314060794,Mental disorders
+Asian unspecified,2011,0,0,Mental disorders
+Asian unspecified,2012,0,0,Mental disorders
+Asian unspecified,2013,11910,0.0258483174720302,Mental disorders
+Asian unspecified,2014,369.333333333333,0.001563547333291,Mental disorders
+Asian unspecified,2015,6,4.88969659432632e-05,Mental disorders
+Asian unspecified,2016,214,5.29724867339813e-05,Mental disorders
+Asian unspecified,2017,39922.5,0.0172771796683872,Mental disorders
+Asian unspecified,2018,0,0,Mental disorders
+Asian unspecified,2019,31,2.60757158036334e-06,Mental disorders
+Asian unspecified,2020,51819,0.00464119520007123,Mental disorders
+Asian unspecified,2021,3259,0.000340582619932333,Mental disorders
+East Asian,2006,0,0,Mental disorders
+East Asian,2007,0,0,Mental disorders
+East Asian,2008,6484,0.0526089461172099,Mental disorders
+East Asian,2009,2584,0.0131541437589086,Mental disorders
+East Asian,2010,8479,0.041262147733964,Mental disorders
+East Asian,2011,36586,0.0913918864908074,Mental disorders
+East Asian,2012,5767.25,0.0317071762759015,Mental disorders
+East Asian,2013,22711,0.049289768103046,Mental disorders
+East Asian,2014,4131,0.0174883051457359,Mental disorders
+East Asian,2015,27678,0.225561703896273,Mental disorders
+East Asian,2016,45924,0.0113677966391185,Mental disorders
+East Asian,2017,110223,0.0477009850231985,Mental disorders
+East Asian,2018,162338,0.012260227030017,Mental disorders
+East Asian,2019,166957.5,0.0140436655525326,Mental disorders
+East Asian,2020,291162,0.0260780732326587,Mental disorders
+East Asian,2021,262386.102083333,0.0274207260145364,Mental disorders
+European,2006,1929,1,Mental disorders
+European,2007,45320,1,Mental disorders
+European,2008,108777,0.882579168999343,Mental disorders
+European,2009,185463.857142857,0.944124705471682,Mental disorders
+European,2010,175649,0.854777094860602,Mental disorders
+European,2011,354350,0.885166866506795,Mental disorders
+European,2012,169061.75,0.929467373316987,Mental disorders
+European,2013,373851,0.811370221262466,Mental disorders
+European,2014,214478.333333333,0.907979312631854,Mental disorders
+European,2015,78999,0.643801902091975,Mental disorders
+European,2016,3939847,0.975249967015963,Mental disorders
+European,2017,2101253.5,0.909355231970128,Mental disorders
+European,2018,13051751.2340426,0.985705338667881,Mental disorders
+European,2019,11486440.5,0.966184380881756,Mental disorders
+European,2020,10632093.1444444,0.952268852519458,Mental disorders
+European,2021,9283775.36819512,0.970203294803054,Mental disorders
+Greater Middle Eastern (Middle Eastern,2006,0,0,Mental disorders
+Greater Middle Eastern (Middle Eastern,2007,0,0,Mental disorders
+Greater Middle Eastern (Middle Eastern,2008,0,0,Mental disorders
+Greater Middle Eastern (Middle Eastern,2009,1755,0.00893402565668907,Mental disorders
+Greater Middle Eastern (Middle Eastern,2010,133,0.000647230292324238,Mental disorders
+Greater Middle Eastern (Middle Eastern,2011,189,0.000472122302158273,Mental disorders
+Greater Middle Eastern (Middle Eastern,2012,0,0,Mental disorders
+Greater Middle Eastern (Middle Eastern,2013,0,0,Mental disorders
+Greater Middle Eastern (Middle Eastern,2014,0,0,Mental disorders
+Greater Middle Eastern (Middle Eastern,2015,0,0,Mental disorders
+Greater Middle Eastern (Middle Eastern,2016,0,0,Mental disorders
+Greater Middle Eastern (Middle Eastern,2017,57.5,2.48841588310418e-05,Mental disorders
+Greater Middle Eastern (Middle Eastern,2018,251,1.89562331957661e-05,Mental disorders
+Greater Middle Eastern (Middle Eastern,2019,0,0,Mental disorders
+Greater Middle Eastern (Middle Eastern,2020,45,4.03044798246213e-06,Mental disorders
+Greater Middle Eastern (Middle Eastern,2021,243.5,2.54470291357849e-05,Mental disorders
+Hispanic or Latin American,2006,0,0,Mental disorders
+Hispanic or Latin American,2007,0,0,Mental disorders
+Hispanic or Latin American,2008,85.75,0.000695746010109616,Mental disorders
+Hispanic or Latin American,2009,221.857142857143,0.00112938883555866,Mental disorders
+Hispanic or Latin American,2010,12890.6666666667,0.0627310522926389,Mental disorders
+Hispanic or Latin American,2011,418,0.00104416466826539,Mental disorders
+Hispanic or Latin American,2012,898,0.00493702272239968,Mental disorders
+Hispanic or Latin American,2013,0,0,Mental disorders
+Hispanic or Latin American,2014,320,0.00135469805050484,Mental disorders
+Hispanic or Latin American,2015,5357,0.0436568410930102,Mental disorders
+Hispanic or Latin American,2016,38407,0.00950707615884122,Mental disorders
+Hispanic or Latin American,2017,20358,0.00881029053012779,Mental disorders
+Hispanic or Latin American,2018,3499,0.000264254422119464,Mental disorders
+Hispanic or Latin American,2019,37432.5,0.00314864268328873,Mental disorders
+Hispanic or Latin American,2020,20610.6666666667,0.00184600488630814,Mental disorders
+Hispanic or Latin American,2021,4292,0.000448536546409811,Mental disorders
+Native American,2006,0,0,Mental disorders
+Native American,2007,0,0,Mental disorders
+Native American,2008,51.75,0.000419881702894141,Mental disorders
+Native American,2009,221.857142857143,0.00112938883555866,Mental disorders
+Native American,2010,0,0,Mental disorders
+Native American,2011,2,4.99600319744205e-06,Mental disorders
+Native American,2012,0,0,Mental disorders
+Native American,2013,0,0,Mental disorders
+Native American,2014,320,0.00135469805050484,Mental disorders
+Native American,2015,0,0,Mental disorders
+Native American,2016,0,0,Mental disorders
+Native American,2017,0,0,Mental disorders
+Native American,2018,0,0,Mental disorders
+Native American,2019,2854.5,0.000240106873424101,Mental disorders
+Native American,2020,0,0,Mental disorders
+Native American,2021,0,0,Mental disorders
+North African or Persian),2006,0,0,Mental disorders
+North African or Persian),2007,0,0,Mental disorders
+North African or Persian),2008,0,0,Mental disorders
+North African or Persian),2009,1755,0.00893402565668907,Mental disorders
+North African or Persian),2010,133,0.000647230292324238,Mental disorders
+North African or Persian),2011,189,0.000472122302158273,Mental disorders
+North African or Persian),2012,0,0,Mental disorders
+North African or Persian),2013,0,0,Mental disorders
+North African or Persian),2014,0,0,Mental disorders
+North African or Persian),2015,0,0,Mental disorders
+North African or Persian),2016,0,0,Mental disorders
+North African or Persian),2017,57.5,2.48841588310418e-05,Mental disorders
+North African or Persian),2018,251,1.89562331957661e-05,Mental disorders
+North African or Persian),2019,0,0,Mental disorders
+North African or Persian),2020,45,4.03044798246213e-06,Mental disorders
+North African or Persian),2021,243.5,2.54470291357849e-05,Mental disorders
+Oceanian,2006,0,0,Mental disorders
+Oceanian,2007,0,0,Mental disorders
+Oceanian,2008,51.75,0.000419881702894141,Mental disorders
+Oceanian,2009,221.857142857143,0.00112938883555866,Mental disorders
+Oceanian,2010,0,0,Mental disorders
+Oceanian,2011,0,0,Mental disorders
+Oceanian,2012,0,0,Mental disorders
+Oceanian,2013,0,0,Mental disorders
+Oceanian,2014,0,0,Mental disorders
+Oceanian,2015,0,0,Mental disorders
+Oceanian,2016,0,0,Mental disorders
+Oceanian,2017,0,0,Mental disorders
+Oceanian,2018,0,0,Mental disorders
+Oceanian,2019,2,1.6823042453957e-07,Mental disorders
+Oceanian,2020,0,0,Mental disorders
+Oceanian,2021,0,0,Mental disorders
+Other,2006,0,0,Mental disorders
+Other,2007,0,0,Mental disorders
+Other,2008,7101,0.0576150719275613,Mental disorders
+Other,2009,221.857142857143,0.00112938883555866,Mental disorders
+Other,2010,2884,0.0140346779177677,Mental disorders
+Other,2011,1343,0.00335481614708233,Mental disorders
+Other,2012,1619.5,0.00890368407452815,Mental disorders
+Other,2013,9639,0.020919557692099,Mental disorders
+Other,2014,235,0.000994856380839489,Mental disorders
+Other,2015,6498,0.0529554141165541,Mental disorders
+Other,2016,0,0,Mental disorders
+Other,2017,0,0,Mental disorders
+Other,2018,0,0,Mental disorders
+Other,2019,0,0,Mental disorders
+Other,2020,0,0,Mental disorders
+Other,2021,1085,0.000113388199639945,Mental disorders
+Other admixed ancestry,2006,0,0,Mental disorders
+Other admixed ancestry,2007,0,0,Mental disorders
+Other admixed ancestry,2008,0,0,Mental disorders
+Other admixed ancestry,2009,0,0,Mental disorders
+Other admixed ancestry,2010,0,0,Mental disorders
+Other admixed ancestry,2011,0,0,Mental disorders
+Other admixed ancestry,2012,0,0,Mental disorders
+Other admixed ancestry,2013,0,0,Mental disorders
+Other admixed ancestry,2014,0,0,Mental disorders
+Other admixed ancestry,2015,0,0,Mental disorders
+Other admixed ancestry,2016,0,0,Mental disorders
+Other admixed ancestry,2017,0,0,Mental disorders
+Other admixed ancestry,2018,0,0,Mental disorders
+Other admixed ancestry,2019,0,0,Mental disorders
+Other admixed ancestry,2020,0,0,Mental disorders
+Other admixed ancestry,2021,603,6.30166676339972e-05,Mental disorders
+South Asian,2006,0,0,Mental disorders
+South Asian,2007,0,0,Mental disorders
+South Asian,2008,0,0,Mental disorders
+South Asian,2009,0,0,Mental disorders
+South Asian,2010,0,0,Mental disorders
+South Asian,2011,0,0,Mental disorders
+South Asian,2012,541.25,0.00297568323886284,Mental disorders
+South Asian,2013,0,0,Mental disorders
+South Asian,2014,0,0,Mental disorders
+South Asian,2015,0,0,Mental disorders
+South Asian,2016,0,0,Mental disorders
+South Asian,2017,0,0,Mental disorders
+South Asian,2018,0,0,Mental disorders
+South Asian,2019,5549,0.000466755312885037,Mental disorders
+South Asian,2020,23960,0.00214598963688428,Mental disorders
+South Asian,2021,0,0,Mental disorders
+Sub-Saharan African,2006,0,0,Mental disorders
+Sub-Saharan African,2007,0,0,Mental disorders
+Sub-Saharan African,2008,0,0,Mental disorders
+Sub-Saharan African,2009,0,0,Mental disorders
+Sub-Saharan African,2010,0,0,Mental disorders
+Sub-Saharan African,2011,0,0,Mental disorders
+Sub-Saharan African,2012,0,0,Mental disorders
+Sub-Saharan African,2013,0,0,Mental disorders
+Sub-Saharan African,2014,0,0,Mental disorders
+Sub-Saharan African,2015,0,0,Mental disorders
+Sub-Saharan African,2016,0,0,Mental disorders
+Sub-Saharan African,2017,0,0,Mental disorders
+Sub-Saharan African,2018,1295,9.78020796355261e-05,Mental disorders
+Sub-Saharan African,2019,4213,0.000354377389292605,Mental disorders
+Sub-Saharan African,2020,0,0,Mental disorders
+Sub-Saharan African,2021,0,0,Mental disorders
+African American or Afro-Caribbean,2007,0,0,Musculoskeletal disorders
+African American or Afro-Caribbean,2008,0,0,Musculoskeletal disorders
+African American or Afro-Caribbean,2009,0,0,Musculoskeletal disorders
+African American or Afro-Caribbean,2010,0,0,Musculoskeletal disorders
+African American or Afro-Caribbean,2011,0,0,Musculoskeletal disorders
+African American or Afro-Caribbean,2012,0,0,Musculoskeletal disorders
+African American or Afro-Caribbean,2013,0,0,Musculoskeletal disorders
+African American or Afro-Caribbean,2014,0,0,Musculoskeletal disorders
+African American or Afro-Caribbean,2015,0,0,Musculoskeletal disorders
+African American or Afro-Caribbean,2016,0,0,Musculoskeletal disorders
+African American or Afro-Caribbean,2017,1217,0.00508934582878554,Musculoskeletal disorders
+African American or Afro-Caribbean,2018,2308,0.00082566043891651,Musculoskeletal disorders
+African American or Afro-Caribbean,2019,0,0,Musculoskeletal disorders
+African American or Afro-Caribbean,2020,0,0,Musculoskeletal disorders
+African American or Afro-Caribbean,2021,0,0,Musculoskeletal disorders
+African unspecified,2007,0,0,Musculoskeletal disorders
+African unspecified,2008,0,0,Musculoskeletal disorders
+African unspecified,2009,0,0,Musculoskeletal disorders
+African unspecified,2010,0,0,Musculoskeletal disorders
+African unspecified,2011,0,0,Musculoskeletal disorders
+African unspecified,2012,0,0,Musculoskeletal disorders
+African unspecified,2013,0,0,Musculoskeletal disorders
+African unspecified,2014,0,0,Musculoskeletal disorders
+African unspecified,2015,0,0,Musculoskeletal disorders
+African unspecified,2016,0,0,Musculoskeletal disorders
+African unspecified,2017,0,0,Musculoskeletal disorders
+African unspecified,2018,0,0,Musculoskeletal disorders
+African unspecified,2019,196,9.39089054869153e-05,Musculoskeletal disorders
+African unspecified,2020,0,0,Musculoskeletal disorders
+African unspecified,2021,0,0,Musculoskeletal disorders
+East Asian,2007,0,0,Musculoskeletal disorders
+East Asian,2008,0,0,Musculoskeletal disorders
+East Asian,2009,0,0,Musculoskeletal disorders
+East Asian,2010,35047,0.128924154472083,Musculoskeletal disorders
+East Asian,2011,28552,0.276731022718462,Musculoskeletal disorders
+East Asian,2012,91195,0.420610102575456,Musculoskeletal disorders
+East Asian,2013,39046,0.100446072554962,Musculoskeletal disorders
+East Asian,2014,9299,0.0539122469330489,Musculoskeletal disorders
+East Asian,2015,0,0,Musculoskeletal disorders
+East Asian,2016,444,0.00248479184271939,Musculoskeletal disorders
+East Asian,2017,238,0.000995287023213606,Musculoskeletal disorders
+East Asian,2018,22514,0.00805412440284502,Musculoskeletal disorders
+East Asian,2019,0,0,Musculoskeletal disorders
+East Asian,2020,253008,0.795922989807475,Musculoskeletal disorders
+East Asian,2021,1173693.51875,0.184790475106421,Musculoskeletal disorders
+European,2007,42202,1,Musculoskeletal disorders
+European,2008,31384,1,Musculoskeletal disorders
+European,2009,14735,0.843059846664378,Musculoskeletal disorders
+European,2010,226654,0.833771087617072,Musculoskeletal disorders
+European,2011,74624,0.723268977281538,Musculoskeletal disorders
+European,2012,124779.5,0.575508726293263,Musculoskeletal disorders
+European,2013,346138,0.890442110895592,Musculoskeletal disorders
+European,2014,162548,0.942394656895712,Musculoskeletal disorders
+European,2015,109682,0.99396454851923,Musculoskeletal disorders
+European,2016,177363,0.992590395496035,Musculoskeletal disorders
+European,2017,234352,0.980031531361996,Musculoskeletal disorders
+European,2018,2770516,0.991120215158239,Musculoskeletal disorders
+European,2019,2075668,0.99450872466436,Musculoskeletal disorders
+European,2020,64872,0.204077010192525,Musculoskeletal disorders
+European,2021,5175569.25152845,0.814860000210873,Musculoskeletal disorders
+Greater Middle Eastern (Middle Eastern,2007,0,0,Musculoskeletal disorders
+Greater Middle Eastern (Middle Eastern,2008,0,0,Musculoskeletal disorders
+Greater Middle Eastern (Middle Eastern,2009,0,0,Musculoskeletal disorders
+Greater Middle Eastern (Middle Eastern,2010,0,0,Musculoskeletal disorders
+Greater Middle Eastern (Middle Eastern,2011,0,0,Musculoskeletal disorders
+Greater Middle Eastern (Middle Eastern,2012,0,0,Musculoskeletal disorders
+Greater Middle Eastern (Middle Eastern,2013,0,0,Musculoskeletal disorders
+Greater Middle Eastern (Middle Eastern,2014,0,0,Musculoskeletal disorders
+Greater Middle Eastern (Middle Eastern,2015,0,0,Musculoskeletal disorders
+Greater Middle Eastern (Middle Eastern,2016,0,0,Musculoskeletal disorders
+Greater Middle Eastern (Middle Eastern,2017,1660,0.00694191789300246,Musculoskeletal disorders
+Greater Middle Eastern (Middle Eastern,2018,0,0,Musculoskeletal disorders
+Greater Middle Eastern (Middle Eastern,2019,588,0.000281726716460746,Musculoskeletal disorders
+Greater Middle Eastern (Middle Eastern,2020,0,0,Musculoskeletal disorders
+Greater Middle Eastern (Middle Eastern,2021,0,0,Musculoskeletal disorders
+Hispanic or Latin American,2007,0,0,Musculoskeletal disorders
+Hispanic or Latin American,2008,0,0,Musculoskeletal disorders
+Hispanic or Latin American,2009,0,0,Musculoskeletal disorders
+Hispanic or Latin American,2010,0,0,Musculoskeletal disorders
+Hispanic or Latin American,2011,0,0,Musculoskeletal disorders
+Hispanic or Latin American,2012,0,0,Musculoskeletal disorders
+Hispanic or Latin American,2013,0,0,Musculoskeletal disorders
+Hispanic or Latin American,2014,0,0,Musculoskeletal disorders
+Hispanic or Latin American,2015,666,0.00603545148076993,Musculoskeletal disorders
+Hispanic or Latin American,2016,0,0,Musculoskeletal disorders
+Hispanic or Latin American,2017,0,0,Musculoskeletal disorders
+Hispanic or Latin American,2018,0,0,Musculoskeletal disorders
+Hispanic or Latin American,2019,1970,0.000943880325557261,Musculoskeletal disorders
+Hispanic or Latin American,2020,0,0,Musculoskeletal disorders
+Hispanic or Latin American,2021,0,0,Musculoskeletal disorders
+North African or Persian),2007,0,0,Musculoskeletal disorders
+North African or Persian),2008,0,0,Musculoskeletal disorders
+North African or Persian),2009,0,0,Musculoskeletal disorders
+North African or Persian),2010,0,0,Musculoskeletal disorders
+North African or Persian),2011,0,0,Musculoskeletal disorders
+North African or Persian),2012,0,0,Musculoskeletal disorders
+North African or Persian),2013,0,0,Musculoskeletal disorders
+North African or Persian),2014,0,0,Musculoskeletal disorders
+North African or Persian),2015,0,0,Musculoskeletal disorders
+North African or Persian),2016,0,0,Musculoskeletal disorders
+North African or Persian),2017,1660,0.00694191789300246,Musculoskeletal disorders
+North African or Persian),2018,0,0,Musculoskeletal disorders
+North African or Persian),2019,588,0.000281726716460746,Musculoskeletal disorders
+North African or Persian),2020,0,0,Musculoskeletal disorders
+North African or Persian),2021,0,0,Musculoskeletal disorders
+Other,2007,0,0,Musculoskeletal disorders
+Other,2008,0,0,Musculoskeletal disorders
+Other,2009,2743,0.156940153335622,Musculoskeletal disorders
+Other,2010,10141,0.0373047579108453,Musculoskeletal disorders
+Other,2011,0,0,Musculoskeletal disorders
+Other,2012,841.5,0.00388117113128182,Musculoskeletal disorders
+Other,2013,0,0,Musculoskeletal disorders
+Other,2014,0,0,Musculoskeletal disorders
+Other,2015,0,0,Musculoskeletal disorders
+Other,2016,0,0,Musculoskeletal disorders
+Other,2017,0,0,Musculoskeletal disorders
+Other,2018,0,0,Musculoskeletal disorders
+Other,2019,1828,0.000875844281786128,Musculoskeletal disorders
+Other,2020,0,0,Musculoskeletal disorders
+Other,2021,0,0,Musculoskeletal disorders
+South Asian,2007,0,0,Musculoskeletal disorders
+South Asian,2008,0,0,Musculoskeletal disorders
+South Asian,2009,0,0,Musculoskeletal disorders
+South Asian,2010,0,0,Musculoskeletal disorders
+South Asian,2011,0,0,Musculoskeletal disorders
+South Asian,2012,0,0,Musculoskeletal disorders
+South Asian,2013,3542,0.00911181654944614,Musculoskeletal disorders
+South Asian,2014,0,0,Musculoskeletal disorders
+South Asian,2015,0,0,Musculoskeletal disorders
+South Asian,2016,880,0.00492481266124564,Musculoskeletal disorders
+South Asian,2017,0,0,Musculoskeletal disorders
+South Asian,2018,0,0,Musculoskeletal disorders
+South Asian,2019,2078,0.000995626048988826,Musculoskeletal disorders
+South Asian,2020,0,0,Musculoskeletal disorders
+South Asian,2021,709,0.000111627477495136,Musculoskeletal disorders
+South East Asian,2007,0,0,Musculoskeletal disorders
+South East Asian,2008,0,0,Musculoskeletal disorders
+South East Asian,2009,0,0,Musculoskeletal disorders
+South East Asian,2010,0,0,Musculoskeletal disorders
+South East Asian,2011,0,0,Musculoskeletal disorders
+South East Asian,2012,0,0,Musculoskeletal disorders
+South East Asian,2013,0,0,Musculoskeletal disorders
+South East Asian,2014,0,0,Musculoskeletal disorders
+South East Asian,2015,0,0,Musculoskeletal disorders
+South East Asian,2016,0,0,Musculoskeletal disorders
+South East Asian,2017,0,0,Musculoskeletal disorders
+South East Asian,2018,0,0,Musculoskeletal disorders
+South East Asian,2019,0,0,Musculoskeletal disorders
+South East Asian,2020,0,0,Musculoskeletal disorders
+South East Asian,2021,1511,0.000237897205211777,Musculoskeletal disorders
+Sub-Saharan African,2007,0,0,Musculoskeletal disorders
+Sub-Saharan African,2008,0,0,Musculoskeletal disorders
+Sub-Saharan African,2009,0,0,Musculoskeletal disorders
+Sub-Saharan African,2010,0,0,Musculoskeletal disorders
+Sub-Saharan African,2011,0,0,Musculoskeletal disorders
+Sub-Saharan African,2012,0,0,Musculoskeletal disorders
+Sub-Saharan African,2013,0,0,Musculoskeletal disorders
+Sub-Saharan African,2014,637,0.00369309617123907,Musculoskeletal disorders
+Sub-Saharan African,2015,0,0,Musculoskeletal disorders
+Sub-Saharan African,2016,0,0,Musculoskeletal disorders
+Sub-Saharan African,2017,0,0,Musculoskeletal disorders
+Sub-Saharan African,2018,0,0,Musculoskeletal disorders
+Sub-Saharan African,2019,4213,0.00201856234089987,Musculoskeletal disorders
+Sub-Saharan African,2020,0,0,Musculoskeletal disorders
+Sub-Saharan African,2021,0,0,Musculoskeletal disorders
+African American or Afro-Caribbean,2005,0,0,Neurological disorders
+African American or Afro-Caribbean,2006,0,0,Neurological disorders
+African American or Afro-Caribbean,2007,0,0,Neurological disorders
+African American or Afro-Caribbean,2008,0,0,Neurological disorders
+African American or Afro-Caribbean,2009,0,0,Neurological disorders
+African American or Afro-Caribbean,2010,401,0.00212095247162367,Neurological disorders
+African American or Afro-Caribbean,2011,1021,0.00322679535922987,Neurological disorders
+African American or Afro-Caribbean,2012,0,0,Neurological disorders
+African American or Afro-Caribbean,2013,5896,0.0112924448257964,Neurological disorders
+African American or Afro-Caribbean,2014,4896,0.0269266940553383,Neurological disorders
+African American or Afro-Caribbean,2015,0,0,Neurological disorders
+African American or Afro-Caribbean,2016,5609,0.00185457782151085,Neurological disorders
+African American or Afro-Caribbean,2017,9966,0.00950031362664892,Neurological disorders
+African American or Afro-Caribbean,2018,6780,0.00729051856232694,Neurological disorders
+African American or Afro-Caribbean,2019,0,0,Neurological disorders
+African American or Afro-Caribbean,2020,0,0,Neurological disorders
+African American or Afro-Caribbean,2021,1970,0.00047921560121924,Neurological disorders
+African unspecified,2005,0,0,Neurological disorders
+African unspecified,2006,0,0,Neurological disorders
+African unspecified,2007,0,0,Neurological disorders
+African unspecified,2008,0,0,Neurological disorders
+African unspecified,2009,0,0,Neurological disorders
+African unspecified,2010,0,0,Neurological disorders
+African unspecified,2011,0,0,Neurological disorders
+African unspecified,2012,0,0,Neurological disorders
+African unspecified,2013,0,0,Neurological disorders
+African unspecified,2014,0,0,Neurological disorders
+African unspecified,2015,0,0,Neurological disorders
+African unspecified,2016,0,0,Neurological disorders
+African unspecified,2017,4407,0.00420107185958678,Neurological disorders
+African unspecified,2018,90.75,9.75832683674292e-05,Neurological disorders
+African unspecified,2019,0,0,Neurological disorders
+African unspecified,2020,0,0,Neurological disorders
+African unspecified,2021,0,0,Neurological disorders
+Asian unspecified,2005,2,0.00129032258064516,Neurological disorders
+Asian unspecified,2006,0,0,Neurological disorders
+Asian unspecified,2007,0,0,Neurological disorders
+Asian unspecified,2008,0,0,Neurological disorders
+Asian unspecified,2009,0,0,Neurological disorders
+Asian unspecified,2010,0,0,Neurological disorders
+Asian unspecified,2011,0,0,Neurological disorders
+Asian unspecified,2012,49040,0.223705278331516,Neurological disorders
+Asian unspecified,2013,0,0,Neurological disorders
+Asian unspecified,2014,0,0,Neurological disorders
+Asian unspecified,2015,0.2,3.9820806371329e-06,Neurological disorders
+Asian unspecified,2016,455,0.000150442665143063,Neurological disorders
+Asian unspecified,2017,0,0,Neurological disorders
+Asian unspecified,2018,90.75,9.75832683674292e-05,Neurological disorders
+Asian unspecified,2019,0,0,Neurological disorders
+Asian unspecified,2020,0,0,Neurological disorders
+Asian unspecified,2021,0,0,Neurological disorders
+East Asian,2005,0,0,Neurological disorders
+East Asian,2006,0,0,Neurological disorders
+East Asian,2007,0,0,Neurological disorders
+East Asian,2008,0,0,Neurological disorders
+East Asian,2009,20525,0.230597249685422,Neurological disorders
+East Asian,2010,3086,0.0163223424624205,Neurological disorders
+East Asian,2011,4531,0.014319892039834,Neurological disorders
+East Asian,2012,4613,0.0210430760388109,Neurological disorders
+East Asian,2013,6425,0.0123056238137283,Neurological disorders
+East Asian,2014,1845,0.0101470078701183,Neurological disorders
+East Asian,2015,19856.2,0.395344947735192,Neurological disorders
+East Asian,2016,36280,0.0119957360250337,Neurological disorders
+East Asian,2017,8993,0.00857277949472745,Neurological disorders
+East Asian,2018,0,0,Neurological disorders
+East Asian,2019,0,0,Neurological disorders
+East Asian,2020,58038,0.0243149862815013,Neurological disorders
+East Asian,2021,399941.26875,0.0972883733788917,Neurological disorders
+European,2005,1285,0.829032258064516,Neurological disorders
+European,2006,537,1,Neurological disorders
+European,2007,3242,1,Neurological disorders
+European,2008,20728,1,Neurological disorders
+European,2009,68161,0.765785097968722,Neurological disorders
+European,2010,164578,0.870479091957306,Neurological disorders
+European,2011,310441,0.981125933510949,Neurological disorders
+European,2012,165279,0.753951563975422,Neurological disorders
+European,2013,501542,0.960589444168858,Neurological disorders
+European,2014,168456,0.926463066541273,Neurological disorders
+European,2015,20739,0.412921851667496,Neurological disorders
+European,2016,2980108,0.985352505349807,Neurological disorders
+European,2017,1025537,0.977616208682787,Neurological disorders
+European,2018,922916.25,0.992409742197371,Neurological disorders
+European,2019,3396245,0.997573509930663,Neurological disorders
+European,2020,2328885,0.975685013718499,Neurological disorders
+European,2021,3262210.25793871,0.793554340132828,Neurological disorders
+Greater Middle Eastern (Middle Eastern,2005,0,0,Neurological disorders
+Greater Middle Eastern (Middle Eastern,2006,0,0,Neurological disorders
+Greater Middle Eastern (Middle Eastern,2007,0,0,Neurological disorders
+Greater Middle Eastern (Middle Eastern,2008,0,0,Neurological disorders
+Greater Middle Eastern (Middle Eastern,2009,0,0,Neurological disorders
+Greater Middle Eastern (Middle Eastern,2010,309,0.00163434990955539,Neurological disorders
+Greater Middle Eastern (Middle Eastern,2011,0,0,Neurological disorders
+Greater Middle Eastern (Middle Eastern,2012,0,0,Neurological disorders
+Greater Middle Eastern (Middle Eastern,2013,901,0.00172566024220532,Neurological disorders
+Greater Middle Eastern (Middle Eastern,2014,0,0,Neurological disorders
+Greater Middle Eastern (Middle Eastern,2015,120.5,0.00239920358387257,Neurological disorders
+Greater Middle Eastern (Middle Eastern,2016,0,0,Neurological disorders
+Greater Middle Eastern (Middle Eastern,2017,57.5,5.48131681248558e-05,Neurological disorders
+Greater Middle Eastern (Middle Eastern,2018,0,0,Neurological disorders
+Greater Middle Eastern (Middle Eastern,2019,0,0,Neurological disorders
+Greater Middle Eastern (Middle Eastern,2020,0,0,Neurological disorders
+Greater Middle Eastern (Middle Eastern,2021,123,2.99205679949068e-05,Neurological disorders
+Hispanic or Latin American,2005,0,0,Neurological disorders
+Hispanic or Latin American,2006,0,0,Neurological disorders
+Hispanic or Latin American,2007,0,0,Neurological disorders
+Hispanic or Latin American,2008,0,0,Neurological disorders
+Hispanic or Latin American,2009,0,0,Neurological disorders
+Hispanic or Latin American,2010,12839,0.0679075031999408,Neurological disorders
+Hispanic or Latin American,2011,418,0.00132105823717736,Neurological disorders
+Hispanic or Latin American,2012,0,0,Neurological disorders
+Hispanic or Latin American,2013,0,0,Neurological disorders
+Hispanic or Latin American,2014,0,0,Neurological disorders
+Hispanic or Latin American,2015,5300.2,0.105529118964659,Neurological disorders
+Hispanic or Latin American,2016,1956,0.000646738138505122,Neurological disorders
+Hispanic or Latin American,2017,0,0,Neurological disorders
+Hispanic or Latin American,2018,97.25,0.0001045727035673,Neurological disorders
+Hispanic or Latin American,2019,1970,0.00057864489003691,Neurological disorders
+Hispanic or Latin American,2020,0,0,Neurological disorders
+Hispanic or Latin American,2021,442253,0.107580983393915,Neurological disorders
+Native American,2005,0,0,Neurological disorders
+Native American,2006,0,0,Neurological disorders
+Native American,2007,0,0,Neurological disorders
+Native American,2008,0,0,Neurological disorders
+Native American,2009,0,0,Neurological disorders
+Native American,2010,0,0,Neurological disorders
+Native American,2011,2,6.32085280946105e-06,Neurological disorders
+Native American,2012,0,0,Neurological disorders
+Native American,2013,0,0,Neurological disorders
+Native American,2014,0,0,Neurological disorders
+Native American,2015,0,0,Neurological disorders
+Native American,2016,0,0,Neurological disorders
+Native American,2017,0,0,Neurological disorders
+Native American,2018,0,0,Neurological disorders
+Native American,2019,0,0,Neurological disorders
+Native American,2020,0,0,Neurological disorders
+Native American,2021,0,0,Neurological disorders
+North African or Persian),2005,0,0,Neurological disorders
+North African or Persian),2006,0,0,Neurological disorders
+North African or Persian),2007,0,0,Neurological disorders
+North African or Persian),2008,0,0,Neurological disorders
+North African or Persian),2009,0,0,Neurological disorders
+North African or Persian),2010,309,0.00163434990955539,Neurological disorders
+North African or Persian),2011,0,0,Neurological disorders
+North African or Persian),2012,0,0,Neurological disorders
+North African or Persian),2013,901,0.00172566024220532,Neurological disorders
+North African or Persian),2014,0,0,Neurological disorders
+North African or Persian),2015,120.5,0.00239920358387257,Neurological disorders
+North African or Persian),2016,0,0,Neurological disorders
+North African or Persian),2017,57.5,5.48131681248558e-05,Neurological disorders
+North African or Persian),2018,0,0,Neurological disorders
+North African or Persian),2019,0,0,Neurological disorders
+North African or Persian),2020,0,0,Neurological disorders
+North African or Persian),2021,123,2.99205679949068e-05,Neurological disorders
+Other,2005,263,0.169677419354839,Neurological disorders
+Other,2006,0,0,Neurological disorders
+Other,2007,0,0,Neurological disorders
+Other,2008,0,0,Neurological disorders
+Other,2009,322,0.00361765234585655,Neurological disorders
+Other,2010,7544,0.0399014100895983,Neurological disorders
+Other,2011,0,0,Neurological disorders
+Other,2012,285,0.00130008165425127,Neurological disorders
+Other,2013,6454,0.0123611667072066,Neurological disorders
+Other,2014,6630,0.0364632315332706,Neurological disorders
+Other,2015,4088.2,0.0813977103036337,Neurological disorders
+Other,2016,0,0,Neurological disorders
+Other,2017,0,0,Neurological disorders
+Other,2018,0,0,Neurological disorders
+Other,2019,0,0,Neurological disorders
+Other,2020,0,0,Neurological disorders
+Other,2021,4264,0.00103724635715677,Neurological disorders
+South Asian,2005,0,0,Neurological disorders
+South Asian,2006,0,0,Neurological disorders
+South Asian,2007,0,0,Neurological disorders
+South Asian,2008,0,0,Neurological disorders
+South Asian,2009,0,0,Neurological disorders
+South Asian,2010,0,0,Neurological disorders
+South Asian,2011,0,0,Neurological disorders
+South Asian,2012,0,0,Neurological disorders
+South Asian,2013,0,0,Neurological disorders
+South Asian,2014,0,0,Neurological disorders
+South Asian,2015,0,0,Neurological disorders
+South Asian,2016,0,0,Neurological disorders
+South Asian,2017,0,0,Neurological disorders
+South Asian,2018,0,0,Neurological disorders
+South Asian,2019,2078,0.000610367554059238,Neurological disorders
+South Asian,2020,0,0,Neurological disorders
+South Asian,2021,0,0,Neurological disorders
+South East Asian,2005,0,0,Neurological disorders
+South East Asian,2006,0,0,Neurological disorders
+South East Asian,2007,0,0,Neurological disorders
+South East Asian,2008,0,0,Neurological disorders
+South East Asian,2009,0,0,Neurological disorders
+South East Asian,2010,0,0,Neurological disorders
+South East Asian,2011,0,0,Neurological disorders
+South East Asian,2012,0,0,Neurological disorders
+South East Asian,2013,0,0,Neurological disorders
+South East Asian,2014,0,0,Neurological disorders
+South East Asian,2015,0.2,3.9820806371329e-06,Neurological disorders
+South East Asian,2016,0,0,Neurological disorders
+South East Asian,2017,0,0,Neurological disorders
+South East Asian,2018,0,0,Neurological disorders
+South East Asian,2019,0,0,Neurological disorders
+South East Asian,2020,0,0,Neurological disorders
+South East Asian,2021,0,0,Neurological disorders
+Sub-Saharan African,2005,0,0,Neurological disorders
+Sub-Saharan African,2006,0,0,Neurological disorders
+Sub-Saharan African,2007,0,0,Neurological disorders
+Sub-Saharan African,2008,0,0,Neurological disorders
+Sub-Saharan African,2009,0,0,Neurological disorders
+Sub-Saharan African,2010,0,0,Neurological disorders
+Sub-Saharan African,2011,0,0,Neurological disorders
+Sub-Saharan African,2012,0,0,Neurological disorders
+Sub-Saharan African,2013,0,0,Neurological disorders
+Sub-Saharan African,2014,0,0,Neurological disorders
+Sub-Saharan African,2015,0,0,Neurological disorders
+Sub-Saharan African,2016,0,0,Neurological disorders
+Sub-Saharan African,2017,0,0,Neurological disorders
+Sub-Saharan African,2018,0,0,Neurological disorders
+Sub-Saharan African,2019,4213,0.00123747762524137,Neurological disorders
+Sub-Saharan African,2020,0,0,Neurological disorders
+Sub-Saharan African,2021,0,0,Neurological disorders
+African American or Afro-Caribbean,2007,0,0,Skin disease
+African American or Afro-Caribbean,2008,0,0,Skin disease
+African American or Afro-Caribbean,2009,0,0,Skin disease
+African American or Afro-Caribbean,2010,0,0,Skin disease
+African American or Afro-Caribbean,2011,0,0,Skin disease
+African American or Afro-Caribbean,2012,0,0,Skin disease
+African American or Afro-Caribbean,2013,246.666666666667,0.000651664297778881,Skin disease
+African American or Afro-Caribbean,2014,0,0,Skin disease
+African American or Afro-Caribbean,2015,2554,0.00238918673168797,Skin disease
+African American or Afro-Caribbean,2016,26633,0.0085447654528777,Skin disease
+African American or Afro-Caribbean,2017,0,0,Skin disease
+African American or Afro-Caribbean,2018,8795,0.0011973949478238,Skin disease
+African American or Afro-Caribbean,2019,0,0,Skin disease
+African American or Afro-Caribbean,2020,0,0,Skin disease
+African American or Afro-Caribbean,2021,0,0,Skin disease
+African unspecified,2007,0,0,Skin disease
+African unspecified,2008,0,0,Skin disease
+African unspecified,2009,0,0,Skin disease
+African unspecified,2010,0,0,Skin disease
+African unspecified,2011,0,0,Skin disease
+African unspecified,2012,0,0,Skin disease
+African unspecified,2013,0,0,Skin disease
+African unspecified,2014,3485,0.00993732499187335,Skin disease
+African unspecified,2015,0,0,Skin disease
+African unspecified,2016,0,0,Skin disease
+African unspecified,2017,35,2.51745857521914e-05,Skin disease
+African unspecified,2018,0,0,Skin disease
+African unspecified,2019,0,0,Skin disease
+African unspecified,2020,0,0,Skin disease
+African unspecified,2021,0,0,Skin disease
+Asian unspecified,2007,0,0,Skin disease
+Asian unspecified,2008,0,0,Skin disease
+Asian unspecified,2009,0,0,Skin disease
+Asian unspecified,2010,0,0,Skin disease
+Asian unspecified,2011,0,0,Skin disease
+Asian unspecified,2012,0,0,Skin disease
+Asian unspecified,2013,0,0,Skin disease
+Asian unspecified,2014,380,0.00108355337070642,Skin disease
+Asian unspecified,2015,0.2,1.87093714306027e-07,Skin disease
+Asian unspecified,2016,0,0,Skin disease
+Asian unspecified,2017,0,0,Skin disease
+Asian unspecified,2018,756,0.000102925591876611,Skin disease
+Asian unspecified,2019,0,0,Skin disease
+Asian unspecified,2020,0,0,Skin disease
+Asian unspecified,2021,0,0,Skin disease
+East Asian,2007,0,0,Skin disease
+East Asian,2008,0,0,Skin disease
+East Asian,2009,16022,0.164547601930779,Skin disease
+East Asian,2010,27369,0.319101306999032,Skin disease
+East Asian,2011,19200,0.0671955986882859,Skin disease
+East Asian,2012,92413,0.516946640039828,Skin disease
+East Asian,2013,5530,0.014609609054259,Skin disease
+East Asian,2014,57259,0.163271532771787,Skin disease
+East Asian,2015,74260.2,0.0694680832155423,Skin disease
+East Asian,2016,9175,0.00294364972140401,Skin disease
+East Asian,2017,11383,0.00818749456049129,Skin disease
+East Asian,2018,57794,0.00786836198004877,Skin disease
+East Asian,2019,65933,0.0341693995414575,Skin disease
+East Asian,2020,0,0,Skin disease
+East Asian,2021,273002.76875,0.0891526031168391,Skin disease
+European,2007,6918,1,Skin disease
+European,2008,65099,1,Skin disease
+European,2009,81026,0.832145424668789,Skin disease
+European,2010,52725,0.614732595693083,Skin disease
+European,2011,237858.166666667,0.83244905792004,Skin disease
+European,2012,84979,0.47536178377441,Skin disease
+European,2013,364238.666666667,0.962275682178038,Skin disease
+European,2014,288953,0.8239368345414,Skin disease
+European,2015,985851,0.922232626711557,Skin disease
+European,2016,3081071,0.988511584825718,Skin disease
+European,2017,1377145,0.990544425591477,Skin disease
+European,2018,7275660,0.990544460043632,Skin disease
+European,2019,1854193,0.960924900186153,Skin disease
+European,2020,1918078,1,Skin disease
+European,2021,2779926.16819512,0.907821028709676,Skin disease
+Greater Middle Eastern (Middle Eastern,2007,0,0,Skin disease
+Greater Middle Eastern (Middle Eastern,2008,0,0,Skin disease
+Greater Middle Eastern (Middle Eastern,2009,0,0,Skin disease
+Greater Middle Eastern (Middle Eastern,2010,176,0.00205202345835908,Skin disease
+Greater Middle Eastern (Middle Eastern,2011,9935.66666666667,0.034772555730933,Skin disease
+Greater Middle Eastern (Middle Eastern,2012,186,0.0010404604876739,Skin disease
+Greater Middle Eastern (Middle Eastern,2013,901,0.00238033594175178,Skin disease
+Greater Middle Eastern (Middle Eastern,2014,0,0,Skin disease
+Greater Middle Eastern (Middle Eastern,2015,120.5,0.000112723962869381,Skin disease
+Greater Middle Eastern (Middle Eastern,2016,0,0,Skin disease
+Greater Middle Eastern (Middle Eastern,2017,0,0,Skin disease
+Greater Middle Eastern (Middle Eastern,2018,1053.5,0.000143428718309537,Skin disease
+Greater Middle Eastern (Middle Eastern,2019,602.5,0.000312242173475014,Skin disease
+Greater Middle Eastern (Middle Eastern,2020,0,0,Skin disease
+Greater Middle Eastern (Middle Eastern,2021,123,4.01672489754601e-05,Skin disease
+Hispanic or Latin American,2007,0,0,Skin disease
+Hispanic or Latin American,2008,0,0,Skin disease
+Hispanic or Latin American,2009,0,0,Skin disease
+Hispanic or Latin American,2010,0,0,Skin disease
+Hispanic or Latin American,2011,0,0,Skin disease
+Hispanic or Latin American,2012,0,0,Skin disease
+Hispanic or Latin American,2013,0,0,Skin disease
+Hispanic or Latin American,2014,621,0.00177075432423339,Skin disease
+Hispanic or Latin American,2015,2066.2,0.00193286516249557,Skin disease
+Hispanic or Latin American,2016,0,0,Skin disease
+Hispanic or Latin American,2017,0,0,Skin disease
+Hispanic or Latin American,2018,0,0,Skin disease
+Hispanic or Latin American,2019,1970,0.00102094121451581,Skin disease
+Hispanic or Latin American,2020,0,0,Skin disease
+Hispanic or Latin American,2021,447.333333333333,0.000146082515244085,Skin disease
+North African or Persian),2007,0,0,Skin disease
+North African or Persian),2008,0,0,Skin disease
+North African or Persian),2009,0,0,Skin disease
+North African or Persian),2010,176,0.00205202345835908,Skin disease
+North African or Persian),2011,9935.66666666667,0.034772555730933,Skin disease
+North African or Persian),2012,186,0.0010404604876739,Skin disease
+North African or Persian),2013,901,0.00238033594175178,Skin disease
+North African or Persian),2014,0,0,Skin disease
+North African or Persian),2015,120.5,0.000112723962869381,Skin disease
+North African or Persian),2016,0,0,Skin disease
+North African or Persian),2017,0,0,Skin disease
+North African or Persian),2018,1053.5,0.000143428718309537,Skin disease
+North African or Persian),2019,602.5,0.000312242173475014,Skin disease
+North African or Persian),2020,0,0,Skin disease
+North African or Persian),2021,123,4.01672489754601e-05,Skin disease
+Other,2007,0,0,Skin disease
+Other,2008,0,0,Skin disease
+Other,2009,322,0.00330697340043134,Skin disease
+Other,2010,5323,0.062062050391167,Skin disease
+Other,2011,8803.5,0.0308102319298086,Skin disease
+Other,2012,0,0,Skin disease
+Other,2013,6700.66666666667,0.0177023725864204,Skin disease
+Other,2014,0,0,Skin disease
+Other,2015,3934.2,0.00368032045411386,Skin disease
+Other,2016,0,0,Skin disease
+Other,2017,0,0,Skin disease
+Other,2018,0,0,Skin disease
+Other,2019,0,0,Skin disease
+Other,2020,0,0,Skin disease
+Other,2021,4264,0.00139246463114928,Skin disease
+South Asian,2007,0,0,Skin disease
+South Asian,2008,0,0,Skin disease
+South Asian,2009,0,0,Skin disease
+South Asian,2010,0,0,Skin disease
+South Asian,2011,0,0,Skin disease
+South Asian,2012,0,0,Skin disease
+South Asian,2013,0,0,Skin disease
+South Asian,2014,0,0,Skin disease
+South Asian,2015,76,7.10956114362904e-05,Skin disease
+South Asian,2016,0,0,Skin disease
+South Asian,2017,0,0,Skin disease
+South Asian,2018,0,0,Skin disease
+South Asian,2019,2078,0.00107691159581922,Skin disease
+South Asian,2020,0,0,Skin disease
+South Asian,2021,4310,0.00140748652914011,Skin disease
+South East Asian,2007,0,0,Skin disease
+South East Asian,2008,0,0,Skin disease
+South East Asian,2009,0,0,Skin disease
+South East Asian,2010,0,0,Skin disease
+South East Asian,2011,0,0,Skin disease
+South East Asian,2012,0,0,Skin disease
+South East Asian,2013,0,0,Skin disease
+South East Asian,2014,0,0,Skin disease
+South East Asian,2015,0.2,1.87093714306027e-07,Skin disease
+South East Asian,2016,0,0,Skin disease
+South East Asian,2017,0,0,Skin disease
+South East Asian,2018,0,0,Skin disease
+South East Asian,2019,0,0,Skin disease
+South East Asian,2020,0,0,Skin disease
+South East Asian,2021,0,0,Skin disease
+Sub-Saharan African,2007,0,0,Skin disease
+Sub-Saharan African,2008,0,0,Skin disease
+Sub-Saharan African,2009,0,0,Skin disease
+Sub-Saharan African,2010,0,0,Skin disease
+Sub-Saharan African,2011,0,0,Skin disease
+Sub-Saharan African,2012,1003,0.00561065521041356,Skin disease
+Sub-Saharan African,2013,0,0,Skin disease
+Sub-Saharan African,2014,0,0,Skin disease
+Sub-Saharan African,2015,0,0,Skin disease
+Sub-Saharan African,2016,0,0,Skin disease
+Sub-Saharan African,2017,1728,0.00124290526227962,Skin disease
+Sub-Saharan African,2018,0,0,Skin disease
+Sub-Saharan African,2019,4213,0.00218336311510413,Skin disease
+Sub-Saharan African,2020,0,0,Skin disease
+Sub-Saharan African,2021,0,0,Skin disease
+African American or Afro-Caribbean,2006,0,0,Substance use
+African American or Afro-Caribbean,2007,0,0,Substance use
+African American or Afro-Caribbean,2008,0,0,Substance use
+African American or Afro-Caribbean,2009,0,0,Substance use
+African American or Afro-Caribbean,2010,2906,0.259765799588809,Substance use
+African American or Afro-Caribbean,2011,2001,0.0553113856870387,Substance use
+African American or Afro-Caribbean,2012,2857,0.138206269349845,Substance use
+African American or Afro-Caribbean,2013,5432,0.139895438976023,Substance use
+African American or Afro-Caribbean,2014,10294,0.380048733663147,Substance use
+African American or Afro-Caribbean,2015,0,0,Substance use
+African American or Afro-Caribbean,2016,6670,0.394651204070765,Substance use
+African American or Afro-Caribbean,2017,14920,0.221848839456976,Substance use
+African American or Afro-Caribbean,2018,5339,0.208562834485722,Substance use
+African American or Afro-Caribbean,2019,145364,0.224446657556878,Substance use
+African American or Afro-Caribbean,2020,0,0,Substance use
+African American or Afro-Caribbean,2021,13009.5,0.00508401841734804,Substance use
+African unspecified,2006,0,0,Substance use
+African unspecified,2007,0,0,Substance use
+African unspecified,2008,0,0,Substance use
+African unspecified,2009,0,0,Substance use
+African unspecified,2010,0,0,Substance use
+African unspecified,2011,1103,0.0304889847140448,Substance use
+African unspecified,2012,0,0,Substance use
+African unspecified,2013,1103,0.0284066033119576,Substance use
+African unspecified,2014,0,0,Substance use
+African unspecified,2015,0,0,Substance use
+African unspecified,2016,0,0,Substance use
+African unspecified,2017,0,0,Substance use
+African unspecified,2018,0,0,Substance use
+African unspecified,2019,0,0,Substance use
+African unspecified,2020,0,0,Substance use
+African unspecified,2021,0,0,Substance use
+East Asian,2006,0,0,Substance use
+East Asian,2007,0,0,Substance use
+East Asian,2008,580,0.0219830200121286,Substance use
+East Asian,2009,0,0,Substance use
+East Asian,2010,0,0,Substance use
+East Asian,2011,0,0,Substance use
+East Asian,2012,0,0,Substance use
+East Asian,2013,1371,0.0353086610523063,Substance use
+East Asian,2014,0,0,Substance use
+East Asian,2015,522,0.0146860229574612,Substance use
+East Asian,2016,504,0.0298207206674161,Substance use
+East Asian,2017,0,0,Substance use
+East Asian,2018,344,0.0134380249228486,Substance use
+East Asian,2019,2740,0.00423064748979009,Substance use
+East Asian,2020,0,0,Substance use
+East Asian,2021,155484.76875,0.0607623219910144,Substance use
+European,2006,1929,1,Substance use
+European,2007,454,1,Substance use
+European,2008,25804,0.978016979987871,Substance use
+European,2009,3854,1,Substance use
+European,2010,8281,0.740234200411192,Substance use
+European,2011,33073,0.914199629598916,Substance use
+European,2012,17716,0.857004643962848,Substance use
+European,2013,30923,0.796389296659713,Substance use
+European,2014,16792,0.619951266336853,Substance use
+European,2015,35022,0.985313977042539,Substance use
+European,2016,9727,0.575528075261819,Substance use
+European,2017,52333,0.778151160543024,Substance use
+European,2018,19414,0.758388999570296,Substance use
+European,2019,470885,0.727061475631316,Substance use
+European,2020,1990,1,Substance use
+European,2021,2388110.76819512,0.933256399413596,Substance use
+Greater Middle Eastern (Middle Eastern,2006,0,0,Substance use
+Greater Middle Eastern (Middle Eastern,2007,0,0,Substance use
+Greater Middle Eastern (Middle Eastern,2008,0,0,Substance use
+Greater Middle Eastern (Middle Eastern,2009,0,0,Substance use
+Greater Middle Eastern (Middle Eastern,2010,0,0,Substance use
+Greater Middle Eastern (Middle Eastern,2011,0,0,Substance use
+Greater Middle Eastern (Middle Eastern,2012,0,0,Substance use
+Greater Middle Eastern (Middle Eastern,2013,0,0,Substance use
+Greater Middle Eastern (Middle Eastern,2014,0,0,Substance use
+Greater Middle Eastern (Middle Eastern,2015,0,0,Substance use
+Greater Middle Eastern (Middle Eastern,2016,0,0,Substance use
+Greater Middle Eastern (Middle Eastern,2017,0,0,Substance use
+Greater Middle Eastern (Middle Eastern,2018,251,0.00980507051056682,Substance use
+Greater Middle Eastern (Middle Eastern,2019,0,0,Substance use
+Greater Middle Eastern (Middle Eastern,2020,0,0,Substance use
+Greater Middle Eastern (Middle Eastern,2021,0,0,Substance use
+Hispanic or Latin American,2006,0,0,Substance use
+Hispanic or Latin American,2007,0,0,Substance use
+Hispanic or Latin American,2008,0,0,Substance use
+Hispanic or Latin American,2009,0,0,Substance use
+Hispanic or Latin American,2010,0,0,Substance use
+Hispanic or Latin American,2011,0,0,Substance use
+Hispanic or Latin American,2012,99,0.0047890866873065,Substance use
+Hispanic or Latin American,2013,0,0,Substance use
+Hispanic or Latin American,2014,0,0,Substance use
+Hispanic or Latin American,2015,0,0,Substance use
+Hispanic or Latin American,2016,0,0,Substance use
+Hispanic or Latin American,2017,0,0,Substance use
+Hispanic or Latin American,2018,0,0,Substance use
+Hispanic or Latin American,2019,28287,0.0436760312203256,Substance use
+Hispanic or Latin American,2020,0,0,Substance use
+Hispanic or Latin American,2021,2296,0.000897260178041516,Substance use
+North African or Persian),2006,0,0,Substance use
+North African or Persian),2007,0,0,Substance use
+North African or Persian),2008,0,0,Substance use
+North African or Persian),2009,0,0,Substance use
+North African or Persian),2010,0,0,Substance use
+North African or Persian),2011,0,0,Substance use
+North African or Persian),2012,0,0,Substance use
+North African or Persian),2013,0,0,Substance use
+North African or Persian),2014,0,0,Substance use
+North African or Persian),2015,0,0,Substance use
+North African or Persian),2016,0,0,Substance use
+North African or Persian),2017,0,0,Substance use
+North African or Persian),2018,251,0.00980507051056682,Substance use
+North African or Persian),2019,0,0,Substance use
+North African or Persian),2020,0,0,Substance use
+North African or Persian),2021,0,0,Substance use
+South Asian,2006,0,0,Substance use
+South Asian,2007,0,0,Substance use
+South Asian,2008,0,0,Substance use
+South Asian,2009,0,0,Substance use
+South Asian,2010,0,0,Substance use
+South Asian,2011,0,0,Substance use
+South Asian,2012,0,0,Substance use
+South Asian,2013,0,0,Substance use
+South Asian,2014,0,0,Substance use
+South Asian,2015,0,0,Substance use
+South Asian,2016,0,0,Substance use
+South Asian,2017,0,0,Substance use
+South Asian,2018,0,0,Substance use
+South Asian,2019,379,0.000585188101689943,Substance use
+South Asian,2020,0,0,Substance use
+South Asian,2021,0,0,Substance use

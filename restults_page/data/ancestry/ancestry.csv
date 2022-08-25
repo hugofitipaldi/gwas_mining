@@ -1,0 +1,353 @@
+BROAD_ANCESTRAL_CATEGORY,Trait,total_country,Prop,Id,Prop_zero,Trait_label
+European,All traits,188513820.343592,0.912361358723545,1,0,"All
+traits"
+East Asian,All traits,10310667.7695076,0.0499011416690264,2,0,"All
+traits"
+Hispanic or Latin American,All traits,2420694.70714286,0.0117155777122249,3,0,"All
+traits"
+African American or Afro-Caribbean,All traits,2348073.59401154,0.0113641090648454,4,0,"All
+traits"
+South Asian,All traits,1100338.42575758,0.00532537221594762,5,0,"All
+traits"
+Asian unspecified,All traits,888581.118253968,0.00430051799336862,6,0,"All
+traits"
+African unspecified,All traits,579305.042424243,0.00280369648579746,7,0,"All
+traits"
+Other,All traits,157801.038455988,0.000763718912445167,8,0,"All
+traits"
+Oceanian,All traits,73142.8015873016,0.000353993493503063,9,0,"All
+traits"
+Greater Middle Eastern (Middle Eastern),All traits,57925.7702020202,0.000280346736967603,10,0,"All
+traits"
+North African or Persian,All traits,57925.7702020202,0.000280346736967603,11,0,"All
+traits"
+Sub-Saharan African,All traits,53205.5,0.000257501769276597,12,0,"All
+traits"
+Native American,All traits,38934.8773448773,0.000188435402409022,13,0,"All
+traits"
+South East Asian,All traits,20494.1090909091,9.91865380582211e-05,14,0,"All
+traits"
+Aboriginal Australian,All traits,752,3.6394983694543e-06,15,0,"All
+traits"
+Central Asian,All traits,218.409090909091,1.05704724765643e-06,16,0,"All
+traits"
+European,Cancer,26013640.1715285,0.902680530161337,1,0,Cancer
+East Asian,Cancer,2334452.76875,0.0810061586551129,2,0,Cancer
+African American or Afro-Caribbean,Cancer,232054.916666667,0.00805236998059483,3,0,Cancer
+Hispanic or Latin American,Cancer,87182.85,0.00302526907960811,4,0,Cancer
+African unspecified,Cancer,51775.6,0.00179662768260223,5,0,Cancer
+Other,Cancer,36957.2666666667,0.00128242740531536,6,0,Cancer
+Asian unspecified,Cancer,18927.0166666667,0.000656772728706322,7,0,Cancer
+Sub-Saharan African,Cancer,12564.5,0.000435991635404624,8,0,Cancer
+Greater Middle Eastern (Middle Eastern),Cancer,10522.6666666667,0.000365139452331388,9,0,Cancer
+North African or Persian,Cancer,10522.6666666667,0.000365139452331388,10,0,Cancer
+Oceanian,Cancer,8376,0.000290649523510616,11,0,Cancer
+South East Asian,Cancer,556,1.92933542349454e-05,12,0,Cancer
+South Asian,Cancer,531,1.84258472999208e-05,13,0,Cancer
+Native American,Cancer,150,5.20504161014713e-06,14,0,Cancer
+Aboriginal Australian,Cancer,,0,15,0,Cancer
+Central Asian,Cancer,,0,16,0,Cancer
+European,Chronic respiratory disease,34010889.9606194,0.964962961981448,1,0,"Chronic
+respiratory
+disease"
+East Asian,Chronic respiratory disease,656829.927840909,0.0186356944326158,2,0,"Chronic
+respiratory
+disease"
+Hispanic or Latin American,Chronic respiratory disease,276777.783333333,0.00785278803128176,3,0,"Chronic
+respiratory
+disease"
+African American or Afro-Caribbean,Chronic respiratory disease,220271.025757576,0.00624956835001478,4,0,"Chronic
+respiratory
+disease"
+African unspecified,Chronic respiratory disease,43154.2757575758,0.00122438071468907,5,0,"Chronic
+respiratory
+disease"
+Other,Chronic respiratory disease,21121.4090909091,0.000599260339884807,6,0,"Chronic
+respiratory
+disease"
+Asian unspecified,Chronic respiratory disease,10641.3333333333,0.000301917784117233,7,0,"Chronic
+respiratory
+disease"
+Native American,Chronic respiratory disease,2026.24242424242,5.74889070428145e-05,8,0,"Chronic
+respiratory
+disease"
+Greater Middle Eastern (Middle Eastern),Chronic respiratory disease,1599.57575757576,4.53834452062634e-05,9,0,"Chronic
+respiratory
+disease"
+North African or Persian,Chronic respiratory disease,1599.57575757576,4.53834452062634e-05,10,0,"Chronic
+respiratory
+disease"
+South East Asian,Chronic respiratory disease,234.409090909091,6.65069602532964e-06,11,0,"Chronic
+respiratory
+disease"
+Central Asian,Chronic respiratory disease,218.409090909091,6.19674120645897e-06,12,0,"Chronic
+respiratory
+disease"
+South Asian,Chronic respiratory disease,218.409090909091,6.19674120645897e-06,13,0,"Chronic
+respiratory
+disease"
+Oceanian,Chronic respiratory disease,216,6.12839005475401e-06,14,0,"Chronic
+respiratory
+disease"
+Aboriginal Australian,Chronic respiratory disease,,0,15,0,"Chronic
+respiratory
+disease"
+Sub-Saharan African,Chronic respiratory disease,,0,16,0,"Chronic
+respiratory
+disease"
+European,CVD,49095938.2557947,0.922675756589968,1,0,CVD
+East Asian,CVD,1971493.46041667,0.0370509106216627,2,0,CVD
+African American or Afro-Caribbean,CVD,717979.894444445,0.0134932270541693,3,0,CVD
+South Asian,CVD,563064.866666667,0.0105818591174307,4,0,CVD
+Hispanic or Latin American,CVD,435817.483333333,0.00819045812047919,5,0,CVD
+African unspecified,CVD,228996.916666667,0.00430361269890281,6,0,CVD
+Asian unspecified,CVD,57803.8277777778,0.00108632592477978,7,0,CVD
+Greater Middle Eastern (Middle Eastern),CVD,37378.0277777778,0.000702457296569363,8,0,CVD
+North African or Persian,CVD,37378.0277777778,0.000702457296569363,9,0,CVD
+Other,CVD,35726.8388888889,0.000671425972768383,10,0,CVD
+Oceanian,CVD,8170.19444444444,0.000153545091678234,11,0,CVD
+South East Asian,CVD,8037.7,0.000151055080974399,12,0,CVD
+Sub-Saharan African,CVD,7176,0.000134860875757031,13,0,CVD
+Native American,CVD,5430.02777777778,0.000102048258290986,14,0,CVD
+Aboriginal Australian,CVD,,0,15,0,CVD
+Central Asian,CVD,,0,16,0,CVD
+European,Diabetes and CKD,42017427.8015285,0.872174872655547,1,0,"Diabetes
+and
+CKD"
+East Asian,Diabetes and CKD,2574619.33541667,0.0534425453554741,2,0,"Diabetes
+and
+CKD"
+Hispanic or Latin American,Diabetes and CKD,1087201.15,0.0225675290984309,3,0,"Diabetes
+and
+CKD"
+African American or Afro-Caribbean,Diabetes and CKD,879293.566666667,0.0182518967642861,4,0,"Diabetes
+and
+CKD"
+Asian unspecified,Diabetes and CKD,643543.75,0.013358330520749,5,0,"Diabetes
+and
+CKD"
+South Asian,Diabetes and CKD,633277.816666667,0.0131452358701201,6,0,"Diabetes
+and
+CKD"
+African unspecified,Diabetes and CKD,184265.5,0.00382488284995553,7,0,"Diabetes
+and
+CKD"
+Oceanian,Diabetes and CKD,55592,0.00115394844609939,8,0,"Diabetes
+and
+CKD"
+Native American,Diabetes and CKD,27584,0.000572573642560182,9,0,"Diabetes
+and
+CKD"
+Greater Middle Eastern (Middle Eastern),Diabetes and CKD,20302,0.000421417854236399,10,0,"Diabetes
+and
+CKD"
+North African or Persian,Diabetes and CKD,20302,0.000421417854236399,11,0,"Diabetes
+and
+CKD"
+South East Asian,Diabetes and CKD,13223.5,0.000274486208033446,12,0,"Diabetes
+and
+CKD"
+Other,Diabetes and CKD,11378,0.000236178324574019,13,0,"Diabetes
+and
+CKD"
+Sub-Saharan African,Diabetes and CKD,6700,0.000139074949432759,14,0,"Diabetes
+and
+CKD"
+Aboriginal Australian,Diabetes and CKD,752,1.56096062646917e-05,15,0,"Diabetes
+and
+CKD"
+Central Asian,Diabetes and CKD,,0,16,0,"Diabetes
+and
+CKD"
+European,Digestive diseases,50595598.1946836,0.908144540219397,1,0,"Digestive
+disorders"
+East Asian,Digestive diseases,3371278.58541667,0.0605113557334405,2,0,"Digestive
+disorders"
+South Asian,Digestive diseases,576858.4,0.0103540787169652,3,0,"Digestive
+disorders"
+African American or Afro-Caribbean,Digestive diseases,502139.65,0.00901294574718746,4,0,"Digestive
+disorders"
+Hispanic or Latin American,Digestive diseases,335739.316666667,0.00602621252138614,5,0,"Digestive
+disorders"
+Asian unspecified,Digestive diseases,189070.333333333,0.00339363891446529,6,0,"Digestive
+disorders"
+African unspecified,Digestive diseases,60384.0833333333,0.00108383886250962,7,0,"Digestive
+disorders"
+Sub-Saharan African,Digestive diseases,32390,0.000581370765585633,8,0,"Digestive
+disorders"
+Other,Digestive diseases,14705.6666666667,0.000263953216685617,9,0,"Digestive
+disorders"
+Native American,Digestive diseases,14403.5,0.000258529602411629,10,0,"Digestive
+disorders"
+South East Asian,Digestive diseases,10711,0.000192252617171587,11,0,"Digestive
+disorders"
+Greater Middle Eastern (Middle Eastern),Digestive diseases,3667.5,6.58282581903461e-05,12,0,"Digestive
+disorders"
+North African or Persian,Digestive diseases,3667.5,6.58282581903461e-05,13,0,"Digestive
+disorders"
+Oceanian,Digestive diseases,1790,3.21288567582057e-05,14,0,"Digestive
+disorders"
+Aboriginal Australian,Digestive diseases,752,1.3497709654844e-05,15,0,"Digestive
+disorders"
+Central Asian,Digestive diseases,,0,16,0,"Digestive
+disorders"
+European,Mental disorders,52203039.6871583,0.96336080686498,1,0,"Mental
+disorders"
+East Asian,Mental disorders,1153410.85208333,0.0212851744988168,2,0,"Mental
+disorders"
+African American or Afro-Caribbean,Mental disorders,444346.607142857,0.00820002261458658,3,0,"Mental
+disorders"
+Hispanic or Latin American,Mental disorders,144790.440476191,0.00267197918740719,4,0,"Mental
+disorders"
+Asian unspecified,Mental disorders,107856.107142857,0.00199038881691823,5,0,"Mental
+disorders"
+African unspecified,Mental disorders,58954.1666666667,0.00108794686877254,6,0,"Mental
+disorders"
+Other,Mental disorders,31229.3571428571,0.000576310093728474,7,0,"Mental
+disorders"
+South Asian,Mental disorders,30050.25,0.000554550716969375,8,0,"Mental
+disorders"
+Sub-Saharan African,Mental disorders,5508,0.000101645255832058,9,0,"Mental
+disorders"
+Native American,Mental disorders,3450.10714285714,6.36686679709017e-05,10,0,"Mental
+disorders"
+Greater Middle Eastern (Middle Eastern),Mental disorders,2775,5.12101642944739e-05,11,0,"Mental
+disorders"
+North African or Persian,Mental disorders,2775,5.12101642944739e-05,12,0,"Mental
+disorders"
+Oceanian,Mental disorders,275.607142857143,5.08608542934949e-06,13,0,"Mental
+disorders"
+Aboriginal Australian,Mental disorders,,0,14,0,"Mental
+disorders"
+Central Asian,Mental disorders,,0,15,0,"Mental
+disorders"
+South East Asian,Mental disorders,,0,16,0,"Mental
+disorders"
+European,Musculoskeletal disorders,11631086.7515285,0.872936029605052,1,0,"Musculoskeletal
+disorders"
+East Asian,Musculoskeletal disorders,1653036.51875,0.124063655124931,2,0,"Musculoskeletal
+disorders"
+Other,Musculoskeletal disorders,15553.5,0.00116732088982811,3,0,"Musculoskeletal
+disorders"
+South Asian,Musculoskeletal disorders,7209,0.000541049686229522,4,0,"Musculoskeletal
+disorders"
+Sub-Saharan African,Musculoskeletal disorders,4850,0.000364002077710248,5,0,"Musculoskeletal
+disorders"
+African American or Afro-Caribbean,Musculoskeletal disorders,3525,0.000264558211119304,6,0,"Musculoskeletal
+disorders"
+Hispanic or Latin American,Musculoskeletal disorders,2636,0.00019783700553489,7,0,"Musculoskeletal
+disorders"
+Greater Middle Eastern (Middle Eastern),Musculoskeletal disorders,2248,0.00016871683931807,8,0,"Musculoskeletal
+disorders"
+North African or Persian,Musculoskeletal disorders,2248,0.00016871683931807,9,0,"Musculoskeletal
+disorders"
+South East Asian,Musculoskeletal disorders,1511,0.000113403533901069,10,0,"Musculoskeletal
+disorders"
+African unspecified,Musculoskeletal disorders,196,1.47101870579812e-05,11,0,"Musculoskeletal
+disorders"
+Aboriginal Australian,Musculoskeletal disorders,,0,12,0,"Musculoskeletal
+disorders"
+Asian unspecified,Musculoskeletal disorders,,0,13,0,"Musculoskeletal
+disorders"
+Central Asian,Musculoskeletal disorders,,0,14,0,"Musculoskeletal
+disorders"
+Native American,Musculoskeletal disorders,,0,15,0,"Musculoskeletal
+disorders"
+Oceanian,Musculoskeletal disorders,,0,16,0,"Musculoskeletal
+disorders"
+European,Neurological disorders,15340889.5079387,0.929770797400073,1,0,"Neurological
+disorders"
+East Asian,Neurological disorders,564133.46875,0.0341906396502189,2,0,"Neurological
+disorders"
+Hispanic or Latin American,Neurological disorders,464833.45,0.0281723277676353,3,0,"Neurological
+disorders"
+Asian unspecified,Neurological disorders,49587.95,0.00300539468647343,4,0,"Neurological
+disorders"
+African American or Afro-Caribbean,Neurological disorders,36539,0.00221453228957948,5,0,"Neurological
+disorders"
+Other,Neurological disorders,29850.2,0.00180914178686897,6,0,"Neurological
+disorders"
+African unspecified,Neurological disorders,4497.75,0.000272596748828815,7,0,"Neurological
+disorders"
+Sub-Saharan African,Neurological disorders,4213,0.000255338803360747,8,0,"Neurological
+disorders"
+South Asian,Neurological disorders,2078,0.000125942091949592,9,0,"Neurological
+disorders"
+Greater Middle Eastern (Middle Eastern),Neurological disorders,1511,9.15777194108921e-05,10,0,"Neurological
+disorders"
+North African or Persian,Neurological disorders,1511,9.15777194108921e-05,11,0,"Neurological
+disorders"
+Native American,Neurological disorders,2,1.21214717949559e-07,12,0,"Neurological
+disorders"
+South East Asian,Neurological disorders,0.2,1.21214717949559e-08,13,0,"Neurological
+disorders"
+Aboriginal Australian,Neurological disorders,,0,14,0,"Neurological
+disorders"
+Central Asian,Neurological disorders,,0,15,0,"Neurological
+disorders"
+Oceanian,Neurological disorders,,0,16,0,"Neurological
+disorders"
+European,Skin disease,21069117.0015285,0.962262288138695,1,0,"Skin
+disease"
+East Asian,Skin disease,709340.96875,0.0323968044607838,2,0,"Skin
+disease"
+African American or Afro-Caribbean,Skin disease,38228.6666666667,0.00174596800883917,3,0,"Skin
+disease"
+Other,Skin disease,29347.3666666667,0.00134034398297106,4,0,"Skin
+disease"
+Greater Middle Eastern (Middle Eastern),Skin disease,13098.1666666667,0.000598215474629255,5,0,"Skin
+disease"
+North African or Persian,Skin disease,13098.1666666667,0.000598215474629255,6,0,"Skin
+disease"
+Sub-Saharan African,Skin disease,6944,0.000317144250912383,7,0,"Skin
+disease"
+South Asian,Skin disease,6464,0.000295221837254845,8,0,"Skin
+disease"
+Hispanic or Latin American,Skin disease,5104.53333333333,0.000233132690129218,9,0,"Skin
+disease"
+African unspecified,Skin disease,3520,0.000160764366821945,10,0,"Skin
+disease"
+Asian unspecified,Skin disease,1136.2,5.18921799951972e-05,11,0,"Skin
+disease"
+South East Asian,Skin disease,0.2,9.13433902397417e-09,12,0,"Skin
+disease"
+Aboriginal Australian,Skin disease,,0,13,0,"Skin
+disease"
+Central Asian,Skin disease,,0,14,0,"Skin
+disease"
+Native American,Skin disease,,0,15,0,"Skin
+disease"
+Oceanian,Skin disease,,0,16,0,"Skin
+disease"
+European,Substance use,3116307.76819512,0.885210333296193,1,0,"Substance
+abuse"
+African American or Afro-Caribbean,Substance use,208792.5,0.0593090581107113,2,0,"Substance
+abuse"
+East Asian,Substance use,161545.76875,0.0458882736991668,3,0,"Substance
+abuse"
+Hispanic or Latin American,Substance use,30682,0.00871544964954605,4,0,"Substance
+abuse"
+African unspecified,Substance use,2206,0.000626630660546854,5,0,"Substance
+abuse"
+South Asian,Substance use,379,0.00010765776081018,6,0,"Substance
+abuse"
+Greater Middle Eastern (Middle Eastern),Substance use,251,7.12984115128107e-05,7,0,"Substance
+abuse"
+North African or Persian,Substance use,251,7.12984115128107e-05,8,0,"Substance
+abuse"
+Aboriginal Australian,Substance use,,0,9,0,"Substance
+abuse"
+Asian unspecified,Substance use,,0,10,0,"Substance
+abuse"
+Central Asian,Substance use,,0,11,0,"Substance
+abuse"
+Native American,Substance use,,0,12,0,"Substance
+abuse"
+Oceanian,Substance use,,0,13,0,"Substance
+abuse"
+Other,Substance use,,0,14,0,"Substance
+abuse"
+South East Asian,Substance use,,0,15,0,"Substance
+abuse"
+Sub-Saharan African,Substance use,,0,16,0,"Substance
+abuse"

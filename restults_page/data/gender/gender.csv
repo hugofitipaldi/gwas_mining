@@ -1,0 +1,199 @@
+gender,prop,position,Trait,plataform
+Female,0.337994359045957,All,All traits,genderAPI
+Male,0.662005640954043,All,All traits,genderAPI
+Female,0.394585427158535,First,All traits,genderAPI
+Male,0.605414572841465,First,All traits,genderAPI
+Female,0.249837536318673,Senior,All traits,genderAPI
+Male,0.750162463681327,Senior,All traits,genderAPI
+Female,0.367563551296636,All,Cancer,genderAPI
+Male,0.632436448703364,All,Cancer,genderAPI
+Female,0.431895072977089,First,Cancer,genderAPI
+Male,0.568104927022911,First,Cancer,genderAPI
+Female,0.268897690655209,Senior,Cancer,genderAPI
+Male,0.731102309344791,Senior,Cancer,genderAPI
+Female,0.318818387602743,All,CVD,genderAPI
+Male,0.681181612397257,All,CVD,genderAPI
+Female,0.379758297258297,First,CVD,genderAPI
+Male,0.620241702741703,First,CVD,genderAPI
+Female,0.268300425861401,Senior,CVD,genderAPI
+Male,0.731699574138599,Senior,CVD,genderAPI
+Female,0.330914409961166,All,Chronic respiratory disease,genderAPI
+Male,0.669085590038834,All,Chronic respiratory disease,genderAPI
+Female,0.418296459798436,First,Chronic respiratory disease,genderAPI
+Male,0.581703540201564,First,Chronic respiratory disease,genderAPI
+Female,0.201895424836601,Senior,Chronic respiratory disease,genderAPI
+Male,0.798104575163399,Senior,Chronic respiratory disease,genderAPI
+Female,0.344964388307586,All,Diabetes and CKD,genderAPI
+Male,0.655035611692414,All,Diabetes and CKD,genderAPI
+Female,0.390845070422535,First,Diabetes and CKD,genderAPI
+Male,0.609154929577465,First,Diabetes and CKD,genderAPI
+Female,0.235954616588419,Senior,Diabetes and CKD,genderAPI
+Male,0.764045383411581,Senior,Diabetes and CKD,genderAPI
+Female,0.308626035471204,All,Digestive diseases,genderAPI
+Male,0.691373964528796,All,Digestive diseases,genderAPI
+Female,0.352095667095667,First,Digestive diseases,genderAPI
+Male,0.647904332904333,First,Digestive diseases,genderAPI
+Female,0.21186457705445,Senior,Digestive diseases,genderAPI
+Male,0.78813542294555,Senior,Digestive diseases,genderAPI
+Female,0.344374282282371,All,Mental disorders,genderAPI
+Male,0.655625717717629,All,Mental disorders,genderAPI
+Female,0.369799196787149,First,Mental disorders,genderAPI
+Male,0.630200803212851,First,Mental disorders,genderAPI
+Female,0.265702409229725,Senior,Mental disorders,genderAPI
+Male,0.734297590770275,Senior,Mental disorders,genderAPI
+Female,0.362266367672923,All,Musculoskeletal disorders,genderAPI
+Male,0.637733632327077,All,Musculoskeletal disorders,genderAPI
+Female,0.481372549019608,First,Musculoskeletal disorders,genderAPI
+Male,0.518627450980392,First,Musculoskeletal disorders,genderAPI
+Female,0.343604651162791,Senior,Musculoskeletal disorders,genderAPI
+Male,0.656395348837209,Senior,Musculoskeletal disorders,genderAPI
+Female,0.358085249664056,All,Neurological disorders,genderAPI
+Male,0.641914750335944,All,Neurological disorders,genderAPI
+Female,0.37991452991453,First,Neurological disorders,genderAPI
+Male,0.62008547008547,First,Neurological disorders,genderAPI
+Female,0.236636904761905,Senior,Neurological disorders,genderAPI
+Male,0.763363095238095,Senior,Neurological disorders,genderAPI
+Female,0.350117869591227,All,Skin disease,genderAPI
+Male,0.649882130408773,All,Skin disease,genderAPI
+Female,0.380555555555556,First,Skin disease,genderAPI
+Male,0.619444444444445,First,Skin disease,genderAPI
+Female,0.256497175141243,Senior,Skin disease,genderAPI
+Male,0.743502824858757,Senior,Skin disease,genderAPI
+Female,0.283877593828299,All,Substance use,genderAPI
+Male,0.716122406171701,All,Substance use,genderAPI
+Female,0.251851851851852,First,Substance use,genderAPI
+Male,0.748148148148148,First,Substance use,genderAPI
+Female,0.298076923076923,Senior,Substance use,genderAPI
+Male,0.701923076923077,Senior,Substance use,genderAPI
+Female,0.346300602644122,All,All traits,genderize.io
+Male,0.653699397355878,All,All traits,genderize.io
+Female,0.414661804987944,First,All traits,genderize.io
+Male,0.585338195012056,First,All traits,genderize.io
+Female,0.270717492207464,Senior,All traits,genderize.io
+Male,0.729282507792536,Senior,All traits,genderize.io
+Female,0.378786000689793,All,Cancer,genderize.io
+Male,0.621213999310207,All,Cancer,genderize.io
+Female,0.45549369040076,First,Cancer,genderize.io
+Male,0.54450630959924,First,Cancer,genderize.io
+Female,0.321174118502363,Senior,Cancer,genderize.io
+Male,0.678825881497637,Senior,Cancer,genderize.io
+Female,0.332609259636237,All,CVD,genderize.io
+Male,0.667390740363763,All,CVD,genderize.io
+Female,0.410492940894951,First,CVD,genderize.io
+Male,0.589507059105049,First,CVD,genderize.io
+Female,0.2836987771299,Senior,CVD,genderize.io
+Male,0.7163012228701,Senior,CVD,genderize.io
+Female,0.332135198300463,All,Chronic respiratory disease,genderize.io
+Male,0.667864801699538,All,Chronic respiratory disease,genderize.io
+Female,0.467162038503502,First,Chronic respiratory disease,genderize.io
+Male,0.532837961496498,First,Chronic respiratory disease,genderize.io
+Female,0.22433598937583,Senior,Chronic respiratory disease,genderize.io
+Male,0.77566401062417,Senior,Chronic respiratory disease,genderize.io
+Female,0.363513856991331,All,Diabetes and CKD,genderize.io
+Male,0.636486143008669,All,Diabetes and CKD,genderize.io
+Female,0.412243191591018,First,Diabetes and CKD,genderize.io
+Male,0.587756808408982,First,Diabetes and CKD,genderize.io
+Female,0.245061260578502,Senior,Diabetes and CKD,genderize.io
+Male,0.754938739421498,Senior,Diabetes and CKD,genderize.io
+Female,0.325793928780031,All,Digestive diseases,genderize.io
+Male,0.674206071219969,All,Digestive diseases,genderize.io
+Female,0.376834887232299,First,Digestive diseases,genderize.io
+Male,0.623165112767701,First,Digestive diseases,genderize.io
+Female,0.216682702329982,Senior,Digestive diseases,genderize.io
+Male,0.783317297670018,Senior,Digestive diseases,genderize.io
+Female,0.344152790690029,All,Mental disorders,genderize.io
+Male,0.655847209309971,All,Mental disorders,genderize.io
+Female,0.371316872427984,First,Mental disorders,genderize.io
+Male,0.628683127572017,First,Mental disorders,genderize.io
+Female,0.260342375450289,Senior,Mental disorders,genderize.io
+Male,0.739657624549711,Senior,Mental disorders,genderize.io
+Female,0.356481273012907,All,Musculoskeletal disorders,genderize.io
+Male,0.643518726987093,All,Musculoskeletal disorders,genderize.io
+Female,0.486788617886179,First,Musculoskeletal disorders,genderize.io
+Male,0.513211382113821,First,Musculoskeletal disorders,genderize.io
+Female,0.36921568627451,Senior,Musculoskeletal disorders,genderize.io
+Male,0.63078431372549,Senior,Musculoskeletal disorders,genderize.io
+Female,0.35694587371474,All,Neurological disorders,genderize.io
+Male,0.64305412628526,All,Neurological disorders,genderize.io
+Female,0.367621527777778,First,Neurological disorders,genderize.io
+Male,0.632378472222222,First,Neurological disorders,genderize.io
+Female,0.244688644688645,Senior,Neurological disorders,genderize.io
+Male,0.755311355311355,Senior,Neurological disorders,genderize.io
+Female,0.360633565049472,All,Skin disease,genderize.io
+Male,0.639366434950528,All,Skin disease,genderize.io
+Female,0.418163265306123,First,Skin disease,genderize.io
+Male,0.581836734693878,First,Skin disease,genderize.io
+Female,0.319508670520231,Senior,Skin disease,genderize.io
+Male,0.680491329479769,Senior,Skin disease,genderize.io
+Female,0.280593876840174,All,Substance use,genderize.io
+Male,0.719406123159826,All,Substance use,genderize.io
+Female,0.221014492753623,First,Substance use,genderize.io
+Male,0.778985507246377,First,Substance use,genderize.io
+Female,0.33,Senior,Substance use,genderize.io
+Male,0.67,Senior,Substance use,genderize.io
+Female,0.33862203463253,All,All traits,Both
+Male,0.66137796536747,All,All traits,Both
+Female,0.396592856595781,First,All traits,Both
+Male,0.603407143404219,First,All traits,Both
+Female,0.249258286549567,Senior,All traits,Both
+Male,0.750741713450433,Senior,All traits,Both
+Female,0.367146180156384,All,Cancer,Both
+Male,0.632853819843616,All,Cancer,Both
+Female,0.436431025293276,First,Cancer,Both
+Male,0.563568974706724,First,Cancer,Both
+Female,0.266569135471575,Senior,Cancer,Both
+Male,0.733430864528426,Senior,Cancer,Both
+Female,0.322509039904275,All,CVD,Both
+Male,0.677490960095725,All,CVD,Both
+Female,0.391102512643775,First,CVD,Both
+Male,0.608897487356225,First,CVD,Both
+Female,0.268650793650794,Senior,CVD,Both
+Male,0.731349206349206,Senior,CVD,Both
+Female,0.332661159416451,All,Chronic respiratory disease,Both
+Male,0.667338840583549,All,Chronic respiratory disease,Both
+Female,0.439175798160173,First,Chronic respiratory disease,Both
+Male,0.560824201839827,First,Chronic respiratory disease,Both
+Female,0.204144965277778,Senior,Chronic respiratory disease,Both
+Male,0.795855034722222,Senior,Chronic respiratory disease,Both
+Female,0.347502113308099,All,Diabetes and CKD,Both
+Male,0.652497886691901,All,Diabetes and CKD,Both
+Female,0.399517475221701,First,Diabetes and CKD,Both
+Male,0.600482524778299,First,Diabetes and CKD,Both
+Female,0.237480438184664,Senior,Diabetes and CKD,Both
+Male,0.762519561815337,Senior,Diabetes and CKD,Both
+Female,0.310857435904248,All,Digestive diseases,Both
+Male,0.689142564095752,All,Digestive diseases,Both
+Female,0.358142743357797,First,Digestive diseases,Both
+Male,0.641857256642203,First,Digestive diseases,Both
+Female,0.208132771760931,Senior,Digestive diseases,Both
+Male,0.791867228239069,Senior,Digestive diseases,Both
+Female,0.342431886101678,All,Mental disorders,Both
+Male,0.657568113898322,All,Mental disorders,Both
+Female,0.35984126984127,First,Mental disorders,Both
+Male,0.64015873015873,First,Mental disorders,Both
+Female,0.262217723453018,Senior,Mental disorders,Both
+Male,0.737782276546982,Senior,Mental disorders,Both
+Female,0.362144868734216,All,Musculoskeletal disorders,Both
+Male,0.637855131265784,All,Musculoskeletal disorders,Both
+Female,0.47577519379845,First,Musculoskeletal disorders,Both
+Male,0.52422480620155,First,Musculoskeletal disorders,Both
+Female,0.343604651162791,Senior,Musculoskeletal disorders,Both
+Male,0.656395348837209,Senior,Musculoskeletal disorders,Both
+Female,0.355652684103628,All,Neurological disorders,Both
+Male,0.644347315896373,All,Neurological disorders,Both
+Female,0.367424242424242,First,Neurological disorders,Both
+Male,0.632575757575758,First,Neurological disorders,Both
+Female,0.239136904761905,Senior,Neurological disorders,Both
+Male,0.760863095238095,Senior,Neurological disorders,Both
+Female,0.346143804285504,All,Skin disease,Both
+Male,0.653856195714496,All,Skin disease,Both
+Female,0.377700186219739,First,Skin disease,Both
+Male,0.622299813780261,First,Skin disease,Both
+Female,0.259269662921348,Senior,Skin disease,Both
+Male,0.740730337078652,Senior,Skin disease,Both
+Female,0.281895971057248,All,Substance use,Both
+Male,0.718104028942752,All,Substance use,Both
+Female,0.203333333333333,First,Substance use,Both
+Male,0.796666666666667,First,Substance use,Both
+Female,0.298076923076923,Senior,Substance use,Both
+Male,0.701923076923077,Senior,Substance use,Both

@@ -1,0 +1,106 @@
+Income_group,Prop,position,Trait
+HIC,89.4187525143996,All,All traits
+UMIC,9.80131435549054,All,All traits
+LMIC,0.651560476722296,All,All traits
+LIC,0.128372653387557,All,All traits
+HIC,90.2398817366209,First,All traits
+UMIC,9.27247161051509,First,All traits
+LMIC,0.415182884748102,First,All traits
+LIC,0.072463768115942,First,All traits
+HIC,91.0373102139406,Senior,All traits
+UMIC,8.53938060731539,Senior,All traits
+LMIC,0.365338164251208,Senior,All traits
+LIC,0.0579710144927536,Senior,All traits
+HIC,87.3791399683894,All,Cancer
+UMIC,12.1265004404385,All,Cancer
+LMIC,0.342043442677525,All,Cancer
+LIC,0.152316148494591,All,Cancer
+HIC,89.6090545945549,All,CVD
+UMIC,9.54367263796287,All,CVD
+LMIC,0.778755260677296,All,CVD
+LIC,0.0685175068048877,All,CVD
+HIC,88.2285829253371,All,Chronic respiratory disease
+UMIC,11.4704435383952,All,Chronic respiratory disease
+LMIC,0.300973536267654,All,Chronic respiratory disease
+HIC,87.9169284323621,All,Diabetes and CKD
+UMIC,10.9695626321558,All,Diabetes and CKD
+LMIC,1.09510743165455,All,Diabetes and CKD
+LIC,0.0184015038275128,All,Diabetes and CKD
+HIC,84.6964036771544,All,Digestive diseases
+UMIC,13.668802630436,All,Digestive diseases
+LMIC,1.37698292580905,All,Digestive diseases
+LIC,0.257810766600489,All,Digestive diseases
+HIC,92.2363450496784,All,Mental disorders
+UMIC,7.70054019405183,All,Mental disorders
+LMIC,0.0590086546026751,All,Mental disorders
+LIC,0.00410610166707728,All,Mental disorders
+HIC,92.8328412613248,All,Musculoskeletal disorders
+UMIC,4.98917332539573,All,Musculoskeletal disorders
+LMIC,2.10084033613445,All,Musculoskeletal disorders
+LIC,0.0771450771450772,All,Musculoskeletal disorders
+HIC,94.0026817723736,All,Neurological disorders
+UMIC,5.97263601116341,All,Neurological disorders
+LIC,0.0123411082315192,All,Neurological disorders
+LMIC,0.0123411082315192,All,Neurological disorders
+HIC,85.3147329091453,All,Skin disease
+UMIC,13.6659064659541,All,Skin disease
+LMIC,0.759907623512112,All,Skin disease
+LIC,0.259453001388485,All,Skin disease
+HIC,95.1010378510379,All,Substance use
+UMIC,4.89896214896215,All,Substance use
+HIC,88.3552166487946,First,Cancer
+UMIC,11.3695539934072,First,Cancer
+LMIC,0.275229357798165,First,Cancer
+HIC,90.6494363382724,First,CVD
+UMIC,8.92319873317498,First,CVD
+LMIC,0.427364928552577,First,CVD
+HIC,89.2630347593583,First,Chronic respiratory disease
+UMIC,10.5531417112299,First,Chronic respiratory disease
+LMIC,0.183823529411765,First,Chronic respiratory disease
+HIC,88.8853299167201,First,Diabetes and CKD
+UMIC,10.3299167200512,First,Diabetes and CKD
+LMIC,0.7847533632287,First,Diabetes and CKD
+HIC,85.7179802955665,First,Digestive diseases
+UMIC,13.1469622331691,First,Digestive diseases
+LMIC,0.991379310344828,First,Digestive diseases
+LIC,0.14367816091954,First,Digestive diseases
+HIC,92.0759936766034,First,Mental disorders
+UMIC,7.92400632339657,First,Mental disorders
+HIC,93.4065934065934,First,Musculoskeletal disorders
+UMIC,4.3956043956044,First,Musculoskeletal disorders
+LMIC,2.1978021978022,First,Musculoskeletal disorders
+HIC,95.0532724505327,First,Neurological disorders
+UMIC,4.94672754946728,First,Neurological disorders
+HIC,86.6129032258065,First,Skin disease
+UMIC,12.6702508960573,First,Skin disease
+LIC,0.448028673835125,First,Skin disease
+LMIC,0.268817204301075,First,Skin disease
+HIC,95,First,Substance use
+UMIC,5,First,Substance use
+HIC,88.6699432066405,Senior,Cancer
+UMIC,10.9630843162953,Senior,Cancer
+LIC,0.18348623853211,Senior,Cancer
+LMIC,0.18348623853211,Senior,Cancer
+HIC,91.8481129585643,Senior,CVD
+UMIC,7.79889152810768,Senior,CVD
+LMIC,0.352995513328055,Senior,CVD
+HIC,89.9360994397759,Senior,Chronic respiratory disease
+UMIC,10.0639005602241,Senior,Chronic respiratory disease
+HIC,90.1438714499253,Senior,Diabetes and CKD
+UMIC,9.22085201793722,Senior,Diabetes and CKD
+LMIC,0.635276532137519,Senior,Diabetes and CKD
+HIC,86.8943965517241,Senior,Digestive diseases
+UMIC,12.1716954022989,Senior,Digestive diseases
+LMIC,0.876436781609195,Senior,Digestive diseases
+LIC,0.0574712643678161,Senior,Digestive diseases
+HIC,92.7224480578139,Senior,Mental disorders
+UMIC,7.27755194218609,Senior,Mental disorders
+HIC,94.2307692307692,Senior,Musculoskeletal disorders
+UMIC,3.57142857142857,Senior,Musculoskeletal disorders
+LMIC,2.1978021978022,Senior,Musculoskeletal disorders
+HIC,95.2054794520548,Senior,Neurological disorders
+UMIC,4.79452054794521,Senior,Neurological disorders
+HIC,87.0615719406042,Senior,Skin disease
+UMIC,12.9384280593958,Senior,Skin disease
+HIC,95.8333333333333,Senior,Substance use
+UMIC,4.16666666666667,Senior,Substance use

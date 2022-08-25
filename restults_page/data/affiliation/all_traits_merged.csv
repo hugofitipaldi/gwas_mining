@@ -1,0 +1,667 @@
+Country,Prop,ISO2,position,Trait,ISO3,Country_map,popup_info,quants
+United States,37.5997189715027,US,All,All traits,USA,USA,<b>United States</b><br/>37.6%,8
+United Kingdom,9.85750125543059,GB,All,All traits,GBR,UK,<b>United Kingdom</b><br/>9.86%,8
+China,8.2555936768953,CN,All,All traits,CHN,China,<b>China</b><br/>8.26%,8
+Japan,6.64821952506748,JP,All,All traits,JPN,Japan,<b>Japan</b><br/>6.65%,8
+Germany,5.57002147853627,DE,All,All traits,DEU,Germany,<b>Germany</b><br/>5.57%,8
+South Korea,4.01262561518398,KR,All,All traits,KOR,South Korea,<b>South Korea</b><br/>4.01%,7
+Netherlands,3.12313307773155,NL,All,All traits,NLD,Netherlands,<b>Netherlands</b><br/>3.12%,7
+Spain,2.44895671604649,ES,All,All traits,ESP,Spain,<b>Spain</b><br/>2.45%,7
+Australia,2.4439583197992,AU,All,All traits,AUS,Australia,<b>Australia</b><br/>2.44%,7
+Canada,2.41084678651592,CA,All,All traits,CAN,Canada,<b>Canada</b><br/>2.41%,7
+France,2.32199250944611,FR,All,All traits,FRA,France,<b>France</b><br/>2.32%,7
+Sweden,2.00580009283516,SE,All,All traits,SWE,Sweden,<b>Sweden</b><br/>2.01%,6
+Iceland,1.66951533087537,IS,All,All traits,ISL,Iceland,<b>Iceland</b><br/>1.67%,6
+Italy,1.62762284388334,IT,All,All traits,ITA,Italy,<b>Italy</b><br/>1.63%,6
+Denmark,1.39337859945099,DK,All,All traits,DNK,Denmark,<b>Denmark</b><br/>1.39%,6
+Finland,1.23617665995902,FI,All,All traits,FIN,Finland,<b>Finland</b><br/>1.24%,6
+Norway,0.975178081331941,NO,All,All traits,NOR,Norway,<b>Norway</b><br/>0.98%,6
+Singapore,0.573597834876646,SG,All,All traits,SGP,Singapore,<b>Singapore</b><br/>0.57%,5
+Switzerland,0.463150541094006,CH,All,All traits,CHE,Switzerland,<b>Switzerland</b><br/>0.46%,5
+Belgium,0.416726293902408,BE,All,All traits,BEL,Belgium,<b>Belgium</b><br/>0.42%,5
+United States,40.0131257552571,US,First,All traits,USA,USA,<b>United States</b><br/>40.01%,8
+United Kingdom,11.1418654544363,GB,First,All traits,GBR,UK,<b>United Kingdom</b><br/>11.14%,8
+China,8.49331357048748,CN,First,All traits,CHN,China,<b>China</b><br/>8.49%,8
+Japan,6.43113118765293,JP,First,All traits,JPN,Japan,<b>Japan</b><br/>6.43%,8
+Germany,4.83726708074534,DE,First,All traits,DEU,Germany,<b>Germany</b><br/>4.84%,8
+South Korea,3.88964803312629,KR,First,All traits,KOR,South Korea,<b>South Korea</b><br/>3.89%,7
+Netherlands,3.14870600414079,NL,First,All traits,NLD,Netherlands,<b>Netherlands</b><br/>3.15%,7
+Australia,2.60836483931947,AU,First,All traits,AUS,Australia,<b>Australia</b><br/>2.61%,7
+France,2.58899240855763,FR,First,All traits,FRA,France,<b>France</b><br/>2.59%,7
+Canada,2.55148378191856,CA,First,All traits,CAN,Canada,<b>Canada</b><br/>2.55%,7
+Spain,2.39782608695652,ES,First,All traits,ESP,Spain,<b>Spain</b><br/>2.4%,7
+Iceland,2.04981021394065,IS,First,All traits,ISL,Iceland,<b>Iceland</b><br/>2.05%,7
+Sweden,1.58652518978606,SE,First,All traits,SWE,Sweden,<b>Sweden</b><br/>1.59%,6
+Denmark,1.27789855072464,DK,First,All traits,DNK,Denmark,<b>Denmark</b><br/>1.28%,6
+Italy,1.13266045548654,IT,First,All traits,ITA,Italy,<b>Italy</b><br/>1.13%,6
+Finland,1.0386398415699,FI,First,All traits,FIN,Finland,<b>Finland</b><br/>1.04%,6
+Norway,0.751086956521739,NO,First,All traits,NOR,Norway,<b>Norway</b><br/>0.75%,5
+Singapore,0.542175638371291,SG,First,All traits,SGP,Singapore,<b>Singapore</b><br/>0.54%,5
+Belgium,0.318840579710145,BE,First,All traits,BEL,Belgium,<b>Belgium</b><br/>0.32%,4
+Ireland,0.293478260869565,IE,First,All traits,IRL,Ireland,<b>Ireland</b><br/>0.29%,4
+United States,41.0335748792271,US,Senior,All traits,USA,USA,<b>United States</b><br/>41.03%,8
+United Kingdom,11.3488267770876,GB,Senior,All traits,GBR,UK,<b>United Kingdom</b><br/>11.35%,8
+China,7.75894582470669,CN,Senior,All traits,CHN,China,<b>China</b><br/>7.76%,8
+Japan,6.45497757073844,JP,Senior,All traits,JPN,Japan,<b>Japan</b><br/>6.45%,8
+Germany,4.79672187715666,DE,Senior,All traits,DEU,Germany,<b>Germany</b><br/>4.8%,8
+South Korea,3.86588164251208,KR,Senior,All traits,KOR,South Korea,<b>South Korea</b><br/>3.87%,7
+Netherlands,3.07333505866115,NL,Senior,All traits,NLD,Netherlands,<b>Netherlands</b><br/>3.07%,7
+Australia,2.61026570048309,AU,Senior,All traits,AUS,Australia,<b>Australia</b><br/>2.61%,7
+France,2.49195997239476,FR,Senior,All traits,FRA,France,<b>France</b><br/>2.49%,7
+Canada,2.42111801242236,CA,Senior,All traits,CAN,Canada,<b>Canada</b><br/>2.42%,7
+Spain,2.21170634920635,ES,Senior,All traits,ESP,Spain,<b>Spain</b><br/>2.21%,7
+Iceland,2.13785369220152,IS,Senior,All traits,ISL,Iceland,<b>Iceland</b><br/>2.14%,7
+Sweden,1.88072808833678,SE,Senior,All traits,SWE,Sweden,<b>Sweden</b><br/>1.88%,6
+Denmark,1.15682367149758,DK,Senior,All traits,DNK,Denmark,<b>Denmark</b><br/>1.16%,6
+Norway,0.936231884057971,NO,Senior,All traits,NOR,Norway,<b>Norway</b><br/>0.94%,6
+Finland,0.908505866114562,FI,Senior,All traits,FIN,Finland,<b>Finland</b><br/>0.91%,6
+Italy,0.892753623188406,IT,Senior,All traits,ITA,Italy,<b>Italy</b><br/>0.89%,6
+Singapore,0.51632160110421,SG,Senior,All traits,SGP,Singapore,<b>Singapore</b><br/>0.52%,5
+Israel,0.391304347826087,IL,Senior,All traits,ISR,Israel,<b>Israel</b><br/>0.39%,5
+India,0.27536231884058,IN,Senior,All traits,IND,India,<b>India</b><br/>0.28%,4
+United States,36.824309095264,US,All,Cancer,USA,USA,<b>United States</b><br/>36.82%,8
+China,11.2033795164402,CN,All,Cancer,CHN,China,<b>China</b><br/>11.2%,8
+United Kingdom,10.5738801729465,GB,All,Cancer,GBR,UK,<b>United Kingdom</b><br/>10.57%,8
+Japan,6.60786193541935,JP,All,Cancer,JPN,Japan,<b>Japan</b><br/>6.61%,8
+Germany,4.06696565040108,DE,All,Cancer,DEU,Germany,<b>Germany</b><br/>4.07%,7
+South Korea,3.36159284834461,KR,All,Cancer,KOR,South Korea,<b>South Korea</b><br/>3.36%,7
+France,3.33449083780777,FR,All,Cancer,FRA,France,<b>France</b><br/>3.33%,7
+Australia,3.13209292699478,AU,All,Cancer,AUS,Australia,<b>Australia</b><br/>3.13%,7
+Canada,2.74768632473839,CA,All,Cancer,CAN,Canada,<b>Canada</b><br/>2.75%,7
+Iceland,2.65558623796296,IS,All,Cancer,ISL,Iceland,<b>Iceland</b><br/>2.66%,7
+Spain,2.48359696524724,ES,All,Cancer,ESP,Spain,<b>Spain</b><br/>2.48%,7
+Sweden,2.21280835050001,SE,All,Cancer,SWE,Sweden,<b>Sweden</b><br/>2.21%,7
+Netherlands,2.03770670356794,NL,All,Cancer,NLD,Netherlands,<b>Netherlands</b><br/>2.04%,7
+Italy,1.71134415606193,IT,All,Cancer,ITA,Italy,<b>Italy</b><br/>1.71%,6
+Finland,1.23540725000067,FI,All,Cancer,FIN,Finland,<b>Finland</b><br/>1.24%,6
+Denmark,0.839225685106532,DK,All,Cancer,DNK,Denmark,<b>Denmark</b><br/>0.84%,6
+Singapore,0.601316671589497,SG,All,Cancer,SGP,Singapore,<b>Singapore</b><br/>0.6%,5
+Norway,0.568268340077706,NO,All,Cancer,NOR,Norway,<b>Norway</b><br/>0.57%,5
+Poland,0.403499380942506,PL,All,Cancer,POL,Poland,<b>Poland</b><br/>0.4%,5
+Israel,0.350138820780603,IL,All,Cancer,ISR,Israel,<b>Israel</b><br/>0.35%,4
+United States,41.3480609272392,US,First,Cancer,USA,USA,<b>United States</b><br/>41.35%,8
+United Kingdom,13.2885919425608,GB,First,Cancer,GBR,UK,<b>United Kingdom</b><br/>13.29%,8
+China,10.9763691965527,CN,First,Cancer,CHN,China,<b>China</b><br/>10.98%,8
+Japan,6.13705865999444,JP,First,Cancer,JPN,Japan,<b>Japan</b><br/>6.14%,8
+Iceland,3.94495412844037,IS,First,Cancer,ISL,Iceland,<b>Iceland</b><br/>3.94%,7
+France,3.6605504587156,FR,First,Cancer,FRA,France,<b>France</b><br/>3.66%,7
+Australia,3.02765589682223,AU,First,Cancer,AUS,Australia,<b>Australia</b><br/>3.03%,7
+Canada,2.81345565749235,CA,First,Cancer,CAN,Canada,<b>Canada</b><br/>2.81%,7
+South Korea,2.7217125382263,KR,First,Cancer,KOR,South Korea,<b>South Korea</b><br/>2.72%,7
+Germany,2.34250764525994,DE,First,Cancer,DEU,Germany,<b>Germany</b><br/>2.34%,7
+Netherlands,1.87155963302752,NL,First,Cancer,NLD,Netherlands,<b>Netherlands</b><br/>1.87%,6
+Sweden,1.68960244648318,SE,First,Cancer,SWE,Sweden,<b>Sweden</b><br/>1.69%,6
+Spain,1.43119266055046,ES,First,Cancer,ESP,Spain,<b>Spain</b><br/>1.43%,6
+Italy,1.34556574923547,IT,First,Cancer,ITA,Italy,<b>Italy</b><br/>1.35%,6
+Finland,0.864246775694721,FI,First,Cancer,FIN,Finland,<b>Finland</b><br/>0.86%,6
+Denmark,0.458715596330275,DK,First,Cancer,DNK,Denmark,<b>Denmark</b><br/>0.46%,5
+Singapore,0.392966360856269,SG,First,Cancer,SGP,Singapore,<b>Singapore</b><br/>0.39%,5
+Indonesia,0.36697247706422,ID,First,Cancer,IDN,Indonesia,<b>Indonesia</b><br/>0.37%,4
+Austria,0.18348623853211,AT,First,Cancer,AUT,Austria,<b>Austria</b><br/>0.18%,4
+India,0.18348623853211,IN,First,Cancer,IND,India,<b>India</b><br/>0.18%,4
+Ireland,0.18348623853211,IE,First,Cancer,IRL,Ireland,<b>Ireland</b><br/>0.18%,4
+Qatar,0.18348623853211,QA,First,Cancer,QAT,Qatar,<b>Qatar</b><br/>0.18%,4
+United States,41.3262705693898,US,Senior,Cancer,USA,USA,<b>United States</b><br/>41.33%,8
+United Kingdom,13.6218144750255,GB,Senior,Cancer,GBR,UK,<b>United Kingdom</b><br/>13.62%,8
+China,10.5196592398427,CN,Senior,Cancer,CHN,China,<b>China</b><br/>10.52%,8
+Japan,6.10907237512742,JP,Senior,Cancer,JPN,Japan,<b>Japan</b><br/>6.11%,8
+Iceland,4.03669724770642,IS,Senior,Cancer,ISL,Iceland,<b>Iceland</b><br/>4.04%,7
+France,3.65465268676278,FR,Senior,Cancer,FRA,France,<b>France</b><br/>3.65%,7
+Australia,3.44036697247706,AU,Senior,Cancer,AUS,Australia,<b>Australia</b><br/>3.44%,7
+Canada,2.70107033639144,CA,Senior,Cancer,CAN,Canada,<b>Canada</b><br/>2.7%,7
+South Korea,2.37767584097859,KR,Senior,Cancer,KOR,South Korea,<b>South Korea</b><br/>2.38%,7
+Sweden,2.10011649919907,SE,Senior,Cancer,SWE,Sweden,<b>Sweden</b><br/>2.1%,7
+Germany,2.0474006116208,DE,Senior,Cancer,DEU,Germany,<b>Germany</b><br/>2.05%,7
+Netherlands,1.76758409785933,NL,Senior,Cancer,NLD,Netherlands,<b>Netherlands</b><br/>1.77%,6
+Spain,1.45969855832241,ES,Senior,Cancer,ESP,Spain,<b>Spain</b><br/>1.46%,6
+Italy,1.13149847094801,IT,Senior,Cancer,ITA,Italy,<b>Italy</b><br/>1.13%,6
+Finland,0.825688073394496,FI,Senior,Cancer,FIN,Finland,<b>Finland</b><br/>0.83%,5
+Denmark,0.678899082568807,DK,Senior,Cancer,DNK,Denmark,<b>Denmark</b><br/>0.68%,5
+Indonesia,0.36697247706422,ID,Senior,Cancer,IDN,Indonesia,<b>Indonesia</b><br/>0.37%,4
+Singapore,0.351681957186544,SG,Senior,Cancer,SGP,Singapore,<b>Singapore</b><br/>0.35%,4
+Austria,0.18348623853211,AT,Senior,Cancer,AUT,Austria,<b>Austria</b><br/>0.18%,4
+India,0.18348623853211,IN,Senior,Cancer,IND,India,<b>India</b><br/>0.18%,4
+Ireland,0.18348623853211,IE,Senior,Cancer,IRL,Ireland,<b>Ireland</b><br/>0.18%,4
+Israel,0.18348623853211,IL,Senior,Cancer,ISR,Israel,<b>Israel</b><br/>0.18%,4
+Norway,0.18348623853211,NO,Senior,Cancer,NOR,Norway,<b>Norway</b><br/>0.18%,4
+Qatar,0.18348623853211,QA,Senior,Cancer,QAT,Qatar,<b>Qatar</b><br/>0.18%,4
+Uganda,0.18348623853211,UG,Senior,Cancer,UGA,Uganda,<b>Uganda</b><br/>0.18%,4
+United States,41.0840637304916,US,All,Chronic respiratory disease,USA,USA,<b>United States</b><br/>41.08%,8
+China,9.72052231230395,CN,All,Chronic respiratory disease,CHN,China,<b>China</b><br/>9.72%,8
+United Kingdom,7.33292965967167,GB,All,Chronic respiratory disease,GBR,UK,<b>United Kingdom</b><br/>7.33%,8
+South Korea,6.06613298132896,KR,All,Chronic respiratory disease,KOR,South Korea,<b>South Korea</b><br/>6.07%,8
+Japan,4.74405177569535,JP,All,Chronic respiratory disease,JPN,Japan,<b>Japan</b><br/>4.74%,8
+Spain,4.25189229551407,ES,All,Chronic respiratory disease,ESP,Spain,<b>Spain</b><br/>4.25%,7
+Germany,4.14605728990007,DE,All,Chronic respiratory disease,DEU,Germany,<b>Germany</b><br/>4.15%,7
+Canada,3.30429439536384,CA,All,Chronic respiratory disease,CAN,Canada,<b>Canada</b><br/>3.3%,7
+France,3.07541915476012,FR,All,Chronic respiratory disease,FRA,France,<b>France</b><br/>3.08%,7
+Netherlands,2.59298993169767,NL,All,Chronic respiratory disease,NLD,Netherlands,<b>Netherlands</b><br/>2.59%,7
+Italy,1.91397631869053,IT,All,Chronic respiratory disease,ITA,Italy,<b>Italy</b><br/>1.91%,6
+Australia,1.85614685935903,AU,All,Chronic respiratory disease,AUS,Australia,<b>Australia</b><br/>1.86%,6
+Sweden,1.82598115932149,SE,All,Chronic respiratory disease,SWE,Sweden,<b>Sweden</b><br/>1.83%,6
+Norway,1.15809970157812,NO,All,Chronic respiratory disease,NOR,Norway,<b>Norway</b><br/>1.16%,6
+Iceland,0.88584747385001,IS,All,Chronic respiratory disease,ISL,Iceland,<b>Iceland</b><br/>0.89%,6
+Denmark,0.727420343929492,DK,All,Chronic respiratory disease,DNK,Denmark,<b>Denmark</b><br/>0.73%,5
+Singapore,0.621137751166775,SG,All,Chronic respiratory disease,SGP,Singapore,<b>Singapore</b><br/>0.62%,5
+Switzerland,0.510944091775833,CH,All,Chronic respiratory disease,CHE,Switzerland,<b>Switzerland</b><br/>0.51%,5
+Finland,0.506052232579664,FI,All,Chronic respiratory disease,FIN,Finland,<b>Finland</b><br/>0.51%,5
+Israel,0.327567647738925,IL,All,Chronic respiratory disease,ISR,Israel,<b>Israel</b><br/>0.33%,4
+United States,43.002769289534,US,First,Chronic respiratory disease,USA,USA,<b>United States</b><br/>43%,8
+China,10.1548573975045,CN,First,Chronic respiratory disease,CHN,China,<b>China</b><br/>10.15%,8
+United Kingdom,6.78177521008403,GB,First,Chronic respiratory disease,GBR,UK,<b>United Kingdom</b><br/>6.78%,8
+South Korea,6.40318627450981,KR,First,Chronic respiratory disease,KOR,South Korea,<b>South Korea</b><br/>6.4%,8
+France,5.38340336134454,FR,First,Chronic respiratory disease,FRA,France,<b>France</b><br/>5.38%,8
+Spain,5.14705882352941,ES,First,Chronic respiratory disease,ESP,Spain,<b>Spain</b><br/>5.15%,8
+Japan,4.02462121212121,JP,First,Chronic respiratory disease,JPN,Japan,<b>Japan</b><br/>4.02%,7
+Germany,3.61519607843137,DE,First,Chronic respiratory disease,DEU,Germany,<b>Germany</b><br/>3.62%,7
+Canada,3.55392156862745,CA,First,Chronic respiratory disease,CAN,Canada,<b>Canada</b><br/>3.55%,7
+Netherlands,2.38970588235294,NL,First,Chronic respiratory disease,NLD,Netherlands,<b>Netherlands</b><br/>2.39%,7
+Italy,1.88419117647059,IT,First,Chronic respiratory disease,ITA,Italy,<b>Italy</b><br/>1.88%,6
+Australia,1.83823529411765,AU,First,Chronic respiratory disease,AUS,Australia,<b>Australia</b><br/>1.84%,6
+Sweden,1.83823529411765,SE,First,Chronic respiratory disease,SWE,Sweden,<b>Sweden</b><br/>1.84%,6
+Denmark,0.919117647058824,DK,First,Chronic respiratory disease,DNK,Denmark,<b>Denmark</b><br/>0.92%,6
+Iceland,0.735294117647059,IS,First,Chronic respiratory disease,ISL,Iceland,<b>Iceland</b><br/>0.74%,5
+Singapore,0.612745098039216,SG,First,Chronic respiratory disease,SGP,Singapore,<b>Singapore</b><br/>0.61%,5
+Finland,0.520833333333333,FI,First,Chronic respiratory disease,FIN,Finland,<b>Finland</b><br/>0.52%,5
+Norway,0.428921568627451,NO,First,Chronic respiratory disease,NOR,Norway,<b>Norway</b><br/>0.43%,5
+Malaysia,0.306372549019608,MY,First,Chronic respiratory disease,MYS,Malaysia,<b>Malaysia</b><br/>0.31%,4
+Benin,0.183823529411765,BJ,First,Chronic respiratory disease,BEN,Benin,<b>Benin</b><br/>0.18%,4
+Israel,0.183823529411765,IL,First,Chronic respiratory disease,ISR,Israel,<b>Israel</b><br/>0.18%,4
+United States,44.343049719888,US,Senior,Chronic respiratory disease,USA,USA,<b>United States</b><br/>44.34%,8
+China,9.63497899159664,CN,Senior,Chronic respiratory disease,CHN,China,<b>China</b><br/>9.63%,8
+United Kingdom,6.34978991596639,GB,Senior,Chronic respiratory disease,GBR,UK,<b>United Kingdom</b><br/>6.35%,8
+South Korea,6.29595588235294,KR,Senior,Chronic respiratory disease,KOR,South Korea,<b>South Korea</b><br/>6.3%,8
+Spain,5.11029411764706,ES,Senior,Chronic respiratory disease,ESP,Spain,<b>Spain</b><br/>5.11%,8
+Japan,4.72426470588235,JP,Senior,Chronic respiratory disease,JPN,Japan,<b>Japan</b><br/>4.72%,8
+France,4.41176470588235,FR,Senior,Chronic respiratory disease,FRA,France,<b>France</b><br/>4.41%,8
+Germany,3.61519607843137,DE,Senior,Chronic respiratory disease,DEU,Germany,<b>Germany</b><br/>3.62%,7
+Canada,3.15563725490196,CA,Senior,Chronic respiratory disease,CAN,Canada,<b>Canada</b><br/>3.16%,7
+Netherlands,2.64705882352941,NL,Senior,Chronic respiratory disease,NLD,Netherlands,<b>Netherlands</b><br/>2.65%,7
+Sweden,1.83823529411765,SE,Senior,Chronic respiratory disease,SWE,Sweden,<b>Sweden</b><br/>1.84%,6
+Australia,1.47058823529412,AU,Senior,Chronic respiratory disease,AUS,Australia,<b>Australia</b><br/>1.47%,6
+Italy,1.47058823529412,IT,Senior,Chronic respiratory disease,ITA,Italy,<b>Italy</b><br/>1.47%,6
+Denmark,1.10294117647059,DK,Senior,Chronic respiratory disease,DNK,Denmark,<b>Denmark</b><br/>1.1%,6
+Singapore,0.76593137254902,SG,Senior,Chronic respiratory disease,SGP,Singapore,<b>Singapore</b><br/>0.77%,5
+Iceland,0.735294117647059,IS,Senior,Chronic respiratory disease,ISL,Iceland,<b>Iceland</b><br/>0.74%,5
+Finland,0.551470588235294,FI,Senior,Chronic respiratory disease,FIN,Finland,<b>Finland</b><br/>0.55%,5
+Norway,0.490196078431373,NO,Senior,Chronic respiratory disease,NOR,Norway,<b>Norway</b><br/>0.49%,5
+Chile,0.367647058823529,CL,Senior,Chronic respiratory disease,CHL,Chile,<b>Chile</b><br/>0.37%,4
+Israel,0.367647058823529,IL,Senior,Chronic respiratory disease,ISR,Israel,<b>Israel</b><br/>0.37%,5
+Lebanon,0.367647058823529,LB,Senior,Chronic respiratory disease,LBN,Lebanon,<b>Lebanon</b><br/>0.37%,5
+United States,36.2326208750343,US,All,CVD,USA,USA,<b>United States</b><br/>36.23%,8
+China,7.56446573314047,CN,All,CVD,CHN,China,<b>China</b><br/>7.56%,8
+United Kingdom,7.1232837367221,GB,All,CVD,GBR,UK,<b>United Kingdom</b><br/>7.12%,8
+Japan,6.79326447103848,JP,All,CVD,JPN,Japan,<b>Japan</b><br/>6.79%,8
+Germany,5.87007564873548,DE,All,CVD,DEU,Germany,<b>Germany</b><br/>5.87%,8
+South Korea,5.36764669951176,KR,All,CVD,KOR,South Korea,<b>South Korea</b><br/>5.37%,8
+Netherlands,4.36079188042246,NL,All,CVD,NLD,Netherlands,<b>Netherlands</b><br/>4.36%,8
+France,3.43319847820138,FR,All,CVD,FRA,France,<b>France</b><br/>3.43%,7
+Spain,2.97697126190984,ES,All,CVD,ESP,Spain,<b>Spain</b><br/>2.98%,7
+Canada,2.42015739789663,CA,All,CVD,CAN,Canada,<b>Canada</b><br/>2.42%,7
+Sweden,2.13893740918703,SE,All,CVD,SWE,Sweden,<b>Sweden</b><br/>2.14%,7
+Finland,2.03497534681558,FI,All,CVD,FIN,Finland,<b>Finland</b><br/>2.03%,7
+Iceland,1.77781385510983,IS,All,CVD,ISL,Iceland,<b>Iceland</b><br/>1.78%,6
+Australia,1.7018452753314,AU,All,CVD,AUS,Australia,<b>Australia</b><br/>1.7%,6
+Italy,1.47389937607388,IT,All,CVD,ITA,Italy,<b>Italy</b><br/>1.47%,6
+Denmark,1.29951491756466,DK,All,CVD,DNK,Denmark,<b>Denmark</b><br/>1.3%,6
+Norway,0.79546141130449,NO,All,CVD,NOR,Norway,<b>Norway</b><br/>0.8%,5
+Turkey,0.761943113487057,TR,All,CVD,TUR,Turkey,<b>Turkey</b><br/>0.76%,5
+Singapore,0.549725883758505,SG,All,CVD,SGP,Singapore,<b>Singapore</b><br/>0.55%,5
+Republic of Korea,0.530304651444794,KR,All,CVD,KOR,Republic of Korea,<b>Republic of Korea</b><br/>0.53%,5
+United States,36.4399294951552,US,First,CVD,USA,USA,<b>United States</b><br/>36.44%,8
+China,8.15122723673793,CN,First,CVD,CHN,China,<b>China</b><br/>8.15%,8
+United Kingdom,7.5626814462919,GB,First,CVD,GBR,UK,<b>United Kingdom</b><br/>7.56%,8
+Japan,6.15258454925913,JP,First,CVD,JPN,Japan,<b>Japan</b><br/>6.15%,8
+South Korea,5.34441805225653,KR,First,CVD,KOR,South Korea,<b>South Korea</b><br/>5.34%,8
+Germany,5.06880820420013,DE,First,CVD,DEU,Germany,<b>Germany</b><br/>5.07%,8
+Netherlands,4.42219960034687,NL,First,CVD,NLD,Netherlands,<b>Netherlands</b><br/>4.42%,8
+Spain,4.33887569279493,ES,First,CVD,ESP,Spain,<b>Spain</b><br/>4.34%,8
+France,4.03329185989519,FR,First,CVD,FRA,France,<b>France</b><br/>4.03%,7
+Canada,3.96165592127587,CA,First,CVD,CAN,Canada,<b>Canada</b><br/>3.96%,7
+Iceland,2.2337216755269,IS,First,CVD,ISL,Iceland,<b>Iceland</b><br/>2.23%,7
+Australia,2.13776722090261,AU,First,CVD,AUS,Australia,<b>Australia</b><br/>2.14%,7
+Sweden,1.72963088640048,SE,First,CVD,SWE,Sweden,<b>Sweden</b><br/>1.73%,6
+Denmark,1.47862232779097,DK,First,CVD,DNK,Denmark,<b>Denmark</b><br/>1.48%,6
+Finland,1.24985861327904,FI,First,CVD,FIN,Finland,<b>Finland</b><br/>1.25%,6
+Norway,0.728424386381631,NO,First,CVD,NOR,Norway,<b>Norway</b><br/>0.73%,5
+Italy,0.682897862232779,IT,First,CVD,ITA,Italy,<b>Italy</b><br/>0.68%,5
+Singapore,0.634119443501866,SG,First,CVD,SGP,Singapore,<b>Singapore</b><br/>0.63%,5
+Portugal,0.475059382422803,PT,First,CVD,PRT,Portugal,<b>Portugal</b><br/>0.48%,5
+Republic of Korea,0.475059382422803,KR,First,CVD,KOR,Republic of Korea,<b>Republic of Korea</b><br/>0.48%,5
+United States,38.9894148474909,US,Senior,CVD,USA,USA,<b>United States</b><br/>38.99%,8
+United Kingdom,8.11710590807978,GB,Senior,CVD,GBR,UK,<b>United Kingdom</b><br/>8.12%,8
+China,6.90815518606493,CN,Senior,CVD,CHN,China,<b>China</b><br/>6.91%,8
+Japan,5.96708517136071,JP,Senior,CVD,JPN,Japan,<b>Japan</b><br/>5.97%,8
+South Korea,5.93824228028504,KR,Senior,CVD,KOR,South Korea,<b>South Korea</b><br/>5.94%,8
+Germany,4.76963390265053,DE,Senior,CVD,DEU,Germany,<b>Germany</b><br/>4.77%,8
+Netherlands,4.40763676808808,NL,Senior,CVD,NLD,Netherlands,<b>Netherlands</b><br/>4.41%,8
+France,4.32040116125627,FR,Senior,CVD,FRA,France,<b>France</b><br/>4.32%,8
+Spain,3.80311427817366,ES,Senior,CVD,ESP,Spain,<b>Spain</b><br/>3.8%,7
+Canada,2.93141801455341,CA,Senior,CVD,CAN,Canada,<b>Canada</b><br/>2.93%,7
+Iceland,2.32873355201146,IS,Senior,CVD,ISL,Iceland,<b>Iceland</b><br/>2.33%,7
+Sweden,2.01240432831882,SE,Senior,CVD,SWE,Sweden,<b>Sweden</b><br/>2.01%,6
+Australia,1.83557666930589,AU,Senior,CVD,AUS,Australia,<b>Australia</b><br/>1.84%,6
+Finland,1.18859103419674,FI,Senior,CVD,FIN,Finland,<b>Finland</b><br/>1.19%,6
+Norway,0.969912905779889,NO,Senior,CVD,NOR,Norway,<b>Norway</b><br/>0.97%,6
+Denmark,0.910530482977039,DK,Senior,CVD,DNK,Denmark,<b>Denmark</b><br/>0.91%,6
+Singapore,0.49428797647325,SG,Senior,CVD,SGP,Singapore,<b>Singapore</b><br/>0.49%,5
+Italy,0.475059382422803,IT,Senior,CVD,ITA,Italy,<b>Italy</b><br/>0.48%,5
+Portugal,0.475059382422803,PT,Senior,CVD,PRT,Portugal,<b>Portugal</b><br/>0.48%,5
+Republic of Korea,0.475059382422803,KR,Senior,CVD,KOR,Republic of Korea,<b>Republic of Korea</b><br/>0.48%,5
+United States,37.4673627465365,US,All,Diabetes and CKD,USA,USA,<b>United States</b><br/>37.47%,8
+United Kingdom,12.3275942961986,GB,All,Diabetes and CKD,GBR,UK,<b>United Kingdom</b><br/>12.33%,8
+China,9.17230371191224,CN,All,Diabetes and CKD,CHN,China,<b>China</b><br/>9.17%,8
+Japan,7.93849439942346,JP,All,Diabetes and CKD,JPN,Japan,<b>Japan</b><br/>7.94%,8
+Germany,4.30954314375938,DE,All,Diabetes and CKD,DEU,Germany,<b>Germany</b><br/>4.31%,8
+South Korea,4.03176315333789,KR,All,Diabetes and CKD,KOR,South Korea,<b>South Korea</b><br/>4.03%,7
+Canada,2.75503952920807,CA,All,Diabetes and CKD,CAN,Canada,<b>Canada</b><br/>2.76%,7
+Australia,2.41679768996537,AU,All,Diabetes and CKD,AUS,Australia,<b>Australia</b><br/>2.42%,7
+Denmark,2.19790790376015,DK,All,Diabetes and CKD,DNK,Denmark,<b>Denmark</b><br/>2.2%,7
+Sweden,1.92755107396018,SE,All,Diabetes and CKD,SWE,Sweden,<b>Sweden</b><br/>1.93%,6
+Finland,1.62355741607813,FI,All,Diabetes and CKD,FIN,Finland,<b>Finland</b><br/>1.62%,6
+France,1.51321899272783,FR,All,Diabetes and CKD,FRA,France,<b>France</b><br/>1.51%,6
+Singapore,1.50383605348303,SG,All,Diabetes and CKD,SGP,Singapore,<b>Singapore</b><br/>1.5%,6
+Italy,1.47020304147586,IT,All,Diabetes and CKD,ITA,Italy,<b>Italy</b><br/>1.47%,6
+Iceland,1.27452110396083,IS,All,Diabetes and CKD,ISL,Iceland,<b>Iceland</b><br/>1.27%,6
+Netherlands,1.13648090608026,NL,All,Diabetes and CKD,NLD,Netherlands,<b>Netherlands</b><br/>1.14%,6
+Spain,1.13642592816806,ES,All,Diabetes and CKD,ESP,Spain,<b>Spain</b><br/>1.14%,6
+Mexico,0.988729467288682,MX,All,Diabetes and CKD,MEX,Mexico,<b>Mexico</b><br/>0.99%,6
+Norway,0.641844385202399,NO,All,Diabetes and CKD,NOR,Norway,<b>Norway</b><br/>0.64%,5
+India,0.613049249042341,IN,All,Diabetes and CKD,IND,India,<b>India</b><br/>0.61%,5
+United States,37.9137305146274,US,First,Diabetes and CKD,USA,USA,<b>United States</b><br/>37.91%,8
+United Kingdom,14.8878923766816,GB,First,Diabetes and CKD,GBR,UK,<b>United Kingdom</b><br/>14.89%,8
+China,9.20884048686739,CN,First,Diabetes and CKD,CHN,China,<b>China</b><br/>9.21%,8
+Japan,8.0183642963912,JP,First,Diabetes and CKD,JPN,Japan,<b>Japan</b><br/>8.02%,8
+Germany,4.45227418321589,DE,First,Diabetes and CKD,DEU,Germany,<b>Germany</b><br/>4.45%,8
+South Korea,3.91736066623959,KR,First,Diabetes and CKD,KOR,South Korea,<b>South Korea</b><br/>3.92%,7
+Canada,2.84005979073244,CA,First,Diabetes and CKD,CAN,Canada,<b>Canada</b><br/>2.84%,7
+Spain,2.46636771300448,ES,First,Diabetes and CKD,ESP,Spain,<b>Spain</b><br/>2.47%,7
+Finland,2.3542600896861,FI,First,Diabetes and CKD,FIN,Finland,<b>Finland</b><br/>2.35%,7
+Australia,2.13004484304933,AU,First,Diabetes and CKD,AUS,Australia,<b>Australia</b><br/>2.13%,7
+Denmark,2.05530642750374,DK,First,Diabetes and CKD,DNK,Denmark,<b>Denmark</b><br/>2.06%,7
+France,1.6965620328849,FR,First,Diabetes and CKD,FRA,France,<b>France</b><br/>1.7%,6
+Iceland,1.43497757847534,IS,First,Diabetes and CKD,ISL,Iceland,<b>Iceland</b><br/>1.43%,6
+Italy,1.32286995515695,IT,First,Diabetes and CKD,ITA,Italy,<b>Italy</b><br/>1.32%,6
+Singapore,1.1157377749306,SG,First,Diabetes and CKD,SGP,Singapore,<b>Singapore</b><br/>1.12%,6
+Sweden,0.896860986547085,SE,First,Diabetes and CKD,SWE,Sweden,<b>Sweden</b><br/>0.9%,6
+Norway,0.523168908819133,NO,First,Diabetes and CKD,NOR,Norway,<b>Norway</b><br/>0.52%,5
+India,0.448430493273543,IN,First,Diabetes and CKD,IND,India,<b>India</b><br/>0.45%,5
+Latvia,0.448430493273543,LV,First,Diabetes and CKD,LVA,Latvia,<b>Latvia</b><br/>0.45%,5
+Lebanon,0.448430493273543,LB,First,Diabetes and CKD,LBN,Lebanon,<b>Lebanon</b><br/>0.45%,5
+Mexico,0.448430493273543,MX,First,Diabetes and CKD,MEX,Mexico,<b>Mexico</b><br/>0.45%,5
+United States,40.9902840059791,US,Senior,Diabetes and CKD,USA,USA,<b>United States</b><br/>40.99%,8
+United Kingdom,13.6976831091181,GB,Senior,Diabetes and CKD,GBR,UK,<b>United Kingdom</b><br/>13.7%,8
+Japan,8.35762331838565,JP,Senior,Diabetes and CKD,JPN,Japan,<b>Japan</b><br/>8.36%,8
+China,7.98766816143498,CN,Senior,Diabetes and CKD,CHN,China,<b>China</b><br/>7.99%,8
+Germany,5.05979073243647,DE,Senior,Diabetes and CKD,DEU,Germany,<b>Germany</b><br/>5.06%,8
+South Korea,3.76121076233184,KR,Senior,Diabetes and CKD,KOR,South Korea,<b>South Korea</b><br/>3.76%,7
+Canada,3.1390134529148,CA,Senior,Diabetes and CKD,CAN,Canada,<b>Canada</b><br/>3.14%,7
+Australia,2.77279521674141,AU,Senior,Diabetes and CKD,AUS,Australia,<b>Australia</b><br/>2.77%,7
+Spain,2.01793721973094,ES,Senior,Diabetes and CKD,ESP,Spain,<b>Spain</b><br/>2.02%,6
+France,1.75635276532138,FR,Senior,Diabetes and CKD,FRA,France,<b>France</b><br/>1.76%,6
+Iceland,1.40134529147982,IS,Senior,Diabetes and CKD,ISL,Iceland,<b>Iceland</b><br/>1.4%,6
+Singapore,1.26681614349776,SG,Senior,Diabetes and CKD,SGP,Singapore,<b>Singapore</b><br/>1.27%,6
+Denmark,1.15844544095665,DK,Senior,Diabetes and CKD,DNK,Denmark,<b>Denmark</b><br/>1.16%,6
+Finland,1.07249626307922,FI,Senior,Diabetes and CKD,FIN,Finland,<b>Finland</b><br/>1.07%,6
+Sweden,1.02765321375187,SE,Senior,Diabetes and CKD,SWE,Sweden,<b>Sweden</b><br/>1.03%,6
+Italy,0.799701046337818,IT,Senior,Diabetes and CKD,ITA,Italy,<b>Italy</b><br/>0.8%,5
+Norway,0.747384155455904,NO,Senior,Diabetes and CKD,NOR,Norway,<b>Norway</b><br/>0.75%,5
+Mexico,0.672645739910314,MX,Senior,Diabetes and CKD,MEX,Mexico,<b>Mexico</b><br/>0.67%,5
+India,0.448430493273543,IN,Senior,Diabetes and CKD,IND,India,<b>India</b><br/>0.45%,5
+Israel,0.448430493273543,IL,Senior,Diabetes and CKD,ISR,Israel,<b>Israel</b><br/>0.45%,5
+Latvia,0.448430493273543,LV,Senior,Diabetes and CKD,LVA,Latvia,<b>Latvia</b><br/>0.45%,5
+United States,30.8731275168077,US,All,Digestive diseases,USA,USA,<b>United States</b><br/>30.87%,8
+China,11.975055957558,CN,All,Digestive diseases,CHN,China,<b>China</b><br/>11.98%,8
+United Kingdom,10.8556062665261,GB,All,Digestive diseases,GBR,UK,<b>United Kingdom</b><br/>10.86%,8
+Japan,9.52304502198876,JP,All,Digestive diseases,JPN,Japan,<b>Japan</b><br/>9.52%,8
+Germany,4.97903680822268,DE,All,Digestive diseases,DEU,Germany,<b>Germany</b><br/>4.98%,8
+South Korea,4.2911714241624,KR,All,Digestive diseases,KOR,South Korea,<b>South Korea</b><br/>4.29%,8
+Canada,3.82348282171585,CA,All,Digestive diseases,CAN,Canada,<b>Canada</b><br/>3.82%,7
+Spain,2.26065474975984,ES,All,Digestive diseases,ESP,Spain,<b>Spain</b><br/>2.26%,7
+Australia,2.25614473171973,AU,All,Digestive diseases,AUS,Australia,<b>Australia</b><br/>2.26%,7
+Netherlands,2.18495584959086,NL,All,Digestive diseases,NLD,Netherlands,<b>Netherlands</b><br/>2.18%,7
+Sweden,1.95542382164843,SE,All,Digestive diseases,SWE,Sweden,<b>Sweden</b><br/>1.96%,6
+Denmark,1.65494608449105,DK,All,Digestive diseases,DNK,Denmark,<b>Denmark</b><br/>1.65%,6
+France,1.56058384796584,FR,All,Digestive diseases,FRA,France,<b>France</b><br/>1.56%,6
+Italy,1.50965109621321,IT,All,Digestive diseases,ITA,Italy,<b>Italy</b><br/>1.51%,6
+Finland,1.31590143904666,FI,All,Digestive diseases,FIN,Finland,<b>Finland</b><br/>1.32%,6
+India,0.846441677607987,IN,All,Digestive diseases,IND,India,<b>India</b><br/>0.85%,6
+Iceland,0.789309797048393,IS,All,Digestive diseases,ISL,Iceland,<b>Iceland</b><br/>0.79%,5
+Singapore,0.762830080682802,SG,All,Digestive diseases,SGP,Singapore,<b>Singapore</b><br/>0.76%,5
+Switzerland,0.531791583508945,CH,All,Digestive diseases,CHE,Switzerland,<b>Switzerland</b><br/>0.53%,5
+Norway,0.47779501979966,NO,All,Digestive diseases,NOR,Norway,<b>Norway</b><br/>0.48%,5
+United States,32.5886699507389,US,First,Digestive diseases,USA,USA,<b>United States</b><br/>32.59%,8
+United Kingdom,12.8206075533662,GB,First,Digestive diseases,GBR,UK,<b>United Kingdom</b><br/>12.82%,8
+China,12.1843185550082,CN,First,Digestive diseases,CHN,China,<b>China</b><br/>12.18%,8
+Japan,9.376026272578,JP,First,Digestive diseases,JPN,Japan,<b>Japan</b><br/>9.38%,8
+Germany,4.37931034482759,DE,First,Digestive diseases,DEU,Germany,<b>Germany</b><br/>4.38%,8
+South Korea,4.12110016420361,KR,First,Digestive diseases,KOR,South Korea,<b>South Korea</b><br/>4.12%,7
+Canada,4.01026272577997,CA,First,Digestive diseases,CAN,Canada,<b>Canada</b><br/>4.01%,7
+Spain,2.78735632183908,ES,First,Digestive diseases,ESP,Spain,<b>Spain</b><br/>2.79%,7
+Australia,2.05459770114943,AU,First,Digestive diseases,AUS,Australia,<b>Australia</b><br/>2.05%,7
+Netherlands,1.98850574712644,NL,First,Digestive diseases,NLD,Netherlands,<b>Netherlands</b><br/>1.99%,6
+Sweden,1.74425287356322,SE,First,Digestive diseases,SWE,Sweden,<b>Sweden</b><br/>1.74%,6
+France,1.71551724137931,FR,First,Digestive diseases,FRA,France,<b>France</b><br/>1.72%,6
+Finland,1.37931034482759,FI,First,Digestive diseases,FIN,Finland,<b>Finland</b><br/>1.38%,6
+Denmark,1.30747126436782,DK,First,Digestive diseases,DNK,Denmark,<b>Denmark</b><br/>1.31%,6
+Italy,1.04474548440066,IT,First,Digestive diseases,ITA,Italy,<b>Italy</b><br/>1.04%,6
+Iceland,0.810344827586207,IS,First,Digestive diseases,ISL,Iceland,<b>Iceland</b><br/>0.81%,5
+India,0.775862068965517,IN,First,Digestive diseases,IND,India,<b>India</b><br/>0.78%,5
+Norway,0.603448275862069,NO,First,Digestive diseases,NOR,Norway,<b>Norway</b><br/>0.6%,5
+Singapore,0.515188834154352,SG,First,Digestive diseases,SGP,Singapore,<b>Singapore</b><br/>0.52%,5
+Saudi Arabia,0.488505747126437,SA,First,Digestive diseases,SAU,Saudi Arabia,<b>Saudi Arabia</b><br/>0.49%,5
+United States,33.6710255304881,US,Senior,Digestive diseases,USA,USA,<b>United States</b><br/>33.67%,8
+United Kingdom,13.2109498491163,GB,Senior,Digestive diseases,GBR,UK,<b>United Kingdom</b><br/>13.21%,8
+China,11.3055036643196,CN,Senior,Digestive diseases,CHN,China,<b>China</b><br/>11.31%,8
+Japan,9.41586434832591,JP,Senior,Digestive diseases,JPN,Japan,<b>Japan</b><br/>9.42%,8
+Germany,4.54950423911482,DE,Senior,Digestive diseases,DEU,Germany,<b>Germany</b><br/>4.55%,8
+Canada,4.14331561048043,CA,Senior,Digestive diseases,CAN,Canada,<b>Canada</b><br/>4.14%,7
+South Korea,4.03290702687168,KR,Senior,Digestive diseases,KOR,South Korea,<b>South Korea</b><br/>4.03%,7
+Spain,2.51472912774824,ES,Senior,Digestive diseases,ESP,Spain,<b>Spain</b><br/>2.51%,7
+Australia,2.22445753700244,AU,Senior,Digestive diseases,AUS,Australia,<b>Australia</b><br/>2.22%,7
+Netherlands,1.80820999185707,NL,Senior,Digestive diseases,NLD,Netherlands,<b>Netherlands</b><br/>1.81%,6
+France,1.79623509124874,FR,Senior,Digestive diseases,FRA,France,<b>France</b><br/>1.8%,6
+Sweden,1.65972122431384,SE,Senior,Digestive diseases,SWE,Sweden,<b>Sweden</b><br/>1.66%,6
+Denmark,1.28370934521243,DK,Senior,Digestive diseases,DNK,Denmark,<b>Denmark</b><br/>1.28%,6
+Iceland,1.09929587584423,IS,Senior,Digestive diseases,ISL,Iceland,<b>Iceland</b><br/>1.1%,6
+Finland,0.998706710734301,FI,Senior,Digestive diseases,FIN,Finland,<b>Finland</b><br/>1%,6
+India,0.747233797959477,IN,Senior,Digestive diseases,IND,India,<b>India</b><br/>0.75%,5
+Singapore,0.731426929156488,SG,Senior,Digestive diseases,SGP,Singapore,<b>Singapore</b><br/>0.73%,5
+Italy,0.704124155769507,IT,Senior,Digestive diseases,ITA,Italy,<b>Italy</b><br/>0.7%,5
+Norway,0.488575944819658,NO,Senior,Digestive diseases,NOR,Norway,<b>Norway</b><br/>0.49%,5
+Ireland,0.402356660439718,IE,Senior,Digestive diseases,IRL,Ireland,<b>Ireland</b><br/>0.4%,5
+United States,46.3449633066278,US,All,Mental disorders,USA,USA,<b>United States</b><br/>46.34%,8
+United Kingdom,10.2565583168059,GB,All,Mental disorders,GBR,UK,<b>United Kingdom</b><br/>10.26%,8
+China,6.19616261032477,CN,All,Mental disorders,CHN,China,<b>China</b><br/>6.2%,8
+Germany,5.763798511911,DE,All,Mental disorders,DEU,Germany,<b>Germany</b><br/>5.76%,8
+Japan,4.24038317983799,JP,All,Mental disorders,JPN,Japan,<b>Japan</b><br/>4.24%,7
+Netherlands,3.2056733774052,NL,All,Mental disorders,NLD,Netherlands,<b>Netherlands</b><br/>3.21%,7
+Australia,2.53448626571299,AU,All,Mental disorders,AUS,Australia,<b>Australia</b><br/>2.53%,7
+Spain,2.0694047241042,ES,All,Mental disorders,ESP,Spain,<b>Spain</b><br/>2.07%,7
+Norway,2.05381914228986,NO,All,Mental disorders,NOR,Norway,<b>Norway</b><br/>2.05%,7
+South Korea,2.01643243003616,KR,All,Mental disorders,KOR,South Korea,<b>South Korea</b><br/>2.02%,6
+Denmark,1.77660958974655,DK,All,Mental disorders,DNK,Denmark,<b>Denmark</b><br/>1.78%,6
+Sweden,1.48690389432744,SE,All,Mental disorders,SWE,Sweden,<b>Sweden</b><br/>1.49%,6
+Italy,1.39326443068193,IT,All,Mental disorders,ITA,Italy,<b>Italy</b><br/>1.39%,6
+Canada,1.36865754108627,CA,All,Mental disorders,CAN,Canada,<b>Canada</b><br/>1.37%,6
+France,1.12694628194009,FR,All,Mental disorders,FRA,France,<b>France</b><br/>1.13%,6
+Finland,0.901293794281081,FI,All,Mental disorders,FIN,Finland,<b>Finland</b><br/>0.9%,6
+Taiwan,0.838842189584501,TW,All,Mental disorders,TWN,Taiwan,<b>Taiwan</b><br/>0.84%,6
+Iceland,0.710909922986403,IS,All,Mental disorders,ISL,Iceland,<b>Iceland</b><br/>0.71%,5
+Switzerland,0.637888622296025,CH,All,Mental disorders,CHE,Switzerland,<b>Switzerland</b><br/>0.64%,5
+Ireland,0.541513625054356,IE,All,Mental disorders,IRL,Ireland,<b>Ireland</b><br/>0.54%,5
+United States,48.5712672602917,US,First,Mental disorders,USA,USA,<b>United States</b><br/>48.57%,8
+United Kingdom,11.5040650406504,GB,First,Mental disorders,GBR,UK,<b>United Kingdom</b><br/>11.5%,8
+China,6.61415989159892,CN,First,Mental disorders,CHN,China,<b>China</b><br/>6.61%,8
+Germany,4.17118337850045,DE,First,Mental disorders,DEU,Germany,<b>Germany</b><br/>4.17%,7
+Japan,4.03624661246612,JP,First,Mental disorders,JPN,Japan,<b>Japan</b><br/>4.04%,7
+Netherlands,3.71499548328817,NL,First,Mental disorders,NLD,Netherlands,<b>Netherlands</b><br/>3.71%,7
+Australia,2.8099593495935,AU,First,Mental disorders,AUS,Australia,<b>Australia</b><br/>2.81%,7
+South Korea,2.03252032520325,KR,First,Mental disorders,KOR,South Korea,<b>South Korea</b><br/>2.03%,7
+Norway,1.96476964769648,NO,First,Mental disorders,NOR,Norway,<b>Norway</b><br/>1.96%,6
+Spain,1.84620596205962,ES,First,Mental disorders,ESP,Spain,<b>Spain</b><br/>1.85%,6
+Denmark,1.76151761517615,DK,First,Mental disorders,DNK,Denmark,<b>Denmark</b><br/>1.76%,6
+France,1.28726287262873,FR,First,Mental disorders,FRA,France,<b>France</b><br/>1.29%,6
+Canada,1.23564330881404,CA,First,Mental disorders,CAN,Canada,<b>Canada</b><br/>1.24%,6
+Sweden,0.907859078590786,SE,First,Mental disorders,SWE,Sweden,<b>Sweden</b><br/>0.91%,6
+Italy,0.745257452574526,IT,First,Mental disorders,ITA,Italy,<b>Italy</b><br/>0.75%,5
+Ireland,0.711382113821138,IE,First,Mental disorders,IRL,Ireland,<b>Ireland</b><br/>0.71%,5
+Taiwan,0.685975609756098,TW,First,Mental disorders,TWN,Taiwan,<b>Taiwan</b><br/>0.69%,5
+Finland,0.660569105691057,FI,First,Mental disorders,FIN,Finland,<b>Finland</b><br/>0.66%,5
+Iceland,0.609756097560976,IS,First,Mental disorders,ISL,Iceland,<b>Iceland</b><br/>0.61%,5
+South Africa,0.609756097560976,ZA,First,Mental disorders,ZAF,South Africa,<b>South Africa</b><br/>0.61%,5
+United States,50.0658031391102,US,Senior,Mental disorders,USA,USA,<b>United States</b><br/>50.07%,8
+United Kingdom,10.6489363203885,GB,Senior,Mental disorders,GBR,UK,<b>United Kingdom</b><br/>10.65%,8
+China,6.02492977032426,CN,Senior,Mental disorders,CHN,China,<b>China</b><br/>6.02%,8
+Japan,4.4212933553551,JP,Senior,Mental disorders,JPN,Japan,<b>Japan</b><br/>4.42%,8
+Germany,4.05688553319096,DE,Senior,Mental disorders,DEU,Germany,<b>Germany</b><br/>4.06%,7
+Netherlands,3.76168898084792,NL,Senior,Mental disorders,NLD,Netherlands,<b>Netherlands</b><br/>3.76%,7
+Norway,2.61550840638631,NO,Senior,Mental disorders,NOR,Norway,<b>Norway</b><br/>2.62%,7
+Australia,2.5579130140177,AU,Senior,Mental disorders,AUS,Australia,<b>Australia</b><br/>2.56%,7
+Spain,1.86580031580667,ES,Senior,Mental disorders,ESP,Spain,<b>Spain</b><br/>1.87%,6
+South Korea,1.84644052005251,KR,Senior,Mental disorders,KOR,South Korea,<b>South Korea</b><br/>1.85%,6
+Sweden,1.51357303180451,SE,Senior,Mental disorders,SWE,Sweden,<b>Sweden</b><br/>1.51%,6
+Denmark,1.41532206835218,DK,Senior,Mental disorders,DNK,Denmark,<b>Denmark</b><br/>1.42%,6
+France,1.07930861329413,FR,Senior,Mental disorders,FRA,France,<b>France</b><br/>1.08%,6
+Canada,1.03332909837801,CA,Senior,Mental disorders,CAN,Canada,<b>Canada</b><br/>1.03%,6
+Taiwan,0.863930885529158,TW,Senior,Mental disorders,TWN,Taiwan,<b>Taiwan</b><br/>0.86%,6
+Israel,0.813111421674501,IL,Senior,Mental disorders,ISR,Israel,<b>Israel</b><br/>0.81%,5
+Italy,0.643713208825647,IT,Senior,Mental disorders,ITA,Italy,<b>Italy</b><br/>0.64%,5
+Finland,0.609833566255876,FI,Senior,Mental disorders,FIN,Finland,<b>Finland</b><br/>0.61%,5
+South Africa,0.609833566255876,ZA,Senior,Mental disorders,ZAF,South Africa,<b>South Africa</b><br/>0.61%,5
+Iceland,0.548850209630288,IS,Senior,Mental disorders,ISL,Iceland,<b>Iceland</b><br/>0.55%,5
+United Kingdom,21.9343164606527,GB,All,Musculoskeletal disorders,GBR,UK,<b>United Kingdom</b><br/>21.93%,8
+United States,20.4094527373093,US,All,Musculoskeletal disorders,USA,USA,<b>United States</b><br/>20.41%,8
+Spain,8.90455270872216,ES,All,Musculoskeletal disorders,ESP,Spain,<b>Spain</b><br/>8.9%,8
+Netherlands,8.5167215753625,NL,All,Musculoskeletal disorders,NLD,Netherlands,<b>Netherlands</b><br/>8.52%,8
+Japan,6.82362713340447,JP,All,Musculoskeletal disorders,JPN,Japan,<b>Japan</b><br/>6.82%,8
+South Korea,4.90623323402387,KR,All,Musculoskeletal disorders,KOR,South Korea,<b>South Korea</b><br/>4.91%,8
+Iceland,3.72968938764272,IS,All,Musculoskeletal disorders,ISL,Iceland,<b>Iceland</b><br/>3.73%,7
+Sweden,3.66119013593195,SE,All,Musculoskeletal disorders,SWE,Sweden,<b>Sweden</b><br/>3.66%,7
+Germany,2.52975040397706,DE,All,Musculoskeletal disorders,DEU,Germany,<b>Germany</b><br/>2.53%,7
+Australia,2.48768603061796,AU,All,Musculoskeletal disorders,AUS,Australia,<b>Australia</b><br/>2.49%,7
+China,2.37897657910809,CN,All,Musculoskeletal disorders,CHN,China,<b>China</b><br/>2.38%,7
+Canada,1.21258089993291,CA,All,Musculoskeletal disorders,CAN,Canada,<b>Canada</b><br/>1.21%,6
+Egypt,1.0989010989011,EG,All,Musculoskeletal disorders,EGY,Egypt,<b>Egypt</b><br/>1.1%,6
+India,1.00193923723335,IN,All,Musculoskeletal disorders,IND,India,<b>India</b><br/>1%,6
+Malaysia,0.840336134453782,MY,All,Musculoskeletal disorders,MYS,Malaysia,<b>Malaysia</b><br/>0.84%,6
+Norway,0.76707377929352,NO,All,Musculoskeletal disorders,NOR,Norway,<b>Norway</b><br/>0.77%,5
+South Africa,0.747450747450747,ZA,All,Musculoskeletal disorders,ZAF,South Africa,<b>South Africa</b><br/>0.75%,5
+Denmark,0.734674544075584,DK,All,Musculoskeletal disorders,DNK,Denmark,<b>Denmark</b><br/>0.73%,5
+Singapore,0.731212871231268,SG,All,Musculoskeletal disorders,SGP,Singapore,<b>Singapore</b><br/>0.73%,5
+Belgium,0.663815978059298,BE,All,Musculoskeletal disorders,BEL,Belgium,<b>Belgium</b><br/>0.66%,5
+United States,21.978021978022,US,First,Musculoskeletal disorders,USA,USA,<b>United States</b><br/>21.98%,8
+United Kingdom,21.4285714285714,GB,First,Musculoskeletal disorders,GBR,UK,<b>United Kingdom</b><br/>21.43%,8
+Spain,10.989010989011,ES,First,Musculoskeletal disorders,ESP,Spain,<b>Spain</b><br/>10.99%,8
+Netherlands,7.78388278388278,NL,First,Musculoskeletal disorders,NLD,Netherlands,<b>Netherlands</b><br/>7.78%,8
+Japan,7.05128205128205,JP,First,Musculoskeletal disorders,JPN,Japan,<b>Japan</b><br/>7.05%,8
+Germany,4.21245421245421,DE,First,Musculoskeletal disorders,DEU,Germany,<b>Germany</b><br/>4.21%,7
+Australia,3.84615384615385,AU,First,Musculoskeletal disorders,AUS,Australia,<b>Australia</b><br/>3.85%,7
+South Korea,3.84615384615385,KR,First,Musculoskeletal disorders,KOR,South Korea,<b>South Korea</b><br/>3.85%,7
+Iceland,3.75457875457875,IS,First,Musculoskeletal disorders,ISL,Iceland,<b>Iceland</b><br/>3.75%,7
+China,2.74725274725275,CN,First,Musculoskeletal disorders,CHN,China,<b>China</b><br/>2.75%,7
+Sweden,2.74725274725275,SE,First,Musculoskeletal disorders,SWE,Sweden,<b>Sweden</b><br/>2.75%,7
+Denmark,1.0989010989011,DK,First,Musculoskeletal disorders,DNK,Denmark,<b>Denmark</b><br/>1.1%,6
+Egypt,1.0989010989011,EG,First,Musculoskeletal disorders,EGY,Egypt,<b>Egypt</b><br/>1.1%,6
+India,1.0989010989011,IN,First,Musculoskeletal disorders,IND,India,<b>India</b><br/>1.1%,6
+Italy,1.0989010989011,IT,First,Musculoskeletal disorders,ITA,Italy,<b>Italy</b><br/>1.1%,6
+South Africa,1.0989010989011,ZA,First,Musculoskeletal disorders,ZAF,South Africa,<b>South Africa</b><br/>1.1%,6
+Greece,0.915750915750916,GR,First,Musculoskeletal disorders,GRC,Greece,<b>Greece</b><br/>0.92%,6
+Norway,0.732600732600733,NO,First,Musculoskeletal disorders,NOR,Norway,<b>Norway</b><br/>0.73%,5
+Canada,0.54945054945055,CA,First,Musculoskeletal disorders,CAN,Canada,<b>Canada</b><br/>0.55%,5
+Malaysia,0.54945054945055,MY,First,Musculoskeletal disorders,MYS,Malaysia,<b>Malaysia</b><br/>0.55%,5
+New Zealand,0.54945054945055,NZ,First,Musculoskeletal disorders,NZL,New Zealand,<b>New Zealand</b><br/>0.55%,5
+United Kingdom,25.8241758241758,GB,Senior,Musculoskeletal disorders,GBR,UK,<b>United Kingdom</b><br/>25.82%,8
+United States,21.043956043956,US,Senior,Musculoskeletal disorders,USA,USA,<b>United States</b><br/>21.04%,8
+Spain,9.06593406593407,ES,Senior,Musculoskeletal disorders,ESP,Spain,<b>Spain</b><br/>9.07%,8
+Netherlands,6.68498168498169,NL,Senior,Musculoskeletal disorders,NLD,Netherlands,<b>Netherlands</b><br/>6.68%,8
+Japan,6.31868131868132,JP,Senior,Musculoskeletal disorders,JPN,Japan,<b>Japan</b><br/>6.32%,8
+South Korea,4.94505494505495,KR,Senior,Musculoskeletal disorders,KOR,South Korea,<b>South Korea</b><br/>4.95%,8
+Australia,4.3956043956044,AU,Senior,Musculoskeletal disorders,AUS,Australia,<b>Australia</b><br/>4.4%,8
+Germany,4.3956043956044,DE,Senior,Musculoskeletal disorders,DEU,Germany,<b>Germany</b><br/>4.4%,8
+Sweden,3.73626373626374,SE,Senior,Musculoskeletal disorders,SWE,Sweden,<b>Sweden</b><br/>3.74%,7
+Iceland,3.47985347985348,IS,Senior,Musculoskeletal disorders,ISL,Iceland,<b>Iceland</b><br/>3.48%,7
+South Africa,1.64835164835165,ZA,Senior,Musculoskeletal disorders,ZAF,South Africa,<b>South Africa</b><br/>1.65%,6
+China,1.37362637362637,CN,Senior,Musculoskeletal disorders,CHN,China,<b>China</b><br/>1.37%,6
+Denmark,1.0989010989011,DK,Senior,Musculoskeletal disorders,DNK,Denmark,<b>Denmark</b><br/>1.1%,6
+Egypt,1.0989010989011,EG,Senior,Musculoskeletal disorders,EGY,Egypt,<b>Egypt</b><br/>1.1%,6
+India,1.0989010989011,IN,Senior,Musculoskeletal disorders,IND,India,<b>India</b><br/>1.1%,6
+Qatar,1.0989010989011,QA,Senior,Musculoskeletal disorders,QAT,Qatar,<b>Qatar</b><br/>1.1%,6
+Canada,0.769230769230769,CA,Senior,Musculoskeletal disorders,CAN,Canada,<b>Canada</b><br/>0.77%,5
+Turkey,0.54945054945055,TR,Senior,Musculoskeletal disorders,TUR,Turkey,<b>Turkey</b><br/>0.55%,5
+Belgium,0.366300366300366,BE,Senior,Musculoskeletal disorders,BEL,Belgium,<b>Belgium</b><br/>0.37%,4
+Greece,0.366300366300366,GR,Senior,Musculoskeletal disorders,GRC,Greece,<b>Greece</b><br/>0.37%,4
+Norway,0.366300366300366,NO,Senior,Musculoskeletal disorders,NOR,Norway,<b>Norway</b><br/>0.37%,4
+United States,46.1505242124801,US,All,Neurological disorders,USA,USA,<b>United States</b><br/>46.15%,8
+United Kingdom,8.74483248381064,GB,All,Neurological disorders,GBR,UK,<b>United Kingdom</b><br/>8.74%,8
+Germany,5.03225048756391,DE,All,Neurological disorders,DEU,Germany,<b>Germany</b><br/>5.03%,8
+China,4.59420478684177,CN,All,Neurological disorders,CHN,China,<b>China</b><br/>4.59%,8
+Italy,3.66629390065991,IT,All,Neurological disorders,ITA,Italy,<b>Italy</b><br/>3.67%,7
+Japan,3.54017327682462,JP,All,Neurological disorders,JPN,Japan,<b>Japan</b><br/>3.54%,7
+South Korea,3.22992258123897,KR,All,Neurological disorders,KOR,South Korea,<b>South Korea</b><br/>3.23%,7
+Spain,3.16411964462278,ES,All,Neurological disorders,ESP,Spain,<b>Spain</b><br/>3.16%,7
+Netherlands,3.11088156808816,NL,All,Neurological disorders,NLD,Netherlands,<b>Netherlands</b><br/>3.11%,7
+Australia,2.81148027499398,AU,All,Neurological disorders,AUS,Australia,<b>Australia</b><br/>2.81%,7
+Norway,2.597058050131,NO,All,Neurological disorders,NOR,Norway,<b>Norway</b><br/>2.6%,7
+France,2.00536785067206,FR,All,Neurological disorders,FRA,France,<b>France</b><br/>2.01%,6
+Canada,1.39271676164331,CA,All,Neurological disorders,CAN,Canada,<b>Canada</b><br/>1.39%,6
+Finland,1.25632006117815,FI,All,Neurological disorders,FIN,Finland,<b>Finland</b><br/>1.26%,6
+Belgium,1.06769683470538,BE,All,Neurological disorders,BEL,Belgium,<b>Belgium</b><br/>1.07%,6
+Sweden,1.05503670325158,SE,All,Neurological disorders,SWE,Sweden,<b>Sweden</b><br/>1.06%,6
+Denmark,0.907809583547477,DK,All,Neurological disorders,DNK,Denmark,<b>Denmark</b><br/>0.91%,6
+Turkey,0.784478438588028,TR,All,Neurological disorders,TUR,Turkey,<b>Turkey</b><br/>0.78%,5
+Israel,0.699969561059733,IL,All,Neurological disorders,ISR,Israel,<b>Israel</b><br/>0.7%,5
+Poland,0.549081739477907,PL,All,Neurological disorders,POL,Poland,<b>Poland</b><br/>0.55%,5
+United States,49.9809741248097,US,First,Neurological disorders,USA,USA,<b>United States</b><br/>49.98%,8
+United Kingdom,9.34170471841705,GB,First,Neurological disorders,GBR,UK,<b>United Kingdom</b><br/>9.34%,8
+China,4.94672754946728,CN,First,Neurological disorders,CHN,China,<b>China</b><br/>4.95%,8
+Netherlands,4.29984779299848,NL,First,Neurological disorders,NLD,Netherlands,<b>Netherlands</b><br/>4.3%,8
+Germany,3.99543378995434,DE,First,Neurological disorders,DEU,Germany,<b>Germany</b><br/>4%,7
+South Korea,3.42465753424658,KR,First,Neurological disorders,KOR,South Korea,<b>South Korea</b><br/>3.42%,7
+Japan,2.89193302891933,JP,First,Neurological disorders,JPN,Japan,<b>Japan</b><br/>2.89%,7
+Italy,2.79680365296804,IT,First,Neurological disorders,ITA,Italy,<b>Italy</b><br/>2.8%,7
+Australia,2.56849315068493,AU,First,Neurological disorders,AUS,Australia,<b>Australia</b><br/>2.57%,7
+Spain,2.43531202435312,ES,First,Neurological disorders,ESP,Spain,<b>Spain</b><br/>2.44%,7
+Belgium,1.94063926940639,BE,First,Neurological disorders,BEL,Belgium,<b>Belgium</b><br/>1.94%,6
+Norway,1.94063926940639,NO,First,Neurological disorders,NOR,Norway,<b>Norway</b><br/>1.94%,6
+France,1.75038051750381,FR,First,Neurological disorders,FRA,France,<b>France</b><br/>1.75%,6
+Canada,1.71232876712329,CA,First,Neurological disorders,CAN,Canada,<b>Canada</b><br/>1.71%,6
+Finland,1.25570776255708,FI,First,Neurological disorders,FIN,Finland,<b>Finland</b><br/>1.26%,6
+Singapore,0.91324200913242,SG,First,Neurological disorders,SGP,Singapore,<b>Singapore</b><br/>0.91%,6
+Sweden,0.494672754946728,SE,First,Neurological disorders,SWE,Sweden,<b>Sweden</b><br/>0.49%,5
+Chile,0.45662100456621,CL,First,Neurological disorders,CHL,Chile,<b>Chile</b><br/>0.46%,5
+Denmark,0.45662100456621,DK,First,Neurological disorders,DNK,Denmark,<b>Denmark</b><br/>0.46%,5
+Iceland,0.45662100456621,IS,First,Neurological disorders,ISL,Iceland,<b>Iceland</b><br/>0.46%,5
+Israel,0.45662100456621,IL,First,Neurological disorders,ISR,Israel,<b>Israel</b><br/>0.46%,5
+Poland,0.45662100456621,PL,First,Neurological disorders,POL,Poland,<b>Poland</b><br/>0.46%,5
+Portugal,0.45662100456621,PT,First,Neurological disorders,PRT,Portugal,<b>Portugal</b><br/>0.46%,5
+United States,49.7599115749801,US,Senior,Neurological disorders,USA,USA,<b>United States</b><br/>49.76%,8
+United Kingdom,9.81100963977676,GB,Senior,Neurological disorders,GBR,UK,<b>United Kingdom</b><br/>9.81%,8
+Germany,4.57979995651229,DE,Senior,Neurological disorders,DEU,Germany,<b>Germany</b><br/>4.58%,8
+China,4.18569254185693,CN,Senior,Neurological disorders,CHN,China,<b>China</b><br/>4.19%,7
+Netherlands,4.06881930854534,NL,Senior,Neurological disorders,NLD,Netherlands,<b>Netherlands</b><br/>4.07%,7
+South Korea,3.19634703196347,KR,Senior,Neurological disorders,KOR,South Korea,<b>South Korea</b><br/>3.2%,7
+Norway,3.12024353120244,NO,Senior,Neurological disorders,NOR,Norway,<b>Norway</b><br/>3.12%,7
+Japan,2.85388127853881,JP,Senior,Neurological disorders,JPN,Japan,<b>Japan</b><br/>2.85%,7
+Australia,2.73972602739726,AU,Senior,Neurological disorders,AUS,Australia,<b>Australia</b><br/>2.74%,7
+Italy,2.66362252663623,IT,Senior,Neurological disorders,ITA,Italy,<b>Italy</b><br/>2.66%,7
+France,2.15807784300935,FR,Senior,Neurological disorders,FRA,France,<b>France</b><br/>2.16%,7
+Spain,2.0221787345075,ES,Senior,Neurological disorders,ESP,Spain,<b>Spain</b><br/>2.02%,6
+Belgium,1.36986301369863,BE,Senior,Neurological disorders,BEL,Belgium,<b>Belgium</b><br/>1.37%,6
+Canada,1.36986301369863,CA,Senior,Neurological disorders,CAN,Canada,<b>Canada</b><br/>1.37%,6
+Finland,1.04008117706748,FI,Senior,Neurological disorders,FIN,Finland,<b>Finland</b><br/>1.04%,6
+Israel,0.91324200913242,IL,Senior,Neurological disorders,ISR,Israel,<b>Israel</b><br/>0.91%,6
+Singapore,0.91324200913242,SG,Senior,Neurological disorders,SGP,Singapore,<b>Singapore</b><br/>0.91%,6
+Turkey,0.60882800608828,TR,Senior,Neurological disorders,TUR,Turkey,<b>Turkey</b><br/>0.61%,5
+Denmark,0.570776255707763,DK,Senior,Neurological disorders,DNK,Denmark,<b>Denmark</b><br/>0.57%,5
+Chile,0.45662100456621,CL,Senior,Neurological disorders,CHL,Chile,<b>Chile</b><br/>0.46%,5
+Poland,0.45662100456621,PL,Senior,Neurological disorders,POL,Poland,<b>Poland</b><br/>0.46%,5
+Portugal,0.45662100456621,PT,Senior,Neurological disorders,PRT,Portugal,<b>Portugal</b><br/>0.46%,5
+Switzerland,0.45662100456621,CH,Senior,Neurological disorders,CHE,Switzerland,<b>Switzerland</b><br/>0.46%,5
+United States,26.9803503428928,US,All,Skin disease,USA,USA,<b>United States</b><br/>26.98%,8
+China,11.9047866973158,CN,All,Skin disease,CHN,China,<b>China</b><br/>11.9%,8
+United Kingdom,11.0957590119498,GB,All,Skin disease,GBR,UK,<b>United Kingdom</b><br/>11.1%,8
+Japan,9.26293469096348,JP,All,Skin disease,JPN,Japan,<b>Japan</b><br/>9.26%,8
+Germany,8.28814248615195,DE,All,Skin disease,DEU,Germany,<b>Germany</b><br/>8.29%,8
+Australia,4.06126333923135,AU,All,Skin disease,AUS,Australia,<b>Australia</b><br/>4.06%,7
+South Korea,3.97189093168695,KR,All,Skin disease,KOR,South Korea,<b>South Korea</b><br/>3.97%,7
+Netherlands,3.868893211045,NL,All,Skin disease,NLD,Netherlands,<b>Netherlands</b><br/>3.87%,7
+Spain,3.24299110044893,ES,All,Skin disease,ESP,Spain,<b>Spain</b><br/>3.24%,7
+Iceland,2.76185356321004,IS,All,Skin disease,ISL,Iceland,<b>Iceland</b><br/>2.76%,7
+France,2.60330819517925,FR,All,Skin disease,FRA,France,<b>France</b><br/>2.6%,7
+Canada,1.25637072359422,CA,All,Skin disease,CAN,Canada,<b>Canada</b><br/>1.26%,6
+Italy,1.23897114090291,IT,All,Skin disease,ITA,Italy,<b>Italy</b><br/>1.24%,6
+Turkey,1.01835706674416,TR,All,Skin disease,TUR,Turkey,<b>Turkey</b><br/>1.02%,6
+Sweden,0.969156707064369,SE,All,Skin disease,SWE,Sweden,<b>Sweden</b><br/>0.97%,6
+Israel,0.917458745706139,IL,All,Skin disease,ISR,Israel,<b>Israel</b><br/>0.92%,6
+Finland,0.670083436196606,FI,All,Skin disease,FIN,Finland,<b>Finland</b><br/>0.67%,5
+Singapore,0.62452666024917,SG,All,Skin disease,SGP,Singapore,<b>Singapore</b><br/>0.62%,5
+Norway,0.61050928741284,NO,All,Skin disease,NOR,Norway,<b>Norway</b><br/>0.61%,5
+Estonia,0.500250391814651,EE,All,Skin disease,EST,Estonia,<b>Estonia</b><br/>0.5%,5
+United States,30.5779569892473,US,First,Skin disease,USA,USA,<b>United States</b><br/>30.58%,8
+China,12.6702508960573,CN,First,Skin disease,CHN,China,<b>China</b><br/>12.67%,8
+United Kingdom,12.2311827956989,GB,First,Skin disease,GBR,UK,<b>United Kingdom</b><br/>12.23%,8
+Japan,8.69175627240144,JP,First,Skin disease,JPN,Japan,<b>Japan</b><br/>8.69%,8
+Germany,8.53494623655914,DE,First,Skin disease,DEU,Germany,<b>Germany</b><br/>8.53%,8
+Spain,4.03225806451613,ES,First,Skin disease,ESP,Spain,<b>Spain</b><br/>4.03%,7
+Iceland,3.83064516129032,IS,First,Skin disease,ISL,Iceland,<b>Iceland</b><br/>3.83%,7
+South Korea,3.76344086021505,KR,First,Skin disease,KOR,South Korea,<b>South Korea</b><br/>3.76%,7
+Australia,3.60663082437276,AU,First,Skin disease,AUS,Australia,<b>Australia</b><br/>3.61%,7
+Netherlands,3.20340501792115,NL,First,Skin disease,NLD,Netherlands,<b>Netherlands</b><br/>3.2%,7
+France,2.82258064516129,FR,First,Skin disease,FRA,France,<b>France</b><br/>2.82%,7
+Canada,2.01612903225806,CA,First,Skin disease,CAN,Canada,<b>Canada</b><br/>2.02%,6
+Israel,0.806451612903226,IL,First,Skin disease,ISR,Israel,<b>Israel</b><br/>0.81%,5
+Finland,0.627240143369176,FI,First,Skin disease,FIN,Finland,<b>Finland</b><br/>0.63%,5
+Portugal,0.537634408602151,PT,First,Skin disease,PRT,Portugal,<b>Portugal</b><br/>0.54%,5
+Norway,0.425627240143369,NO,First,Skin disease,NOR,Norway,<b>Norway</b><br/>0.43%,5
+Singapore,0.32258064516129,SG,First,Skin disease,SGP,Singapore,<b>Singapore</b><br/>0.32%,4
+Benin,0.268817204301075,BJ,First,Skin disease,BEN,Benin,<b>Benin</b><br/>0.27%,4
+Guinea,0.268817204301075,GN,First,Skin disease,GIN,Guinea,<b>Guinea</b><br/>0.27%,4
+Ireland,0.268817204301075,IE,First,Skin disease,IRL,Ireland,<b>Ireland</b><br/>0.27%,4
+United States,30.336661546339,US,Senior,Skin disease,USA,USA,<b>United States</b><br/>30.34%,8
+United Kingdom,14.5228494623656,GB,Senior,Skin disease,GBR,UK,<b>United Kingdom</b><br/>14.52%,8
+China,12.2215821812596,CN,Senior,Skin disease,CHN,China,<b>China</b><br/>12.22%,8
+Germany,8.66935483870968,DE,Senior,Skin disease,DEU,Germany,<b>Germany</b><br/>8.67%,8
+Japan,8.46774193548387,JP,Senior,Skin disease,JPN,Japan,<b>Japan</b><br/>8.47%,8
+South Korea,4.30107526881721,KR,Senior,Skin disease,KOR,South Korea,<b>South Korea</b><br/>4.3%,8
+Australia,4.00985663082437,AU,Senior,Skin disease,AUS,Australia,<b>Australia</b><br/>4.01%,7
+Iceland,3.83064516129032,IS,Senior,Skin disease,ISL,Iceland,<b>Iceland</b><br/>3.83%,7
+Netherlands,3.31093189964158,NL,Senior,Skin disease,NLD,Netherlands,<b>Netherlands</b><br/>3.31%,7
+Spain,3.17204301075269,ES,Senior,Skin disease,ESP,Spain,<b>Spain</b><br/>3.17%,7
+France,2.28494623655914,FR,Senior,Skin disease,FRA,France,<b>France</b><br/>2.28%,7
+Canada,0.84005376344086,CA,Senior,Skin disease,CAN,Canada,<b>Canada</b><br/>0.84%,6
+Israel,0.806451612903226,IL,Senior,Skin disease,ISR,Israel,<b>Israel</b><br/>0.81%,5
+Turkey,0.716845878136201,TR,Senior,Skin disease,TUR,Turkey,<b>Turkey</b><br/>0.72%,5
+Singapore,0.560035842293907,SG,Senior,Skin disease,SGP,Singapore,<b>Singapore</b><br/>0.56%,5
+Finland,0.537634408602151,FI,Senior,Skin disease,FIN,Finland,<b>Finland</b><br/>0.54%,5
+Ireland,0.537634408602151,IE,Senior,Skin disease,IRL,Ireland,<b>Ireland</b><br/>0.54%,5
+Portugal,0.537634408602151,PT,Senior,Skin disease,PRT,Portugal,<b>Portugal</b><br/>0.54%,5
+Norway,0.17921146953405,NO,Senior,Skin disease,NOR,Norway,<b>Norway</b><br/>0.18%,4
+Sweden,0.0896057347670251,SE,Senior,Skin disease,SWE,Sweden,<b>Sweden</b><br/>0.09%,3
+United States,68.2509214447143,US,All,Substance use,USA,USA,<b>United States</b><br/>68.25%,8
+Germany,5.3229034319298,DE,All,Substance use,DEU,Germany,<b>Germany</b><br/>5.32%,8
+United Kingdom,4.51745014245014,GB,All,Substance use,GBR,UK,<b>United Kingdom</b><br/>4.52%,8
+Japan,4.24114331723027,JP,All,Substance use,JPN,Japan,<b>Japan</b><br/>4.24%,7
+Australia,3.22986272986273,AU,All,Substance use,AUS,Australia,<b>Australia</b><br/>3.23%,7
+China,2.95131257631258,CN,All,Substance use,CHN,China,<b>China</b><br/>2.95%,7
+Netherlands,1.82193990723936,NL,All,Substance use,NLD,Netherlands,<b>Netherlands</b><br/>1.82%,6
+Finland,1.68993321966468,FI,All,Substance use,FIN,Finland,<b>Finland</b><br/>1.69%,6
+Mexico,1.66666666666667,MX,All,Substance use,MEX,Mexico,<b>Mexico</b><br/>1.67%,6
+South Korea,1.66666666666667,KR,All,Substance use,KOR,South Korea,<b>South Korea</b><br/>1.67%,6
+Iceland,1.45424836601307,IS,All,Substance use,ISL,Iceland,<b>Iceland</b><br/>1.45%,6
+Italy,0.768356075373619,IT,All,Substance use,ITA,Italy,<b>Italy</b><br/>0.77%,5
+United Arab Emirates,0.75,AE,All,Substance use,ARE,United Arab Emirates,<b>United Arab Emirates</b><br/>0.75%,5
+Denmark,0.687830687830688,DK,All,Substance use,DNK,Denmark,<b>Denmark</b><br/>0.69%,5
+Turkey,0.280982905982906,TR,All,Substance use,TUR,Turkey,<b>Turkey</b><br/>0.28%,4
+Switzerland,0.257936507936508,CH,All,Substance use,CHE,Switzerland,<b>Switzerland</b><br/>0.26%,4
+Spain,0.175438596491228,ES,All,Substance use,ESP,Spain,<b>Spain</b><br/>0.18%,4
+Austria,0.087719298245614,AT,All,Substance use,AUT,Austria,<b>Austria</b><br/>0.09%,3
+Canada,0.0617283950617284,CA,All,Substance use,CAN,Canada,<b>Canada</b><br/>0.06%,3
+New Zealand,0.0584795321637427,NZ,All,Substance use,NZL,New Zealand,<b>New Zealand</b><br/>0.06%,2
+Sweden,0.0584795321637427,SE,All,Substance use,SWE,Sweden,<b>Sweden</b><br/>0.06%,2
+United States,69.4444444444445,US,First,Substance use,USA,USA,<b>United States</b><br/>69.44%,8
+United Kingdom,5,GB,First,Substance use,GBR,UK,<b>United Kingdom</b><br/>5%,8
+Germany,4.72222222222222,DE,First,Substance use,DEU,Germany,<b>Germany</b><br/>4.72%,8
+Australia,4.44444444444444,AU,First,Substance use,AUS,Australia,<b>Australia</b><br/>4.44%,8
+China,3.33333333333333,CN,First,Substance use,CHN,China,<b>China</b><br/>3.33%,7
+Japan,2.36111111111111,JP,First,Substance use,JPN,Japan,<b>Japan</b><br/>2.36%,7
+Netherlands,2.08333333333333,NL,First,Substance use,NLD,Netherlands,<b>Netherlands</b><br/>2.08%,7
+Finland,1.94444444444444,FI,First,Substance use,FIN,Finland,<b>Finland</b><br/>1.94%,6
+Iceland,1.66666666666667,IS,First,Substance use,ISL,Iceland,<b>Iceland</b><br/>1.67%,6
+Mexico,1.66666666666667,MX,First,Substance use,MEX,Mexico,<b>Mexico</b><br/>1.67%,6
+South Korea,1.66666666666667,KR,First,Substance use,KOR,South Korea,<b>South Korea</b><br/>1.67%,6
+Denmark,0.833333333333333,DK,First,Substance use,DNK,Denmark,<b>Denmark</b><br/>0.83%,5
+Italy,0.833333333333333,IT,First,Substance use,ITA,Italy,<b>Italy</b><br/>0.83%,5
+United States,67.7083333333334,US,Senior,Substance use,USA,USA,<b>United States</b><br/>67.71%,8
+Australia,5,AU,Senior,Substance use,AUS,Australia,<b>Australia</b><br/>5%,8
+Japan,4.58333333333333,JP,Senior,Substance use,JPN,Japan,<b>Japan</b><br/>4.58%,8
+Germany,4.16666666666667,DE,Senior,Substance use,DEU,Germany,<b>Germany</b><br/>4.17%,7
+United Kingdom,4.16666666666667,GB,Senior,Substance use,GBR,UK,<b>United Kingdom</b><br/>4.17%,7
+Iceland,3.33333333333333,IS,Senior,Substance use,ISL,Iceland,<b>Iceland</b><br/>3.33%,7
+China,2.5,CN,Senior,Substance use,CHN,China,<b>China</b><br/>2.5%,7
+Netherlands,1.875,NL,Senior,Substance use,NLD,Netherlands,<b>Netherlands</b><br/>1.88%,6
+Finland,1.66666666666667,FI,Senior,Substance use,FIN,Finland,<b>Finland</b><br/>1.67%,6
+Mexico,1.66666666666667,MX,Senior,Substance use,MEX,Mexico,<b>Mexico</b><br/>1.67%,6
+South Korea,1.66666666666667,KR,Senior,Substance use,KOR,South Korea,<b>South Korea</b><br/>1.67%,6
+Italy,0.833333333333333,IT,Senior,Substance use,ITA,Italy,<b>Italy</b><br/>0.83%,5
+United Arab Emirates,0.833333333333333,AE,Senior,Substance use,ARE,United Arab Emirates,<b>United Arab Emirates</b><br/>0.83%,6

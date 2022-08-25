@@ -1,0 +1,13 @@
+name: gwas_results
+title: gwas_results
+username:
+account: hugofitipaldi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4571292
+bundleId: 6206872
+url: https://hugofitipaldi.shinyapps.io/gwas_results/
+when: 1660662483.64694
+lastSyncTime: 1660662483.64695
+asMultiple: FALSE
+asStatic: FALSE
