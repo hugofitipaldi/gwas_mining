@@ -1,0 +1,39 @@
+---
+title: "affiliations_example"
+author: "Hugo Fitipaldi"
+date: '2022-05-06'
+output: html_document
+---
+
+### Retrieving country of affiliations with the affiliation toolset
+
+```{r setup, include=FALSE}
+source("affiliation_functions.R")
+#library(affiliation)
+```
+
+In order to start retrieving affiliations from studies published in PUBMED, there are two ways to load the functions that will be needed. The first is by downloading this repository and using the command 
+
+```
+source("affiliation_functions.R")
+```
+
+The other is by installing the development version of our <a href = https://github.com/hugofitipaldi/affiliation> affiliation package</a>:
+
+```
+install.packages("remotes")
+remotes::install_github("hugofitipaldi/affiliation")
+```
+
+For future reference, while the code in the `hugofitipaldi/affiliation` repository will continually evolve, the one contained here won't suffer any major changes.   
+
+#### Example (publications > 2014)
+
+```{r}
+result <- get_affiliations(27398621)
+head(result)
+```
+
+The resulting dataframe has the surname and name of each author, the predicted countries of affiliation and the original affiliation free-text string from PUBMED.
+
+#### Example (publications < 2014)
