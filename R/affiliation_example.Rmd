@@ -37,7 +37,7 @@ result <- get_affiliations(30297969)
 head(result)
 ```
 
-```{r}
+```{r warning=FALSE, message=FALSE}
 split_into_multiple <- function(column, pattern = ", ", into_prefix){
   cols <- str_split_fixed(column, pattern, n = Inf)
   cols[which(cols == "")] <- NA
@@ -54,14 +54,12 @@ result_tb <- result %>%
   mutate(author_fullname = paste0(author_firstname, " ", author_lastname)) %>%
   bind_cols(split_into_multiple(.$country_of_affiliation, "_", "country_of_affiliation")) %>% 
   # selecting those that start with 'type_' will remove the original 'type' column
-  select(c(author_fullname, affiliation_freetext), starts_with("country_of_affiliation_")) 
+  select(c(author_fullname, affiliation_freetext), starts_with("country_of_affiliation_"))  %>%
+  gather(key, country_name, -c(author_fullname, affiliation_freetext), na.rm = T)
 ```
 
 
-```{r}
-result_tb <- result_tb %>%
-  gather(key, country_name, -c(author_fullname, affiliation_freetext), na.rm = T)
-
+```{r eval = FALSE}
 # A few snippets of code that might help to find any errors 
 result_tb %>%
   filter(str_count(country_name, " ") > 2)
@@ -69,7 +67,7 @@ result_tb %>%
 result_tb[str_detect(result_tb$country_name, ", "),]
 ```
 
-```{r, fig.width=10,fig.height=11, warning=FALSE, message=FALSE}
+```{r, fig.width=10,fig.height=8, warning=FALSE, message=FALSE}
 library(ggflags)
 library(countrycode)
 library(ggplot2)

@@ -68,34 +68,17 @@ result_tb <- result %>%
   mutate(author_fullname = paste0(author_firstname, " ", author_lastname)) %>%
   bind_cols(split_into_multiple(.$country_of_affiliation, "_", "country_of_affiliation")) %>% 
   # selecting those that start with 'type_' will remove the original 'type' column
-  select(c(author_fullname, affiliation_freetext), starts_with("country_of_affiliation_")) 
+  select(c(author_fullname, affiliation_freetext), starts_with("country_of_affiliation_"))  %>%
+  gather(key, country_name, -c(author_fullname, affiliation_freetext), na.rm = T)
 ```
 
-    ## Warning: The `x` argument of `as_tibble.matrix()` must have unique column names if `.name_repair` is omitted as of tibble 2.0.0.
-    ## Using compatibility `.name_repair`.
-    ## This warning is displayed once every 8 hours.
-    ## Call `lifecycle::last_lifecycle_warnings()` to see where this warning was generated.
-
 ``` r
-result_tb <- result_tb %>%
-  gather(key, country_name, -c(author_fullname, affiliation_freetext), na.rm = T)
-
 # A few snippets of code that might help to find any errors 
 result_tb %>%
   filter(str_count(country_name, " ") > 2)
-```
 
-    ## [1] author_fullname      affiliation_freetext key                 
-    ## [4] country_name        
-    ## <0 rows> (or 0-length row.names)
-
-``` r
 result_tb[str_detect(result_tb$country_name, ", "),]
 ```
-
-    ## [1] author_fullname      affiliation_freetext key                 
-    ## [4] country_name        
-    ## <0 rows> (or 0-length row.names)
 
 ``` r
 library(ggflags)
