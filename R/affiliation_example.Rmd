@@ -67,7 +67,7 @@ result_tb %>%
 result_tb[str_detect(result_tb$country_name, ", "),]
 ```
 
-```{r, fig.width=10,fig.height=8, warning=FALSE, message=FALSE}
+```{r, fig.width=10,fig.height=6, warning=FALSE, message=FALSE}
 library(ggflags)
 library(countrycode)
 library(ggplot2)
