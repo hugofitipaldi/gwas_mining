@@ -17,6 +17,8 @@ library(jsonlite)
 detecting_country_country <- function(x) {
 
   text <- x
+  text <- gsub(' USA',' United States', text)
+  text <- gsub(' UK',' United Kingdom', text)
   text <- tolower(text)
   text <- stringi::stri_trans_general(str = text, id = "Latin-ASCII")
   text <- gsub('[[:digit:]]+', '', text)

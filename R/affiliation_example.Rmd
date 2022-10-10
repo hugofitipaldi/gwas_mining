@@ -30,10 +30,77 @@ For future reference, while the code in the `hugofitipaldi/affiliation` reposito
 #### Example (publications > 2014)
 
 ```{r}
-result <- get_affiliations(27398621)
+result <- get_affiliations(30297969)
 head(result)
+```
+
+```{r}
+split_into_multiple <- function(column, pattern = ", ", into_prefix){
+  cols <- str_split_fixed(column, pattern, n = Inf)
+  cols[which(cols == "")] <- NA
+  cols <- tibble::as_tibble(cols)
+  m <- dim(cols)[2]
+  
+  names(cols) <- paste(into_prefix, 1:m, sep = "_")
+  return(cols)
+}
+
+n_result <- nrow(result)
+
+result_tb <- result %>% 
+  mutate(author_fullname = paste0(author_firstname, " ", author_lastname)) %>%
+  bind_cols(split_into_multiple(.$country_of_affiliation, "_", "country_of_affiliation")) %>% 
+  # selecting those that start with 'type_' will remove the original 'type' column
+  select(c(author_fullname, affiliation_freetext), starts_with("country_of_affiliation_")) 
+```
+
+
+```{r}
+result_tb <- result_tb %>%
+  gather(key, country_name, -c(author_fullname, affiliation_freetext), na.rm = T)
+
+# A few snippets of code that might help to find any errors 
+result_tb %>%
+  filter(str_count(country_name, " ") > 2)
+
+result_tb[str_detect(result_tb$country_name, ", "),]
+```
+
+```{r, fig.width=10,fig.height=11, warning=FALSE, message=FALSE}
+library(ggflags)
+library(countrycode)
+library(ggplot2)
+
+freq_tbl <- result_tb %>%
+  filter(country_name != "NA") %>%
+  add_count(author_fullname, name = 'name_occurence') %>%
+  mutate(country_weighted = 1/name_occurence) %>%
+  group_by(country_name) %>%
+  dplyr::summarise(prop_country = sum(country_weighted)/n_result * 100) %>%
+  ungroup()
+
+freq_tbl$ISO2 <- countrycode(freq_tbl$country_name, origin = 'country.name', destination = 'iso2c')
+
+freq_tbl %>%
+  mutate(rank = min_rank(desc(prop_country)), Country_Rank = paste(rank, ":", country_name)) %>%
+  ggplot(aes(x = reorder(Country_Rank, prop_country), y = prop_country)) +
+  geom_bar(stat="identity", fill="dimgray") +
+  labs(title = "", subtitle = "", x = "", y = "",
+       caption = "") +
+  theme_linedraw() +
+  geom_flag(y = -1, aes(country = tolower(ISO2)), size = 7) +
+  scale_y_continuous(expand = c(0.02, 1.2)) +
+  geom_text(aes(reorder(Country_Rank, prop_country), prop_country + 1.5, label = paste0(sprintf("%2.2f", prop_country), "%")), 
+            position = position_dodge(width = 1)) + 
+  coord_flip() +
+  theme(axis.text.x= element_text(colour = "black",  size = 10),
+        axis.text.y = element_text(colour = "black",  size = 12),
+        strip.text = element_text(size = 16)) 
+
 ```
 
 The resulting dataframe has the surname and name of each author, the predicted countries of affiliation and the original affiliation free-text string from PUBMED.
 
 #### Example (publications < 2014)
+
+
