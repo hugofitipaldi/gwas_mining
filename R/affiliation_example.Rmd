@@ -2,7 +2,10 @@
 title: "affiliations_example"
 author: "Hugo Fitipaldi"
 date: '2022-05-06'
-output: html_document
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
 ---
 
 ### Retrieving country of affiliations with the affiliation toolset
