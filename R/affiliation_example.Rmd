@@ -184,7 +184,7 @@ affiliation_dict <- "1 Psychiatric and Neurodevelopmental Genetics Unit, Center 
 71 Department of Neurology, Massachusetts General Hospital, Boston, Massachusetts, USA" 
 
 dictionary_example <- auth_aff_dict(authors_names,affiliation_dict) 
-head(dictionary_df)
+head(dictionary_example)
 ```
 
 ```{r}

@@ -12,6 +12,7 @@ library(XML)
 library(easyPubMed)
 library(RCurl)
 library(jsonlite)
+library(hash)
 
 ## Auxiliary functions
 detecting_country_country <- function(x) {
