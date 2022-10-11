@@ -259,7 +259,7 @@ freq_tbl2 %>%
   theme_linedraw() +
   geom_flag(y = -1, aes(country = tolower(ISO2)), size = 7) +
   scale_y_continuous(expand = c(0.02, 1.2)) +
-  geom_text(aes(reorder(Country_Rank, prop_country), prop_country + 1.5, label = paste0(sprintf("%2.2f", prop_country), "%")), 
+  geom_text(aes(reorder(Country_Rank, prop_country), prop_country + 2.2, label = paste0(sprintf("%2.2f", prop_country), "%")), 
             position = position_dodge(width = 1)) + 
   coord_flip() +
   theme(axis.text.x= element_text(colour = "black",  size = 10),
