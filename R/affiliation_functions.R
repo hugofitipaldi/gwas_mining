@@ -301,17 +301,17 @@ get_affiliations <- function(PMID, email = NULL, format.long = FALSE) {
     }
 
     for(i in 1:nrow(data_long)) {
-      if (!is.na(data_long$Affiliation[i]) & detecting_country_country(data_long$Affiliation[i]) != ""){
+      if (data_long$Affiliation[i] == "" & !is.na(data_long$Affiliation[i]) & detecting_country_country(data_long$Affiliation[i]) != ""){
         data_long$Affiliation[i] <-  detecting_country_country(data_long$Affiliation[i])}
     }
 
     for(i in 1:nrow(data_long)) {
-      if (!is.na(data_long$Affiliation[i]) & detecting_country_university(data_long$Affiliation[i]) != ""){
+      if (data_long$Affiliation[i] == "" & !is.na(data_long$Affiliation[i]) & detecting_country_university(data_long$Affiliation[i]) != ""){
         data_long$Affiliation[i] <-  detecting_country_university(data_long$Affiliation[i])}
     }
 
     for(i in 1:nrow(data_long)) {
-      if (!is.na(data_long$Affiliation[i]) & detecting_country_state(data_long$Affiliation[i]) != ""){
+      if (data_long$Affiliation[i] == "" & !is.na(data_long$Affiliation[i]) & detecting_country_state(data_long$Affiliation[i]) != ""){
         data_long$Affiliation[i] <-  detecting_country_state(data_long$Affiliation[i])}
     }
 
@@ -344,12 +344,12 @@ get_affiliations <- function(PMID, email = NULL, format.long = FALSE) {
     }
 
     for(i in 1:nrow(data_long)) {
-      if (!is.na(data_long$Affiliation[i]) & detecting_country_university(data_long$Affiliation[i]) != ""){
+      if (data_long$Affiliation[i] == "" & !is.na(data_long$Affiliation[i]) & detecting_country_university(data_long$Affiliation[i]) != ""){
         data_long$Affiliation[i] <-  detecting_country_university(data_long$Affiliation[i])}
     }
 
     for(i in 1:nrow(data_long)) {
-      if (!is.na(data_long$Affiliation[i]) & detecting_country_state(data_long$Affiliation[i]) != ""){
+      if (data_long$Affiliation[i] == "" & !is.na(data_long$Affiliation[i]) & detecting_country_state(data_long$Affiliation[i]) != ""){
         data_long$Affiliation[i] <-  detecting_country_state(data_long$Affiliation[i])}
     }
 
@@ -374,6 +374,137 @@ get_affiliations <- function(PMID, email = NULL, format.long = FALSE) {
       return(data_long)
     }
   }
+}
+
+auth_aff_dict <- function (x,y) {
+
+  authors_name <- x
+  authors_name <- stringr::str_split(authors_name, ", ")
+  authors_df <- data.frame(authors_name)
+  names(authors_df) <- "Authors"
+  authors_df$Affiliations <- stringr::str_match_all(authors_df$Authors,"[0-9]+")
+
+  affiliation_dict <- y
+  affiliation_dict <- stringr::str_split(affiliation_dict, "[.] [0-9]")
+  affiliation_dict <- stringr::str_split(affiliation_dict, "\n[0-9]+ ")
+  affiliation_dict <- data.frame(affiliation_dict)
+  names(affiliation_dict) <- 'Affiliations'
+  affiliation_dict$Keys <- 1:nrow(affiliation_dict)
+  affiliation_dict <- affiliation_dict[,c(2,1)]
+  affiliation_dict$Affiliations <- as.character(affiliation_dict$Affiliations)
+
+
+  authors_df$Affiliations <- as.vector(authors_df$Affiliations)
+  authors_df <- tidyr::separate(authors_df, col= Affiliations, sep = ',', into = toupper(letters[1:10]))
+  authors_df[is.na(authors_df)] <- 0
+
+  authors_df$A <- as.numeric(gsub("[^0-9]", "", authors_df$A))
+  authors_df$B <- as.numeric(gsub("[^0-9]", "", authors_df$B))
+  authors_df$C <- as.numeric(gsub("[^0-9]", "", authors_df$C))
+  authors_df$D <- as.numeric(gsub("[^0-9]", "", authors_df$D))
+  authors_df$E <- as.numeric(gsub("[^0-9]", "", authors_df$E))
+  authors_df$F <- as.numeric(gsub("[^0-9]", "", authors_df$F))
+  authors_df$G <- as.numeric(gsub("[^0-9]", "", authors_df$G))
+  authors_df$H <- as.numeric(gsub("[^0-9]", "", authors_df$H))
+  authors_df$I <- as.numeric(gsub("[^0-9]", "", authors_df$I))
+  authors_df$J <- as.numeric(gsub("[^0-9]", "", authors_df$J))
+
+  authors_df_sub <- authors_df[2:ncol(authors_df)]
+  authors_df_sub <- data.frame(t(authors_df_sub))
+  authors_df_sub$ROWSUM <- rowSums(authors_df_sub)
+  authors_df_sub <- authors_df_sub[which(authors_df_sub$ROWSUM > 0),]
+  authors_df_sub$ROWSUM <- NULL
+  authors_df_sub <- data.frame(t(authors_df_sub))
+
+  authors_df <- cbind(authors_df[,1], authors_df_sub)
+
+  aff_hash <- hash::hash(keys = affiliation_dict$Keys, values = affiliation_dict$Affiliations)
+  hash::.set(aff_hash, 0, 'NA')
+  if("A" %in% colnames(authors_df)){
+    authors_df$A <- values(aff_hash, keys = authors_df$A)
+  }
+  if("B" %in% colnames(authors_df)){
+    authors_df$B <- values(aff_hash, keys = authors_df$B)
+  }
+  if("C" %in% colnames(authors_df)){
+    authors_df$C <- values(aff_hash, keys = authors_df$C)
+  }
+  if("D" %in% colnames(authors_df)){
+    authors_df$D <- values(aff_hash, keys = authors_df$D)
+  }
+  if("E" %in% colnames(authors_df)){
+    authors_df$E <- values(aff_hash, keys = authors_df$E)
+  }
+  if("F" %in% colnames(authors_df)){
+    authors_df$F <- values(aff_hash, keys = authors_df$F)
+  }
+  if("G" %in% colnames(authors_df)){
+    authors_df$G <- values(aff_hash, keys = authors_df$G)
+  }
+  if("H" %in% colnames(authors_df)){
+    authors_df$H <- values(aff_hash, keys = authors_df$H)
+  }
+  if("I" %in% colnames(authors_df)){
+    authors_df$I <- values(aff_hash, keys = authors_df$I)
+  }
+  if("J" %in% colnames(authors_df)){
+    authors_df$J <- values(aff_hash, keys = authors_df$J)
+  }
+
+  authors_df <- tidyr::unite(authors_df, col = 'Affiliations', 2:ncol(authors_df), sep = "_", remove = TRUE)
+  names(authors_df) <- c('Authors', 'Affiliations')
+  rownames(authors_df) <- 1:nrow(authors_df)
+
+  authors_df$Affiliations <- gsub("_NA", "", authors_df$Affiliations)
+  authors_df[authors_df$Affiliations == "NA",]$Affiliations <- NA
+
+  authors_df$to_delete <- "do not delete"
+  for (i in 1:nrow(authors_df)) (
+    if (is.na(authors_df$Affiliations[i]))
+      authors_df$to_delete[i + 1] <- "Delete this row"
+  )
+
+  authors_df <- authors_df %>%
+    tidyr::fill(Affiliations, .direction = "up")
+
+  authors_df <- dplyr::filter(authors_df, to_delete != "Delete this row")
+
+  authors_df$to_delete <- NULL
+
+  authors_df <- authors_df %>%
+    mutate(Affiliations = strsplit(as.character(Affiliations), "_")) %>%
+    unnest(Affiliations)
+
+  authors_df$countries_of_affiliation <- ""
+
+  for(i in 1:nrow(authors_df)) {
+    if (!is.na(authors_df$Affiliations[i]) & detecting_country_country(authors_df$Affiliations[i]) != ""){
+      authors_df$countries_of_affiliation[i] <-  detecting_country_country(authors_df$Affiliations[i])}
+  }
+
+  for(i in 1:nrow(authors_df)) {
+    if (authors_df$countries_of_affiliation[i] == "" & !is.na(authors_df$Affiliations[i]) & detecting_country_university(authors_df$Affiliations[i]) != ""){
+      authors_df$countries_of_affiliation[i] <-  detecting_country_university(authors_df$Affiliations[i])}
+  }
+
+  for(i in 1:nrow(authors_df)) {
+    if (authors_df$countries_of_affiliation[i] == "" & !is.na(authors_df$Affiliations[i]) & detecting_country_state(authors_df$Affiliations[i]) != ""){
+      authors_df$countries_of_affiliation[i] <-  detecting_country_state(authors_df$Affiliations[i])}
+  }
+
+  authors_df <- authors_df %>%
+    group_by(Authors) %>%
+    mutate(Affiliations = paste0(Affiliations, collapse = "_"), countries_of_affiliation = paste0(countries_of_affiliation, collapse = "_")) %>%
+    slice(1L)
+
+  names(authors_df) <- c("author_fullname", "affiliation_freetext", "country_of_affiliation")
+
+  authors_df$author_fullname <- gsub("[0-9]+", "", authors_df$author_fullname)
+  authors_df$author_fullname <- gsub(",", "", authors_df$author_fullname)
+
+  authors_df <- authors_df[,c(1,3,2)]
+
+  return(authors_df)
 }
 
 
