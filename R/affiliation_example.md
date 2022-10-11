@@ -118,11 +118,22 @@ The resulting dataframe has the surname and name of each author, the
 predicted countries of affiliation and the original affiliation
 free-text string from PUBMED.
 
-#### Example (publications \< 2014)
+#### Example (publications \< 2014 & studies with non-indexed affiliations \> 2014)
+
+For studies before 2014 (PubMed did not include all author affiliation
+information in their metadata) and for a few studies \> 2014 with
+non-indexed affiliations, the above function won’t work properly. The
+following wrapper text-mining function attempts to fill this gap
+extracting information using the standard author/affiliation PMC PubMed
+Central notation.
+
+Authors’ names followed by numbers of affiliation and the numbered list
+of affiliation must be stored in two separate objects as follow:
 
 ``` r
 authors_names <- "Dongmei Yu,1,2 Jae Hoon Sul,3,4 Fotis Tsetsos,5,6 Muhammad S. Nawaz,7 Alden Y. Huang,3,4,8 Ivette Zelaya,3,4,8 Cornelia Illmann,1 Lisa Osiecki,1 Sabrina M. Darrow,9 Matthew E. Hirschtritt,10 Erica Greenberg,11 Kirsten R. Muller-Vahl,12 Manfred Stuhrmann,13 Yves Dion,14 Guy Rouleau,15 Harald Aschauer,16,17 Mara Stamenkovic,16 Monika Schlögelhofer, MA,17 Paul Sandor,18 Cathy L. Barr,19 Marco Grados,20 Harvey S. Singer,20 Markus M. Nöthen,21 Johannes Hebebrand,22 Anke Hinney,22 Robert A. King,23,24 Thomas V. Fernandez,23,24 Csaba Barta,25 Zsanett Tarnok,26 Peter Nagy,26 Christel Depienne,27,28 Yulia Worbe,28,29,30 Andreas Hartmann,28,29,30 Cathy L. Budman,31 Renata Rizzo,32 Gholson J. Lyon,33 William M. McMahon,34 James R. Batterson,35 Danielle C. Cath,36,37 Irene A. Malaty,38 Michael S. Okun,38 Cheston Berlin,39 Douglas W. Woods,40,41 Paul C. Lee,42 Joseph Jankovic,43 Mary M. Robertson,44 Donald L. Gilbert,45 Lawrence W. Brown,46 Barbara J. Coffey,47 Andrea Dietrich,48 Pieter J. Hoekstra,48 Samuel Kuperman,49 Samuel H Zinner,50 Pétur Luðvigsson,51 Evald Sæmundsen,52,53 Ólafur Thorarensen,51 Gil Atzmon,54,55,56 Nir Barzilai,54,55 Michael Wagner,57 Rainald Moessner,58 Roel Ophoff,3 Carlos N. Pato,59 Michele T. Pato,59 James A Knowles,59 Joshua L. Roffman,11,60 Jordan W. Smoller, ScD,1,61 Randy L. Buckner,11,60,62,63 Jeremy A. Willsey,10,64 Jay A. Tischfield,65 Gary A. Heiman,65 Hreinn Stefansson,7 Kári Stefansson,7,52 Danielle Posthuma,66 Nancy J. Cox,67 David L. Pauls,1 Nelson B. Freimer,3,4 Benjamin M. Neale,1,2,68 Lea K. Davis,67 Peristera Paschou,6 Giovanni Coppola,3,4 Carol A. Mathews,69 Jeremiah M. Scharf,1,2,70,71"
 
+# Some cleaning
 authors_names <- gsub("([0-9]|[1-9][0-9]|1[0-9][0-9]|2[0-9][0-9])","\\1,",authors_names)
 authors_names <- gsub(",",",",authors_names)
 
@@ -198,7 +209,12 @@ affiliation_dict <- "1 Psychiatric and Neurodevelopmental Genetics Unit, Center 
 69 Department of Psychiatry, Genetics Institute, University of Florida, Gainesville, Florida, USA
 70 Department of Neurology, Brigham and Women’s Hospital, Boston, Massachusetts, USA
 71 Department of Neurology, Massachusetts General Hospital, Boston, Massachusetts, USA" 
+```
 
+Next, the objects are used as parameters in the function
+`auth_aff_dict`:
+
+``` r
 dictionary_example <- auth_aff_dict(authors_names,affiliation_dict) 
 head(dictionary_example)
 ```
@@ -213,6 +229,14 @@ head(dictionary_example)
     ## 4 Anke Hinney       Germany                                   Department of Chi…
     ## 5 Barbara J. Coffey United States                             Department of Psy…
     ## 6 Benjamin M. Neale United States_United States_United States 1 Psychiatric and…
+
+Free-text affiliations and identified country of affiliation are
+separated by underscores. Each affiliation line pertains to one
+geographical location 9one country of affiliation), but a dual result
+can be yielded by the function due to similar country names and/or
+university names. This error can be easily diagnosed and corrected by
+the following few lines of code (it will be later introduced inside the
+function definition in the development package `affiliation`):
 
 ``` r
 # identifying issues (misclassification)
@@ -267,4 +291,4 @@ freq_tbl2 %>%
         strip.text = element_text(size = 16)) 
 ```
 
-![](affiliation_example_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->
+![](affiliation_example_files/figure-gfm/unnamed-chunk-8-1.png)<!-- -->
