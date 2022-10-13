@@ -20,6 +20,7 @@ detecting_country_country <- function(x) {
   text <- x
   text <- gsub(' USA',' United States', text)
   text <- gsub(' UK',' United Kingdom', text)
+  text <- gsub(' U.K.',' United Kingdom', text)
   text <- tolower(text)
   text <- stringi::stri_trans_general(str = text, id = "Latin-ASCII")
   text <- gsub('[[:digit:]]+', '', text)
@@ -350,7 +351,8 @@ get_affiliations <- function(PMID, email = NULL, format.long = FALSE) {
     }
 
     for(i in 1:nrow(data_long)) {
-      if (data_long$Affiliation[i] == "" & !is.na(data_long$Affiliation[i]) & detecting_country_state(data_long$Affiliation[i]) != ""){
+      if ((data_long$Affiliation[i] == "" | str_detect(data_long$Affiliation[i], ", ")) & !is.na(data_long$Affiliation[i]) & detecting_country_state(replace_us_state(data_long$Affiliation[i])) != ""){
+        data_long$Affiliation[i] <- replace_us_state(data_long$Affiliation[i])
         data_long$Affiliation[i] <-  detecting_country_state(data_long$Affiliation[i])}
     }
 
