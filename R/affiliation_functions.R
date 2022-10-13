@@ -476,6 +476,9 @@ auth_aff_dict <- function (x,y) {
 
   authors_df$to_delete <- NULL
 
+  Position <- 1:nrow(authors_df)
+  authors_df <- cbind(Position, authors_df)
+
   authors_df <- authors_df %>%
     mutate(Affiliations = strsplit(as.character(Affiliations), "_")) %>%
     unnest(Affiliations)
@@ -500,7 +503,10 @@ auth_aff_dict <- function (x,y) {
   authors_df <- authors_df %>%
     group_by(Authors) %>%
     mutate(Affiliations = paste0(Affiliations, collapse = "_"), countries_of_affiliation = paste0(countries_of_affiliation, collapse = "_")) %>%
-    slice(1L)
+    slice(1L) %>%
+    arrange(Position)
+
+  authors_df$Position <- NULL
 
   names(authors_df) <- c("author_fullname", "affiliation_freetext", "country_of_affiliation")
 
