@@ -457,7 +457,11 @@ auth_aff_dict <- function (x,y) {
   rownames(authors_df) <- 1:nrow(authors_df)
 
   authors_df$Affiliations <- gsub("_NA", "", authors_df$Affiliations)
-  authors_df[authors_df$Affiliations == "NA",]$Affiliations <- NA
+
+  for (i in 1:nrow(authors_df)) (
+    if (authors_df$Affiliations[i] == "NA")
+      authors_df$Affiliations[i] <- NA
+  )
 
   authors_df$to_delete <- "do not delete"
   for (i in 1:nrow(authors_df)) (
