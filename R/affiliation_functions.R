@@ -382,6 +382,8 @@ get_affiliations <- function(PMID, email = NULL, format.long = FALSE) {
 auth_aff_dict <- function (x,y) {
 
   authors_name <- x
+  authors_name <- gsub("([0-9]|[1-9][0-9]|1[0-9][0-9]|2[0-9][0-9])","\\1,",authors_name)
+  authors_name <- gsub(",,",",",authors_name)
   authors_name <- stringr::str_split(authors_name, ", ")
   authors_df <- data.frame(authors_name)
   names(authors_df) <- "Authors"
