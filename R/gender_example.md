@@ -119,3 +119,38 @@ genderize_pred %>%
     ## 10          Seamus         GB   male        1.00
     ## 11             Amy         GB female        1.00
     ## 12       Alexander         GB   male        1.00
+
+### Plots
+
+``` r
+library(ggplot2)
+
+genderAPI <- gender_pred %>%
+  group_by(gender) %>%
+  tally(name = "count_authors") %>%
+  ungroup() %>%
+  mutate(total_authors = sum(count_authors), prop_gender = count_authors/total_authors, plataform = "genderAPI") 
+
+genderizeio <- genderize_pred %>%
+  group_by(gender) %>%
+  tally(name = "count_authors") %>%
+  ungroup() %>%
+  mutate(total_authors = sum(count_authors), prop_gender = count_authors/total_authors, gender =  ifelse(gender == "", "Unknown", gender), plataform = "genderize.io")
+
+gender_df <- rbind(genderAPI, genderizeio)
+
+gender_df %>% 
+  ggplot(aes(x = reorder(gender, desc(prop_gender)), y =  prop_gender, fill = gender)) +
+  geom_bar(stat = "identity", position = position_dodge(), color = "black") +
+  labs(x = "", fill = "", color = "", y = "", title = '') +
+  scale_y_continuous(labels = function(x) paste0(x*100, "%")) +
+  theme_bw() +
+  theme(plot.title = element_text(size = 16),
+        legend.position = "bottom") +
+  geom_text(aes(x = reorder(gender, desc(prop_gender)), y =  prop_gender + 0.02, label = paste0(sprintf("%2.2f", prop_gender * 100), "%")), 
+            position = position_dodge(width = 1), size = 3) +
+  scale_fill_brewer(palette="Dark2") +
+  facet_wrap(~plataform)
+```
+
+![](gender_example_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->

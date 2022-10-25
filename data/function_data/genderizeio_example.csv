@@ -1,0 +1,13 @@
+name,country_id,gender,probability
+Andrew,CA,male,1
+Sareh,CA,,0
+Tarun,DK,male,1
+Peter,DK,male,1
+Romain,FR,male,0.99
+David-Alexandre,FR,male,1
+Beata,FR,female,0.99
+Michel,FR,male,0.98
+Samy,FR,male,0.96
+Seamus,GB,male,1
+Amy,GB,female,1
+Alexander,GB,male,1
