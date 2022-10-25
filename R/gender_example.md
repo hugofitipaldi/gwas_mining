@@ -10,7 +10,8 @@ API](https://gender-api.com/) and [Genderize](https://genderize.io/).
 
 ``` r
 myKey = "YOUR_GENDERAPI_KEY_HERE"
-country_codes <- rio::import("../data/function_data/countries_genderAPI.csv")
+# Loading Gender API list of calid country codes (retrieved from Gender API docs)
+country_codes <- rio::import("../data/function_data/countries_genderAPI.csv") 
 head(country_codes)
 ```
 
@@ -23,8 +24,10 @@ head(country_codes)
     ## 6           DE       Germany
 
 ``` r
+# Load PubMed metadata example using affiliation package/functions
 result <- get_affiliations(29695241)
 
+# Cleaning authors' names
 authors_df <- result %>%
   mutate(first_affiliation  = str_split(country_of_affiliation, "\\_", simplify=T)[,1]) %>%
   select(author_lastname, author_firstname, first_affiliation)
@@ -47,6 +50,8 @@ head(authors_df)
     ## 6            France        Trégouët  David-Alexandre           FR
 
 ``` r
+# Looping over the authors' names
+
 # Initialize an empty data frame
 gender_pred <- data.frame()
 
@@ -78,8 +83,9 @@ head(gender_pred)
 
 ## Genderize
 
-`GenderGuesser` is an R package for using the genderize.io API created
-and maintained by Eamon Caddigan. More info about it
+There are different packages in R to work with Genderize API. Here, we
+used `GenderGuesser`, created and maintained by Eamon Caddigan. More
+info about it
 [here](https://git.eamoncaddigan.net/GenderGuesser/log.html).
 
 ``` r

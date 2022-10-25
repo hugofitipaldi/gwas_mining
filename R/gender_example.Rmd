@@ -13,6 +13,7 @@ To reproduce this code, you'll need to get API keys for [Gender API](https://gen
 
 ```{r setup, include=FALSE}
 source("genderAPI_function.R")
+source("affiliation_functions.R")
 #library(genderAPI)
 library(dplyr)
 library(affiliation)
@@ -23,13 +24,17 @@ library(tibble)
 
 ```{r}
 myKey = "YOUR_GENDERAPI_KEY_HERE"
-country_codes <- rio::import("../data/function_data/countries_genderAPI.csv")
+# Loading Gender API list of calid country codes (retrieved from Gender API docs)
+country_codes <- rio::import("../data/function_data/countries_genderAPI.csv") 
 head(country_codes)
 ```
 
+
 ```{r}
+# Load PubMed metadata example using affiliation package/functions
 result <- get_affiliations(29695241)
 
+# Cleaning authors' names
 authors_df <- result %>%
   mutate(first_affiliation  = str_split(country_of_affiliation, "\\_", simplify=T)[,1]) %>%
   select(author_lastname, author_firstname, first_affiliation)
@@ -44,6 +49,8 @@ head(authors_df)
 ```
 
 ```{r warning=FALSE, message=FALSE, eval = FALSE}
+# Looping over the authors' names
+
 # Initialize an empty data frame
 gender_pred <- data.frame()
 
@@ -65,7 +72,6 @@ for (i in 1:nrow(authors_df)) {
 head(gender_pred)
 ```
 
-
 ```
 ##        first_name  last_name country gender accuracy
 ## 1          Andrew   Paterson      CA   male      100
@@ -78,7 +84,7 @@ head(gender_pred)
 
 ## Genderize
 
-`GenderGuesser` is an R package for using the genderize.io API created and maintained by Eamon Caddigan. More info about it [here](https://git.eamoncaddigan.net/GenderGuesser/log.html).
+There are different packages in R to work with Genderize API. Here, we used `GenderGuesser`, created and maintained by Eamon Caddigan. More info about it [here](https://git.eamoncaddigan.net/GenderGuesser/log.html).
 
 ```{r}
 library(GenderGuesser)
@@ -130,7 +136,7 @@ gender_pred <- rio::import("../data/function_data/genderAPI_example.csv")
 genderize_pred <- rio::import("../data/function_data/genderizeio_example.csv")
 ```
 
-```{r}
+```{r warning=FALSE, message=FALSE}
 library(ggplot2)
 
 genderAPI <- gender_pred %>%
