@@ -1,0 +1,72 @@
+Hugo Fitipaldi
+2022-05-22
+
+### GenderAPI
+
+``` r
+myKey = "YOUR_GENDERAPI_KEY_HERE"
+country_codes <- rio::import("../data/function_data/countries_genderAPI.csv")
+head(country_codes)
+```
+
+    ##   country_code  country_name
+    ## 1           US United States
+    ## 2           BE       Belgium
+    ## 3           ES         Spain
+    ## 4           BH       Bahrain
+    ## 5           FR        France
+    ## 6           DE       Germany
+
+``` r
+result <- get_affiliations(29695241)
+
+authors_df <- result %>%
+  mutate(first_affiliation  = str_split(country_of_affiliation, "\\_", simplify=T)[,1]) %>%
+  select(author_lastname, author_firstname, first_affiliation)
+
+authors_df$author_firstname <- gsub("\\W*\\b\\w\\b\\W*", " ", authors_df$author_firstname) # Removes abbreviation names
+authors_df$author_firstname <- gsub("^\\s+", "", authors_df$author_firstname) # removes leading white space
+authors_df$author_firstname <- gsub("^(.*?)\\s.*", "\\1", authors_df$author_firstname) # keeps first name
+
+authors_df <- merge(authors_df, country_codes, by.x="first_affiliation", by.y = "country_name", all.x = TRUE)
+
+head(authors_df)
+```
+
+    ##   first_affiliation author_lastname author_firstname country_code
+    ## 1            Canada        Paterson           Andrew           CA
+    ## 2            Canada      Keshavarzi            Sareh           CA
+    ## 3           Denmark       Ahluwalia            Tarun           DK
+    ## 4           Denmark         Rossing            Peter           DK
+    ## 5            France         Charmet           Romain           FR
+    ## 6            France        Trégouët  David-Alexandre           FR
+
+``` r
+# Initialize an empty data frame
+gender_pred <- data.frame()
+
+# Loop and fill the table
+for (i in 1:nrow(authors_df)) {
+  tryCatch({
+    if (authors_df$first_affiliation[i] != ""){
+      
+      # Save result
+      result <- genderAPI::get_gender(name = authors_df$author_firstname[i], authors_df$country_code[i], api_key = myKey, last_name = authors_df$author_lastname[i])
+      
+      # Append to the existing table
+      gender_pred <- rbind(gender_pred, result)
+    }
+    Sys.sleep(1/100)
+  },error=function(e){cat("ERROR :",conditionMessage(e),"\n")})
+}
+
+head(gender_pred)
+```
+
+    ##        first_name  last_name country gender accuracy
+    ## 1          Andrew   Paterson      CA   male      100
+    ## 2           Sareh Keshavarzi      CA female      100
+    ## 3           Tarun  Ahluwalia      DK   male      100
+    ## 4           Peter    Rossing      DK   male       99
+    ## 5          Romain    Charmet      FR   male       99
+    ## 6 David-Alexandre   Trégouët      FR   male      100
