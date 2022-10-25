@@ -1,6 +1,8 @@
 Hugo Fitipaldi
 2022-05-22
 
+-   <a href="#genderizeio" id="toc-genderizeio">genderize.io</a>
+
 ### GenderAPI
 
 ``` r
@@ -51,7 +53,7 @@ for (i in 1:nrow(authors_df)) {
     if (authors_df$first_affiliation[i] != ""){
       
       # Save result
-      result <- genderAPI::get_gender(name = authors_df$author_firstname[i], authors_df$country_code[i], api_key = myKey, last_name = authors_df$author_lastname[i])
+      result <- get_gender(name = authors_df$author_firstname[i], authors_df$country_code[i], api_key = myKey, last_name = authors_df$author_lastname[i])
       
       # Append to the existing table
       gender_pred <- rbind(gender_pred, result)
@@ -70,3 +72,46 @@ head(gender_pred)
     ## 4           Peter    Rossing      DK   male       99
     ## 5          Romain    Charmet      FR   male       99
     ## 6 David-Alexandre   Trégouët      FR   male      100
+
+## genderize.io
+
+``` r
+library(GenderGuesser)
+genderizeKey <- "YOUR_GENDERIZEAPI_KEY_HERE"
+```
+
+``` r
+# Initialize an empty data frame
+genderize_pred <- data.frame()
+# Loop and fill the table
+for (i in 1:nrow(authors_df)) {
+  tryCatch({
+    if (authors_df$author_firstname[i] != ""){
+      
+      # Save result
+      result <- GenderGuesser::guessGender(nameVector = authors_df$author_firstname[i], countryCode = authors_df$country_code[i], apiKey = genderizeKey)
+      
+      # Append to the existing table
+      genderize_pred <- rbind(genderize_pred, result)
+    }
+    Sys.sleep(1/100)
+  },error=function(e){cat("ERROR :",conditionMessage(e),"\n")})
+}
+
+genderize_pred %>%
+  select(name, country_id, gender, probability)
+```
+
+    ##               name country_id gender probability
+    ## 1           Andrew         CA   male        1.00
+    ## 2            Sareh         CA   <NA>        0.00
+    ## 3            Tarun         DK   male        1.00
+    ## 4            Peter         DK   male        1.00
+    ## 5           Romain         FR   male        0.99
+    ## 6  David-Alexandre         FR   male        1.00
+    ## 7            Beata         FR female        0.99
+    ## 8           Michel         FR   male        0.98
+    ## 9             Samy         FR   male        0.96
+    ## 10          Seamus         GB   male        1.00
+    ## 11             Amy         GB female        1.00
+    ## 12       Alexander         GB   male        1.00
