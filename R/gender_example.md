@@ -1,9 +1,12 @@
 Hugo Fitipaldi
 2022-05-22
 
--   <a href="#genderizeio" id="toc-genderizeio">genderize.io</a>
+-   <a href="#genderize" id="toc-genderize">Genderize</a>
 
-### GenderAPI
+To reproduce this code, you’ll need to get API keys for [Gender
+API](https://gender-api.com/) and [Genderize](https://genderize.io/).
+
+### Gender API
 
 ``` r
 myKey = "YOUR_GENDERAPI_KEY_HERE"
@@ -73,7 +76,7 @@ head(gender_pred)
     ## 5          Romain    Charmet      FR   male       99
     ## 6 David-Alexandre   Trégouët      FR   male      100
 
-## genderize.io
+## Genderize
 
 `GenderGuesser` is an R package for using the genderize.io API created
 and maintained by Eamon Caddigan. More info about it
@@ -129,13 +132,13 @@ genderAPI <- gender_pred %>%
   group_by(gender) %>%
   tally(name = "count_authors") %>%
   ungroup() %>%
-  mutate(total_authors = sum(count_authors), prop_gender = count_authors/total_authors, plataform = "genderAPI") 
+  mutate(total_authors = sum(count_authors), prop_gender = count_authors/total_authors, plataform = "Gender API") 
 
 genderizeio <- genderize_pred %>%
   group_by(gender) %>%
   tally(name = "count_authors") %>%
   ungroup() %>%
-  mutate(total_authors = sum(count_authors), prop_gender = count_authors/total_authors, gender =  ifelse(gender == "", "Unknown", gender), plataform = "genderize.io")
+  mutate(total_authors = sum(count_authors), prop_gender = count_authors/total_authors, gender =  ifelse(gender == "", "Unknown", gender), plataform = "Genderize")
 
 gender_df <- rbind(genderAPI, genderizeio)
 
