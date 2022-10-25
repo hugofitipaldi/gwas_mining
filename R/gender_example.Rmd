@@ -76,6 +76,8 @@ head(gender_pred)
 
 ## genderize.io
 
+`GenderGuesser` is an R package for using the genderize.io API created and maintained by Eamon Caddigan. More info about it [here](https://git.eamoncaddigan.net/GenderGuesser/log.html).
+
 ```{r}
 library(GenderGuesser)
 genderizeKey <- "YOUR_GENDERIZEAPI_KEY_HERE"
